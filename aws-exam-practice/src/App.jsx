@@ -2,8 +2,9 @@ import { useState, useCallback, useEffect } from 'react'
 import Home from './components/Home'
 import Quiz from './components/Quiz'
 import Results from './components/Results'
+import History from './components/History'
 import { questions } from './data/questions'
-import { saveSession, loadSession, clearSession } from './hooks/useQuizSession'
+import { saveSession, loadSession, clearSession, saveHistory, loadHistory } from './hooks/useQuizSession'
 import './App.css'
 
 // Build a lookup map once so restoring a session is O(1) per question
@@ -27,11 +28,13 @@ export default function App() {
   const [savedSession, setSavedSession] = useState(null)
   // resumeState: parsed state handed to Quiz for in-flight resume
   const [resumeState, setResumeState] = useState(null)
+  const [history, setHistory] = useState([])
 
-  // Load any saved session on mount
+  // Load any saved session + history on mount
   useEffect(() => {
     const s = loadSession()
     if (s) setSavedSession(s)
+    setHistory(loadHistory())
   }, [])
 
   /** Start a brand-new quiz, overwriting any previous session. */
@@ -81,13 +84,27 @@ export default function App() {
     setSavedSession(null)
   }, [])
 
-  /** Quiz finished — store final answers and go to results. */
-  const finishQuiz = useCallback((answers) => {
+  /** Quiz finished — store final answers, append to history, go to results. */
+  const finishQuiz = useCallback((answers, title) => {
     clearSession()
     setSavedSession(null)
     setUserAnswers(answers)
+    const correct = answers.filter(a => a.correct).length
+    const total   = answers.length
+    const pct     = total > 0 ? Math.round((correct / total) * 100) : 0
+    const record = {
+      id: Date.now(),
+      title: title ?? quizTitle,
+      total,
+      correct,
+      pct,
+      passed: pct >= 70,
+      completedAt: Date.now(),
+    }
+    saveHistory(record)
+    setHistory(loadHistory())
     setView('results')
-  }, [])
+  }, [quizTitle])
 
   /** Go back to Home. */
   const restart = useCallback(() => {
@@ -97,6 +114,17 @@ export default function App() {
     setQuizQuestions([])
     setUserAnswers([])
     setView('home')
+  }, [])
+
+  /** Open history view. */
+  const openHistory = useCallback(() => {
+    setHistory(loadHistory())
+    setView('history')
+  }, [])
+
+  /** Called when user clears all history. */
+  const handleHistoryCleared = useCallback(() => {
+    setHistory([])
   }, [])
 
   /** Retry only the questions the user got wrong. */
@@ -114,6 +142,15 @@ export default function App() {
           savedSession={savedSession}
           onResume={resumeQuiz}
           onDismissSession={dismissSession}
+          onHistory={openHistory}
+          historyCount={history.length}
+        />
+      )}
+      {view === 'history' && (
+        <History
+          history={history}
+          onBack={restart}
+          onClear={handleHistoryCleared}
         />
       )}
       {view === 'quiz' && (

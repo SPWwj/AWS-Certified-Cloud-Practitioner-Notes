@@ -9,7 +9,7 @@ const MODES = [
   { id: 'half',  label: 'Half Exam',     desc: '32 random questions, roughly half a real exam' },
 ]
 
-export default function Home({ onStart, savedSession, onResume, onDismissSession }) {
+export default function Home({ onStart, savedSession, onResume, onDismissSession, onHistory, historyCount }) {
   const [mode, setMode] = useState('all')
   const [selectedExam, setSelectedExam] = useState(1)
 
@@ -31,7 +31,13 @@ export default function Home({ onStart, savedSession, onResume, onDismissSession
   return (
     <div className="home">
       <div className="home-hero">
-        <h1>AWS CCP Practice</h1>
+        <div className="home-hero-top">
+          <div />
+          <h1>AWS CCP Practice</h1>
+          <button className="btn-history" onClick={onHistory}>
+            📋 History{historyCount > 0 ? ` (${historyCount})` : ''}
+          </button>
+        </div>
         <p>Cloud Practitioner exam prep — 1 142 questions across 23 exams</p>
         <div className="home-hero-stats">
           <span className="hero-stat"><strong>{questions.length}</strong> Questions</span>

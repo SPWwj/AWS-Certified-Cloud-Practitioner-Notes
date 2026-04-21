@@ -47,7 +47,7 @@ export default function Quiz({ questions, title, resumeState, onFinish, onQuit }
       q.answers.every(a => selected.includes(a))
     const newAnswers = [...answers, { selected: [...selected], correct }]
     if (index + 1 >= questions.length) {
-      onFinish(newAnswers)
+      onFinish(newAnswers, title)
     } else {
       setAnswers(newAnswers)
       setIndex(index + 1)

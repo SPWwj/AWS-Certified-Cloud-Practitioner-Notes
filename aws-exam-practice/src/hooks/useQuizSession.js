@@ -1,4 +1,48 @@
 const SESSION_KEY = 'aws-ccp-quiz-session'
+const HISTORY_KEY = 'aws-ccp-quiz-history'
+const HISTORY_MAX = 50 // keep latest N records
+
+/**
+ * History record schema:
+ * {
+ *   id: number,          // Date.now() at completion
+ *   title: string,
+ *   total: number,
+ *   correct: number,
+ *   pct: number,
+ *   passed: boolean,
+ *   completedAt: number, // same as id
+ * }
+ */
+
+export function saveHistory(record) {
+  try {
+    const existing = loadHistory()
+    const updated = [record, ...existing].slice(0, HISTORY_MAX)
+    localStorage.setItem(HISTORY_KEY, JSON.stringify(updated))
+  } catch {
+    // ignore
+  }
+}
+
+export function loadHistory() {
+  try {
+    const raw = localStorage.getItem(HISTORY_KEY)
+    if (!raw) return []
+    const parsed = JSON.parse(raw)
+    return Array.isArray(parsed) ? parsed : []
+  } catch {
+    return []
+  }
+}
+
+export function clearHistory() {
+  try {
+    localStorage.removeItem(HISTORY_KEY)
+  } catch {
+    // ignore
+  }
+}
 
 /**
  * Session schema v1:
