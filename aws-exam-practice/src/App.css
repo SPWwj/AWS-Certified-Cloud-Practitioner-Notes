@@ -379,3 +379,139 @@
 
 /* score-ring wrapper (added) */
 .score-ring-wrapper { display: flex; justify-content: center; margin-bottom: 20px; }
+
+/* ── Class-name aliases (JSX uses these names) ───────────────────────────── */
+
+/* Prism stripes on quiz card and results hero */
+.question-card-prism,
+.results-hero-prism {
+  height: 3px;
+  background: linear-gradient(90deg,#ef4444 0%,#f97316 17%,#eab308 34%,#22c55e 51%,#3b82f6 68%,#8b5cf6 100%);
+}
+
+/* Resume-banner inner elements */
+.resume-banner-icon  { font-size: 1.8rem; flex-shrink: 0; }
+.resume-banner-info  { flex: 1; min-width: 0; }
+.resume-banner-title { font-size: .9rem; font-weight: 700; color: var(--text); margin-bottom: 4px; }
+.resume-banner-sub   {
+  display: flex; flex-wrap: wrap; gap: 6px; align-items: center;
+  font-size: .75rem; color: var(--text-muted);
+}
+.resume-banner-actions { display: flex; gap: 8px; flex-shrink: 0; flex-wrap: wrap; }
+
+/* Hero stats row */
+.home-hero-stats { display: flex; justify-content: center; gap: 10px; margin-top: 14px; flex-wrap: wrap; }
+
+/* Review result badge */
+.r-result-badge {
+  font-size: .69rem; font-weight: 700;
+  padding: 2px 8px; border-radius: var(--radius-pill); border: 1px solid;
+}
+.r-result-badge.correct { background: var(--green-light); color: #15803d; border-color: var(--green-border); }
+.r-result-badge.wrong   { background: var(--red-light);   color: #b91c1c; border-color: var(--red-border); }
+
+/* Exam picker label */
+.exam-picker-label {
+  font-size: .72rem; font-weight: 700; color: var(--text-muted);
+  text-transform: uppercase; letter-spacing: .06em;
+  margin-bottom: 12px;
+}
+
+/* ── Mobile-first responsive overrides ──────────────────────────────────────
+   Breakpoints:
+     ≤ 480px  = most phones (portrait)
+     481–640px = large phones / small tablets
+   ──────────────────────────────────────────────────────────────────────── */
+
+@media (max-width: 480px) {
+  /* ── Global ── */
+  .app { padding: 10px 10px 56px; }
+
+  /* ── Home ── */
+  .home { padding-top: 12px; }
+  .home-hero { padding: 18px 0 16px; }
+  .home-hero p { font-size: .88rem; }
+
+  /* Mode grid — 2 compact columns on narrow phones */
+  .mode-grid { grid-template-columns: 1fr 1fr; gap: 8px; margin-bottom: 16px; }
+  .mode-card { padding: 14px 12px; }
+  .mode-desc { font-size: .70rem; }
+
+  /* Resume banner — stack vertically */
+  .resume-banner { flex-wrap: wrap; padding: 14px; }
+  .resume-banner-info { width: 100%; flex-basis: 100%; min-width: 0; }
+  .resume-banner-icon { display: none; } /* hide emoji on very tight layouts */
+  .resume-banner-actions { width: 100%; justify-content: stretch; }
+  .btn-resume, .btn-dismiss { flex: 1; text-align: center; }
+
+  /* Exam grid - slightly smaller buttons */
+  .exam-btn { width: 46px; font-size: .80rem; }
+
+  /* ── Quiz ── */
+  .quiz-page { padding-top: 4px; }
+
+  /* Header — allow wrapping on narrow screen */
+  .quiz-header { flex-wrap: wrap; padding: 10px 12px; gap: 6px; }
+  .quiz-title { font-size: .88rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 180px; }
+  .quiz-counter { font-size: .70rem; }
+  .quiz-score-pill { font-size: .70rem; padding: 3px 9px; }
+  .quit-btn { font-size: .76rem; padding: 4px 10px; }
+
+  /* Question card — tighter padding */
+  .question-card-body { padding: 14px 12px 16px; }
+  .question-text { font-size: .93rem; margin-bottom: 16px; }
+
+  /* Options — tighter, easier to tap */
+  .options-list { gap: 7px; }
+  .option { padding: 12px 12px; font-size: .88rem; gap: 9px; }
+  /* Disable hover slide on touch devices */
+  .option:not(:disabled):hover { transform: none; }
+
+  /* Feedback */
+  .feedback { padding: 12px 12px; gap: 8px; }
+
+  /* Action buttons — full width */
+  .quiz-actions { justify-content: stretch; margin-top: 16px; padding-top: 14px; }
+  .btn-check,
+  .btn-next {
+    width: 100%;
+    padding: 13px 16px;
+    text-align: center;
+  }
+
+  /* ── Results ── */
+  .results-page { padding-top: 4px; }
+  .results-hero-body { padding: 18px 14px 16px; }
+  .results-headline { font-size: 1.2rem; }
+  .results-subtitle { font-size: .82rem; margin-bottom: 16px; }
+
+  /* Stat pills — tighter */
+  .stat-row { gap: 8px; margin-bottom: 18px; }
+  .stat-pill { padding: 10px 14px; min-width: 72px; }
+  .stat-pill-num { font-size: 1.35rem; }
+
+  /* Results action buttons — stack full width */
+  .results-actions { flex-direction: column; align-items: stretch; gap: 8px; }
+  .btn-home,
+  .btn-retry-wrong,
+  .btn-review { width: 100%; padding: 13px 16px; text-align: center; }
+
+  /* Review filters wrap */
+  .review-filters { gap: 6px; }
+  .filter-btn { padding: 6px 14px; font-size: .78rem; }
+
+  /* Review item */
+  .review-item { padding: 14px 14px; }
+  .r-question { font-size: .85rem; }
+  .r-opt { font-size: .80rem; padding: 6px 10px; }
+}
+
+/* ── Large phones / small tablets  (481 – 640 px) ── */
+@media (min-width: 481px) and (max-width: 640px) {
+  .app { padding: 14px 14px 60px; }
+  .question-card-body { padding: 18px 18px; }
+  .quiz-actions { justify-content: stretch; }
+  .btn-check, .btn-next { width: 100%; }
+  .results-actions { flex-direction: column; align-items: stretch; }
+  .btn-home, .btn-retry-wrong, .btn-review { width: 100%; }
+}
