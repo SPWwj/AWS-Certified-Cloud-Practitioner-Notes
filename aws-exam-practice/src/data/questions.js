@@ -472,7 +472,7 @@ export const questions = [
     "options": [
       {
         "key": "A",
-        "text": "AWS services’ costs will be reduced to half the original price."
+        "text": "AWS services costs will be reduced to half the original price."
       },
       {
         "key": "B",
