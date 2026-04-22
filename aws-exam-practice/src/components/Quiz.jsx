@@ -41,6 +41,15 @@ export default function Quiz({ questions, title, resumeState, onFinish, onQuit }
     setRevealed(true)
   }
 
+  function handleBack() {
+    if (index === 0) return
+    const prevAnswer = answers[index - 1]
+    setAnswers(prev => prev.slice(0, -1))
+    setIndex(index - 1)
+    setSelected(prevAnswer.selected)
+    setRevealed(true)
+  }
+
   function handleNext() {
     const correct =
       selected.length === q.answers.length &&
@@ -138,6 +147,10 @@ export default function Quiz({ questions, title, resumeState, onFinish, onQuit }
           )}
 
           <div className="quiz-actions">
+            {index > 0 && (
+              <button className="btn-quiz-back" onClick={handleBack}>← Back</button>
+            )}
+            <div className="quiz-actions-spacer" />
             {!revealed ? (
               <button
                 className="btn-check"
