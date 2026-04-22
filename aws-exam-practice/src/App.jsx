@@ -100,6 +100,8 @@ export default function App() {
       pct,
       passed: pct >= 70,
       completedAt: Date.now(),
+      questionIds: quizQuestions.map(q => q.id),
+      answers,
     }
     saveHistory(record)
     setHistory(loadHistory())
