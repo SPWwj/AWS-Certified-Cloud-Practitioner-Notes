@@ -5994,7 +5994,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n      E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -12964,7 +12964,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n      E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -17378,7 +17378,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/cost-alloc-tags.html",
     "multiSelect": false
@@ -17406,7 +17406,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/s3/faqs/",
     "multiSelect": false
@@ -17434,7 +17434,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/professional-services/",
     "multiSelect": false
@@ -17522,7 +17522,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AB\n\n    E"
+      "A",
+      "B"
     ],
     "explanation": "https://aws.amazon.com/sql/",
     "multiSelect": true
@@ -17578,7 +17579,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/ec2/pricing/",
     "multiSelect": false
@@ -17639,7 +17640,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/cloudtrail/",
     "multiSelect": false
@@ -17704,7 +17705,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AB\n\n    E"
+      "A",
+      "B"
     ],
     "explanation": null,
     "multiSelect": true
@@ -17732,7 +17734,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://media.amazonwebservices.com/AWS_TCO_Web_Applications.pdf",
     "multiSelect": false
@@ -17788,7 +17790,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/about-aws/global-infrastructure/regions_az/#Region_Maps_and_Edge_Networks",
     "multiSelect": false
@@ -17820,10 +17822,12 @@ export const questions = [
       }
     ],
     "answers": [
-      "BCD\n\n    E"
+      "B",
+      "C",
+      "D"
     ],
     "explanation": "https://aws.amazon.com/premiumsupport/knowledge-center/estimating-aws-resource-costs/",
-    "multiSelect": false
+    "multiSelect": true
   },
   {
     "id": "exam13-q17",
@@ -17852,7 +17856,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AD\n\n    E"
+      "A",
+      "D"
     ],
     "explanation": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html",
     "multiSelect": true
@@ -17880,7 +17885,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/ec2/pricing/reserved-instances/pricing/",
     "multiSelect": false
@@ -17908,7 +17913,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://d1.awsstatic.com/whitepapers/introduction-to-aws-cloud-economics-final.pdf",
     "multiSelect": false
@@ -17964,7 +17969,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/blogs/security/how-to-restrict-amazon-s3-bucket-access-to-a-specific-iam-role/",
     "multiSelect": false
@@ -18020,7 +18025,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/ec2/pricing/reserved-instances/",
     "multiSelect": false
@@ -18076,7 +18081,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/elasticloadbalancing/",
     "multiSelect": false
@@ -18104,7 +18109,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/compliance/soc-faqs/",
     "multiSelect": false
@@ -18136,7 +18141,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "BD\n\n    E"
+      "B",
+      "D"
     ],
     "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": true
@@ -18192,7 +18198,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf",
     "multiSelect": false
@@ -18286,7 +18292,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": null,
     "multiSelect": false
@@ -18314,7 +18320,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://aws.amazon.com/rds/aurora/serverless/",
     "multiSelect": false
@@ -18342,7 +18348,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/global-infrastructure.html",
     "multiSelect": false
@@ -18370,7 +18376,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": false
@@ -18482,7 +18488,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html",
     "multiSelect": false
@@ -18510,7 +18516,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/dynamodb/",
     "multiSelect": false
@@ -18538,7 +18544,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://aws.amazon.com/blogs/enterprise-strategy/risk-is-lack-of-agility/",
     "multiSelect": false
@@ -18566,7 +18572,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/organizations/",
     "multiSelect": false
@@ -18594,7 +18600,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://aws.amazon.com/solutions/case-studies/encoding/",
     "multiSelect": false
@@ -18650,7 +18656,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -18678,7 +18684,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": false
@@ -18706,7 +18712,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/answers/account-management/aws-multi-account-billing-strategy/",
     "multiSelect": false
@@ -18767,7 +18773,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://aws.amazon.com/getting-started/tutorials/get-a-domain/",
     "multiSelect": false
@@ -18828,7 +18834,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://aws.amazon.com/getting-started/projects/host-static-website/",
     "multiSelect": false
@@ -18856,7 +18862,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://aws.amazon.com/ec2/spot/",
     "multiSelect": false
@@ -18940,7 +18946,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://aws.amazon.com/redshift/",
     "multiSelect": false
@@ -18968,7 +18974,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/elasticloadbalancing/",
     "multiSelect": false
@@ -19061,7 +19067,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "BE\n\n    E"
+      "B",
+      "E"
     ],
     "explanation": null,
     "multiSelect": true
@@ -19089,7 +19096,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/enterprise/hybrid/",
     "multiSelect": false
@@ -19117,7 +19124,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -19145,7 +19152,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://aws.amazon.com/what-is-cloud-object-storage/",
     "multiSelect": false
@@ -19173,7 +19180,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -19205,7 +19212,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "BC\n\n    E"
+      "B",
+      "C"
     ],
     "explanation": null,
     "multiSelect": true
@@ -19233,7 +19241,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -19261,7 +19269,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -19289,7 +19297,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -19317,7 +19325,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -19345,7 +19353,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -19373,7 +19381,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": null,
     "multiSelect": false
@@ -19401,7 +19409,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -19429,7 +19437,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": null,
     "multiSelect": false
@@ -19457,7 +19465,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -19485,7 +19493,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": null,
     "multiSelect": false
@@ -19513,7 +19521,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -19541,7 +19549,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -19573,7 +19581,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "BC\n\n    E"
+      "B",
+      "C"
     ],
     "explanation": null,
     "multiSelect": true
@@ -19601,7 +19610,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -19662,7 +19671,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/premiumsupport/plans/",
     "multiSelect": false
@@ -19690,7 +19699,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": null,
     "multiSelect": false
@@ -19746,7 +19755,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": null,
     "multiSelect": false
@@ -19774,7 +19783,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -19802,7 +19811,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -19830,7 +19839,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": null,
     "multiSelect": false
@@ -19858,7 +19867,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -19919,7 +19928,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -19951,7 +19960,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "BE\n\n    E"
+      "B",
+      "E"
     ],
     "explanation": null,
     "multiSelect": true
@@ -19979,7 +19989,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -20007,7 +20017,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -20035,7 +20045,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": null,
     "multiSelect": false
@@ -20063,7 +20073,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -20119,7 +20129,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -20147,7 +20157,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -20180,7 +20190,7 @@ export const questions = [
     ],
     "answers": [
       "B",
-      "E\n\n    E"
+      "E"
     ],
     "explanation": null,
     "multiSelect": true
@@ -20212,7 +20222,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "CD\n\n    E"
+      "C",
+      "D"
     ],
     "explanation": null,
     "multiSelect": true
@@ -20240,7 +20251,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html",
     "multiSelect": false
@@ -20300,7 +20311,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "CE\n\n      E"
+      "C",
+      "E"
     ],
     "explanation": null,
     "multiSelect": true
@@ -20361,7 +20373,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://docs.aws.amazon.com/whitepapers/latest/cost-optimization-leveraging-ec2-spot-instances/spot-instance-interruptions.html",
     "multiSelect": false
@@ -20389,7 +20401,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -20417,7 +20429,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://aws.amazon.com/premiumsupport/plans/",
     "multiSelect": false
@@ -20445,7 +20457,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": null,
     "multiSelect": false
@@ -20505,7 +20517,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "BD\n\n    E"
+      "B",
+      "D"
     ],
     "explanation": null,
     "multiSelect": true
@@ -20533,7 +20546,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -20561,7 +20574,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf",
     "multiSelect": false
@@ -20589,7 +20602,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -20617,7 +20630,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -20645,7 +20658,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -20673,7 +20686,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -20701,7 +20714,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -20729,7 +20742,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -20761,7 +20774,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "BD\n\n    E"
+      "B",
+      "D"
     ],
     "explanation": null,
     "multiSelect": true
@@ -20789,7 +20803,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -20821,7 +20835,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AD\n\n    E"
+      "A",
+      "D"
     ],
     "explanation": "http://jayendrapatil.com/aws-global-vs-regional-vs-az-resources/",
     "multiSelect": true
@@ -20849,7 +20864,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": null,
     "multiSelect": false
@@ -20881,7 +20896,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AC\n\n    E"
+      "A",
+      "C"
     ],
     "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": true
@@ -21027,7 +21043,7 @@ export const questions = [
     ],
     "answers": [
       "A",
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": true
@@ -21055,7 +21071,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -21083,7 +21099,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": null,
     "multiSelect": false
@@ -21115,7 +21131,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AD\n\n    E"
+      "A",
+      "D"
     ],
     "explanation": null,
     "multiSelect": true
@@ -21139,7 +21156,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -21195,7 +21212,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -21223,7 +21240,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/premiumsupport/plans/",
     "multiSelect": false
@@ -21251,7 +21268,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -21279,7 +21296,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -21311,7 +21328,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "BC\n\n    E"
+      "B",
+      "C"
     ],
     "explanation": null,
     "multiSelect": true
@@ -21339,7 +21357,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -21367,7 +21385,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -21399,7 +21417,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AB\n\n    E"
+      "A",
+      "B"
     ],
     "explanation": "https://d0.awsstatic.com/whitepapers/compliance/AWS_Risk_and_Compliance_Whitepaper.pdf",
     "multiSelect": true
@@ -21427,7 +21446,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -21455,7 +21474,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": false
@@ -21487,7 +21506,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "CD\n\n    E"
+      "C",
+      "D"
     ],
     "explanation": "https://aws.amazon.com/blogs/aws/the-new-aws-tco-calculator/",
     "multiSelect": true
@@ -21519,7 +21539,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "BC\n\n    E"
+      "B",
+      "C"
     ],
     "explanation": null,
     "multiSelect": true
@@ -21551,7 +21572,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AB\n\n    E"
+      "A",
+      "B"
     ],
     "explanation": "https://wa.aws.amazon.com/wat.concept.elasticity.en.html",
     "multiSelect": true
@@ -21579,7 +21601,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": null,
     "multiSelect": false
@@ -21640,7 +21662,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -21668,7 +21690,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": null,
     "multiSelect": false
@@ -21696,7 +21718,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -21724,7 +21746,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -21752,7 +21774,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -21780,7 +21802,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -21808,7 +21830,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": null,
     "multiSelect": false
@@ -21836,7 +21858,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -21864,7 +21886,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -21892,7 +21914,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://docs.amazonaws.cn/en_us/AmazonRDS/latest/UserGuide/rds-ug.pdf",
     "multiSelect": false
@@ -21920,7 +21942,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -21952,7 +21974,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "BD\n\n    E"
+      "B",
+      "D"
     ],
     "explanation": null,
     "multiSelect": true
@@ -21980,7 +22003,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": false
@@ -22008,7 +22031,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -22036,7 +22059,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -22068,7 +22091,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "CE\n\n    E"
+      "C",
+      "E"
     ],
     "explanation": null,
     "multiSelect": true
@@ -22096,7 +22120,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -22124,7 +22148,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://cloudacademy.com/blog/aws-shared-responsibility-model-security/",
     "multiSelect": false
@@ -22152,7 +22176,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -22180,7 +22204,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -22208,7 +22232,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -22236,7 +22260,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -22296,7 +22320,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "BD\n\n    E"
+      "B",
+      "D"
     ],
     "explanation": null,
     "multiSelect": true
@@ -22324,7 +22349,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -22352,7 +22377,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html",
     "multiSelect": false
@@ -22380,7 +22405,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": null,
     "multiSelect": false
@@ -22408,7 +22433,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://aws.amazon.com/premiumsupport/plans/",
     "multiSelect": false
@@ -22436,7 +22461,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/",
     "multiSelect": false
@@ -22464,7 +22489,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -22492,7 +22517,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://data-flair.training/blogs/aws-advantages/",
     "multiSelect": false
@@ -22520,7 +22545,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html",
     "multiSelect": false
@@ -22548,7 +22573,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -22576,7 +22601,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://aws.amazon.com/tools/",
     "multiSelect": false
@@ -22604,7 +22629,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": null,
     "multiSelect": false
@@ -22632,7 +22657,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -22660,7 +22685,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -22688,7 +22713,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -22716,7 +22741,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -22744,7 +22769,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -22776,7 +22801,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "BE\n\n    E"
+      "B",
+      "E"
     ],
     "explanation": "https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf",
     "multiSelect": true
@@ -22808,7 +22834,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "CE\n\n    E"
+      "C",
+      "E"
     ],
     "explanation": null,
     "multiSelect": true
@@ -22836,7 +22863,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -22864,7 +22891,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -22892,7 +22919,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -22920,7 +22947,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://severalnines.com/news/aws-users-prefer-self-managed-databases",
     "multiSelect": false
@@ -22948,7 +22975,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/premiumsupport/plans/enterprise/",
     "multiSelect": false
@@ -22976,7 +23003,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -23004,7 +23031,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": null,
     "multiSelect": false
@@ -23032,7 +23059,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -23060,7 +23087,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://aws.amazon.com/premiumsupport/plans/",
     "multiSelect": false
@@ -23092,7 +23119,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AD\n\n    E"
+      "A",
+      "D"
     ],
     "explanation": "https://aws.amazon.com/shield/",
     "multiSelect": true
@@ -23124,10 +23152,12 @@ export const questions = [
       }
     ],
     "answers": [
-      "ACD\n\n    E"
+      "A",
+      "C",
+      "D"
     ],
     "explanation": "https://aws.amazon.com/blogs/aws/the-new-aws-tco-calculator/",
-    "multiSelect": false
+    "multiSelect": true
   },
   {
     "id": "exam17-q1",
@@ -23152,7 +23182,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -23180,7 +23210,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://www.awstcocalculator.com/Output/Load/f85bbf7e131446643911859504",
     "multiSelect": false
@@ -23208,7 +23238,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://cloudacademy.com/blog/aws-shared-responsibility-model-security/",
     "multiSelect": false
@@ -23236,7 +23266,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -23264,7 +23294,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://www.cloudconformity.com/knowledge-base/aws/EC2/security-group-egress-any.html",
     "multiSelect": false
@@ -23292,7 +23322,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -23320,7 +23350,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/ec2/pricing/reserved-instances/",
     "multiSelect": false
@@ -23348,7 +23378,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -23376,7 +23406,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -23404,7 +23434,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -23436,7 +23466,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AD\n\n    E"
+      "A",
+      "D"
     ],
     "explanation": null,
     "multiSelect": true
@@ -23464,7 +23495,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -23496,7 +23527,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AB\n\n    E"
+      "A",
+      "B"
     ],
     "explanation": "https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/",
     "multiSelect": true
@@ -23528,7 +23560,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AE\n\n    E"
+      "A",
+      "E"
     ],
     "explanation": "https://aws.amazon.com/premiumsupport/knowledge-center/potential-account-compromise/",
     "multiSelect": true
@@ -23556,7 +23589,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/blogs/startups/high-availability-for-mere-mortals/",
     "multiSelect": false
@@ -23584,7 +23617,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -23612,7 +23645,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -23640,7 +23673,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -23672,7 +23705,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AE\n\n    E"
+      "A",
+      "E"
     ],
     "explanation": "https://aws.amazon.com/premiumsupport/knowledge-center/ec2-ri-basics/",
     "multiSelect": true
@@ -23700,7 +23734,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -23728,7 +23762,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -23788,7 +23822,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AB\n\n    E"
+      "A",
+      "B"
     ],
     "explanation": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html",
     "multiSelect": true
@@ -23816,7 +23851,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -23848,7 +23883,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "BD\n\n    E"
+      "B",
+      "D"
     ],
     "explanation": "https://aws.amazon.com/hybrid/",
     "multiSelect": true
@@ -23876,7 +23912,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -23909,7 +23945,7 @@ export const questions = [
     ],
     "answers": [
       "A",
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://www.edureka.co/community/600/what-is-an-edge-location-in-aws",
     "multiSelect": true
@@ -23937,7 +23973,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": null,
     "multiSelect": false
@@ -23965,7 +24001,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://aws.amazon.com/tco-calculator/",
     "multiSelect": false
@@ -23997,7 +24033,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AB\n\n    E"
+      "A",
+      "B"
     ],
     "explanation": "https://aws.amazon.com/partners/aws-marketplace/",
     "multiSelect": true
@@ -24025,7 +24062,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -24057,7 +24094,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "BE\n\n    E"
+      "B",
+      "E"
     ],
     "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": true
@@ -24085,7 +24123,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -24141,7 +24179,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -24169,7 +24207,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -24197,7 +24235,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://wa.aws.amazon.com/wat.map.en.html",
     "multiSelect": false
@@ -24225,7 +24263,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://aws.amazon.com/premiumsupport/knowledge-center/report-aws-abuse/",
     "multiSelect": false
@@ -24286,7 +24324,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -24314,7 +24352,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -24342,7 +24380,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -24370,7 +24408,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -24402,7 +24440,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AC\n\n    E"
+      "A",
+      "C"
     ],
     "explanation": null,
     "multiSelect": true
@@ -24430,7 +24469,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -24458,7 +24497,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Security.html",
     "multiSelect": false
@@ -24486,7 +24525,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html",
     "multiSelect": false
@@ -24514,7 +24553,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://www.10thmagnitude.com/opex-vs-capex-the-real-cloud-computing-cost-advantage/",
     "multiSelect": false
@@ -24542,7 +24581,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://cloudacademy.com/blog/aws-shared-responsibility-model-security/",
     "multiSelect": false
@@ -24570,7 +24609,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -24598,7 +24637,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": false
@@ -24626,7 +24665,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://aws.amazon.com/premiumsupport/faqs/",
     "multiSelect": false
@@ -24658,7 +24697,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "BC\n\n    E"
+      "B",
+      "C"
     ],
     "explanation": "https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf",
     "multiSelect": true
@@ -24686,7 +24726,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://aws.amazon.com/ec2/pricing/reserved-instances/pricing/",
     "multiSelect": false
@@ -24714,7 +24754,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html",
     "multiSelect": false
@@ -24742,7 +24782,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/premiumsupport/knowledge-center/estimating-aws-resource-costs/",
     "multiSelect": false
@@ -24774,7 +24814,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "BD\n\n    E"
+      "B",
+      "D"
     ],
     "explanation": "https://aws.amazon.com/blogs/apn/amazon-vpc-for-on-premises-network-engineers-part-one/",
     "multiSelect": true
@@ -24802,7 +24843,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -24830,7 +24871,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://asperbrothers.com/blog/infrastructure-as-code-aws/",
     "multiSelect": false
@@ -24858,7 +24899,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -24886,7 +24927,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -24914,7 +24955,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": null,
     "multiSelect": false
@@ -24942,7 +24983,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://www.sisense.com/glossary/redshift-database/",
     "multiSelect": false
@@ -24970,7 +25011,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/ec2-security-groups.html",
     "multiSelect": false
@@ -25031,7 +25072,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -25059,7 +25100,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/answers/account-management/aws-multi-account-billing-strategy/",
     "multiSelect": false
@@ -25087,7 +25128,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -25115,7 +25156,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -25176,7 +25217,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -25204,7 +25245,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -25232,7 +25273,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html",
     "multiSelect": false
@@ -25260,7 +25301,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://wa.aws.amazon.com/wat.question.REL_7.en.html",
     "multiSelect": false
@@ -25288,7 +25329,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": null,
     "multiSelect": false
@@ -25316,7 +25357,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -25372,7 +25413,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://docs.aws.amazon.com/kms/latest/developerguide/services-ebs.html",
     "multiSelect": false
@@ -25404,7 +25445,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AC\n\n    E"
+      "A",
+      "C"
     ],
     "explanation": "https://aws.amazon.com/lambda/pricing/",
     "multiSelect": true
@@ -25465,7 +25507,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -25493,7 +25535,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/pricing/cost-optimization/",
     "multiSelect": false
@@ -25525,7 +25567,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "BC\n\n    E"
+      "B",
+      "C"
     ],
     "explanation": "https://aws.amazon.com/marketplace",
     "multiSelect": true
@@ -25553,7 +25596,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://aws.amazon.com/hybrid/",
     "multiSelect": false
@@ -25581,7 +25624,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://docs.aws.amazon.com/config/latest/developerguide/view-manage-resource.html",
     "multiSelect": false
@@ -25609,7 +25652,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": null,
     "multiSelect": false
@@ -25637,7 +25680,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://aws.amazon.com/blogs/security/the-aws-shared-responsibility-model-and-gdpr/",
     "multiSelect": false
@@ -25669,7 +25712,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "BC\n\n    E"
+      "B",
+      "C"
     ],
     "explanation": "https://data-flair.training/blogs/aws-advantages/",
     "multiSelect": true
@@ -25701,7 +25745,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "BC\n\n    E"
+      "B",
+      "C"
     ],
     "explanation": "https://aws.amazon.com/tco-calculator/",
     "multiSelect": true
@@ -25729,7 +25774,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/tco-calculator/",
     "multiSelect": false
@@ -25757,7 +25802,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://cloudacademy.com/blog/aws-shared-responsibility-model-security/",
     "multiSelect": false
@@ -25785,7 +25830,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html",
     "multiSelect": false
@@ -25813,7 +25858,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://d1.awsstatic.com/whitepapers/Migration/aws-migration-whitepaper.pdf",
     "multiSelect": false
@@ -25841,7 +25886,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/blogs/mt/automate-account-creation-and-resource-provisioning-using-aws-service-catalog-aws-organizations-and-aws-lambda/",
     "multiSelect": false
@@ -25869,7 +25914,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": null,
     "multiSelect": false
@@ -25897,7 +25942,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://aws.amazon.com/premiumsupport/knowledge-center/report-aws-abuse/",
     "multiSelect": false
@@ -25925,7 +25970,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": null,
     "multiSelect": false
@@ -25953,7 +25998,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf",
     "multiSelect": false
@@ -25981,7 +26026,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -26009,7 +26054,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/dms/",
     "multiSelect": false
@@ -26037,7 +26082,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://aws.amazon.com/mp/",
     "multiSelect": false
@@ -26065,7 +26110,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://aws.amazon.com/vpc/",
     "multiSelect": false
@@ -26093,7 +26138,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": false
@@ -26121,7 +26166,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/cloudfront/",
     "multiSelect": false
@@ -26149,7 +26194,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/iam/details/mfa/",
     "multiSelect": false
@@ -26177,7 +26222,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "http://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html",
     "multiSelect": false
@@ -26205,7 +26250,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "http://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEmail.html",
     "multiSelect": false
@@ -26233,7 +26278,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://aws.amazon.com/aup/",
     "multiSelect": false
@@ -26261,7 +26306,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -26293,7 +26338,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AC\n\n    E"
+      "A",
+      "C"
     ],
     "explanation": "https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf",
     "multiSelect": true
@@ -26321,7 +26367,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -26353,7 +26399,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AB\n\n    E"
+      "A",
+      "B"
     ],
     "explanation": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
     "multiSelect": true
@@ -26385,7 +26432,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "CD\n\n    E"
+      "C",
+      "D"
     ],
     "explanation": "https://aws.amazon.com/solutions/aws-landing-zone/",
     "multiSelect": true
@@ -26413,7 +26461,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/premiumsupport/plans/enterprise/",
     "multiSelect": false
@@ -26469,7 +26517,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/ec2/faqs/",
     "multiSelect": false
@@ -26497,7 +26545,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/tco-calculator/",
     "multiSelect": false
@@ -26525,7 +26573,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://aws.amazon.com/premiumsupport/knowledge-center/ec2-ri-consolidated-billing/",
     "multiSelect": false
@@ -26553,7 +26601,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/premiumsupport/knowledge-center/report-aws-abuse/",
     "multiSelect": false
@@ -26585,7 +26633,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "BD\n\n    E"
+      "B",
+      "D"
     ],
     "explanation": "https://aws.amazon.com/cloudfront/faqs/",
     "multiSelect": true
@@ -26613,7 +26662,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://blogs.itemis.com/en/serverless-services-on-aws",
     "multiSelect": false
@@ -26645,7 +26694,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "BD\n\n    E"
+      "B",
+      "D"
     ],
     "explanation": "https://subscription.packtpub.com/book/virtualization_and_cloud/9781788293723/3/ch03lvl1sec26/vpc-components",
     "multiSelect": true
@@ -26673,7 +26723,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/budgets-managing-costs.html",
     "multiSelect": false
@@ -26705,7 +26755,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "CE\n\n    E"
+      "C",
+      "E"
     ],
     "explanation": "https://aws.amazon.com/blogs/security/guidelines-for-protecting-your-aws-account-while-using-programmatic-access/",
     "multiSelect": true
@@ -26737,7 +26788,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AC\n\n    E"
+      "A",
+      "C"
     ],
     "explanation": "https://aws.amazon.com/premiumsupport/technology/trusted-advisor/best-practice-checklist/",
     "multiSelect": true
@@ -26765,7 +26817,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://docs.aws.amazon.com/kms/latest/developerguide/control-access.html",
     "multiSelect": false
@@ -26830,7 +26882,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AC\n\n    E"
+      "A",
+      "C"
     ],
     "explanation": "https://aws.amazon.com/compliance/data-center/controls/",
     "multiSelect": true
@@ -26858,7 +26911,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/",
     "multiSelect": false
@@ -26890,7 +26943,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AD\n\n    E"
+      "A",
+      "D"
     ],
     "explanation": null,
     "multiSelect": true
@@ -26918,7 +26972,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-what-is.html",
     "multiSelect": false
@@ -26946,7 +27000,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/global-infrastructure.html",
     "multiSelect": false
@@ -26974,7 +27028,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": null,
     "multiSelect": false
@@ -27002,7 +27056,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://aws.amazon.com/blogs/aws/category/auto-scaling/",
     "multiSelect": false
@@ -27030,7 +27084,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/premiumsupport/plans/",
     "multiSelect": false
@@ -27058,7 +27112,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": null,
     "multiSelect": false
@@ -27086,7 +27140,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-plan-region.html",
     "multiSelect": false
@@ -27114,7 +27168,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://aws.amazon.com/ec2/dedicated-hosts/",
     "multiSelect": false
@@ -27146,7 +27200,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "CE\n\n    E"
+      "C",
+      "E"
     ],
     "explanation": null,
     "multiSelect": true
@@ -27174,7 +27229,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://docs.aws.amazon.com/migrationhub/latest/ug/hub-api.pdf",
     "multiSelect": false
@@ -27235,7 +27290,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -27267,7 +27322,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "BE\n\n    E"
+      "B",
+      "E"
     ],
     "explanation": "https://www.whizlabs.com/blog/aws-security-shared-responsibility/",
     "multiSelect": true
@@ -27295,7 +27351,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -27323,7 +27379,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://d1.awsstatic.com/whitepapers/aws-whitepaper-business-value-of-aws.pdf",
     "multiSelect": false
@@ -27351,7 +27407,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://docs.aws.amazon.com/AmazonS3/latest/dev/replication.html",
     "multiSelect": false
@@ -27375,7 +27431,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": false
@@ -27403,7 +27459,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/devops/partner-solutions/",
     "multiSelect": false
@@ -27435,7 +27491,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AD\n\n    E"
+      "A",
+      "D"
     ],
     "explanation": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html",
     "multiSelect": true
@@ -27463,7 +27520,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html",
     "multiSelect": false
@@ -27491,7 +27548,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/guardduty/",
     "multiSelect": false
@@ -27519,7 +27576,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://aws.amazon.com/about-aws/whats-new/2019/09/aws-marketplace-easier-to-find-solutions-from-aws-console/",
     "multiSelect": false
@@ -27547,7 +27604,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/dynamodb/",
     "multiSelect": false
@@ -27575,7 +27632,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html",
     "multiSelect": false
@@ -27603,7 +27660,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/getting-started/tutorials/deploy-docker-containers/",
     "multiSelect": false
@@ -27631,7 +27688,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://aws.amazon.com/getting-started/tutorials/deliver-content-faster/",
     "multiSelect": false
@@ -27663,7 +27720,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AD\n\n    E"
+      "A",
+      "D"
     ],
     "explanation": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
     "multiSelect": true
@@ -27691,7 +27749,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html",
     "multiSelect": false
@@ -27719,7 +27777,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -27754,7 +27812,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
-    "multiSelect": true
+    "multiSelect": false
   },
   {
     "id": "exam20-q11",
@@ -27779,7 +27837,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://aws.amazon.com/blogs/mt/monitor-and-notify-on-aws-account-root-user-activity/",
     "multiSelect": false
@@ -27807,7 +27865,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://www.botmetric.com/blog/aws-cloud-architecture-design-principles/",
     "multiSelect": false
@@ -27839,7 +27897,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AD\n\n    E"
+      "A",
+      "D"
     ],
     "explanation": "https://aws.amazon.com/snowball/",
     "multiSelect": true
@@ -27895,7 +27954,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_accounts.html",
     "multiSelect": false
@@ -27951,7 +28010,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/autoscaling/",
     "multiSelect": false
@@ -27979,7 +28038,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://d1.awsstatic.com/whitepapers/aws-security-whitepaper.pdf",
     "multiSelect": false
@@ -28007,7 +28066,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/ce-forecast.html",
     "multiSelect": false
@@ -28035,7 +28094,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -28063,7 +28122,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/about-aws/global-infrastructure/",
     "multiSelect": false
@@ -28091,7 +28150,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://aws.amazon.com/ec2/faqs/",
     "multiSelect": false
@@ -28119,7 +28178,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html",
     "multiSelect": false
@@ -28151,7 +28210,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "CE\n\n    E"
+      "C",
+      "E"
     ],
     "explanation": "https://cloudacademy.com/blog/aws-shared-responsibility-model-security/",
     "multiSelect": true
@@ -28179,7 +28239,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf",
     "multiSelect": false
@@ -28211,7 +28271,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AE\n\n    E"
+      "A",
+      "E"
     ],
     "explanation": null,
     "multiSelect": true
@@ -28239,7 +28300,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/efs/",
     "multiSelect": false
@@ -28300,7 +28361,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://aimconsulting.com/insights/blog/the-elastic-cloud-opportunity/",
     "multiSelect": false
@@ -28356,7 +28417,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://docs.aws.amazon.com/AmazonS3/latest/dev/access-control-block-public-access.html",
     "multiSelect": false
@@ -28384,7 +28445,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": null,
     "multiSelect": false
@@ -28412,7 +28473,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/blogs/aws/estimate-your-c/",
     "multiSelect": false
@@ -28440,7 +28501,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": false
@@ -28472,7 +28533,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AB\n\n    E"
+      "A",
+      "B"
     ],
     "explanation": "https://aws.amazon.com/autoscaling/faqs/",
     "multiSelect": true
@@ -28504,7 +28566,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "BD\n\n    E"
+      "B",
+      "D"
     ],
     "explanation": "https://aws.amazon.com/global-accelerator/faqs/",
     "multiSelect": true
@@ -28532,7 +28595,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://aws.amazon.com/premiumsupport/knowledge-center/reactivate-suspended-account/",
     "multiSelect": false
@@ -28560,7 +28623,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -28588,7 +28651,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://www.cloudmanagementinsider.com/ways-to-optimize-aws-cost/",
     "multiSelect": false
@@ -28616,7 +28679,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": false
@@ -28677,7 +28740,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": false
@@ -28705,7 +28768,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -28733,7 +28796,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/artifact/#:~:text=AWS%20Artifact%20is%20your%20go,reports%20and%20select%20online%20agreements",
     "multiSelect": false
@@ -28761,7 +28824,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://aws.amazon.com/polly/#:~:text=Amazon%20Polly%20is%20a%20service,synthesize%20natural%20sounding%20human%20speech",
     "multiSelect": false
@@ -28817,7 +28880,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/premiumsupport/technology/trusted-advisor/best-practice-checklist/",
     "multiSelect": false
@@ -28845,7 +28908,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://aws.amazon.com/ec2/dedicated-hosts/pricing/",
     "multiSelect": false
@@ -28873,7 +28936,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": null,
     "multiSelect": false
@@ -28901,7 +28964,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf",
     "multiSelect": false
@@ -28929,7 +28992,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SQLtoNoSQL.html",
     "multiSelect": false
@@ -28957,7 +29020,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://www.botmetric.com/blog/having-a-disaster-recovery-plan-is-pivotal-the-dos-and-donts-on-aws-cloud/",
     "multiSelect": false
@@ -28989,7 +29052,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "DE\n\n    E"
+      "D",
+      "E"
     ],
     "explanation": "https://aws.amazon.com/organizations/",
     "multiSelect": true
@@ -29017,7 +29081,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/opsworks/",
     "multiSelect": false
@@ -29045,7 +29109,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html",
     "multiSelect": false
@@ -29073,7 +29137,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/tco-calculator/",
     "multiSelect": false
@@ -29105,7 +29169,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "BD\n\n    E"
+      "B",
+      "D"
     ],
     "explanation": "https://aws.amazon.com/directconnect/faqs/",
     "multiSelect": true
@@ -29137,7 +29202,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AC\n\n    E"
+      "A",
+      "C"
     ],
     "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": true
@@ -29165,7 +29231,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/premiumsupport/plans/",
     "multiSelect": false
@@ -29193,7 +29259,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://aws.amazon.com/rds/faqs/",
     "multiSelect": false
@@ -29221,7 +29287,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://jayendrapatil.com/aws-high-availability-fault-tolerance-architecture-certification/",
     "multiSelect": false
@@ -29249,7 +29315,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/transit-gateway/",
     "multiSelect": false
@@ -29305,7 +29371,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/premiumsupport/technology/personal-health-dashboard/",
     "multiSelect": false
@@ -29333,7 +29399,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://aws.amazon.com/storagegateway/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc",
     "multiSelect": false
@@ -29361,7 +29427,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-security-groups.html",
     "multiSelect": false
@@ -29389,7 +29455,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://d1.awsstatic.com/whitepapers/building-a-scalable-and-secure-multi-vpc-aws-network-infrastructure.pdf",
     "multiSelect": false
@@ -29417,7 +29483,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://aws.amazon.com/premiumsupport/plans/enterprise/",
     "multiSelect": false
@@ -29445,7 +29511,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://docs.aws.amazon.com/organizations/latest/userguide/orgs_introduction.html",
     "multiSelect": false
@@ -29473,7 +29539,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://aws.amazon.com/compliance/faq/",
     "multiSelect": false
@@ -29501,7 +29567,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/s3/storage-classes/",
     "multiSelect": false
@@ -29529,7 +29595,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://aws.amazon.com/about-aws/global-infrastructure/regions_az/",
     "multiSelect": false
@@ -29561,7 +29627,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AD\n\n    E"
+      "A",
+      "D"
     ],
     "explanation": "https://blog.newrelic.com/engineering/best-cloud-infrastructure-automation-tools/",
     "multiSelect": true
@@ -29589,7 +29656,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-concepts.html",
     "multiSelect": false
@@ -29617,7 +29684,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/data-protection.html",
     "multiSelect": false
@@ -29677,7 +29744,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AC\n\n    E"
+      "A",
+      "C"
     ],
     "explanation": "https://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html",
     "multiSelect": true
@@ -29709,7 +29777,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AD\n\n    E"
+      "A",
+      "D"
     ],
     "explanation": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html",
     "multiSelect": true
@@ -29765,7 +29834,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://jayendrapatil.com/aws-consolidated-billing/",
     "multiSelect": false
@@ -29793,7 +29862,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/getting-started/hands-on/control-your-costs-free-tier-budgets/",
     "multiSelect": false
@@ -29821,7 +29890,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/macie/",
     "multiSelect": false
@@ -29849,7 +29918,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/blogs/mt/monitoring-service-limits-with-trusted-advisor-and-amazon-cloudwatch/",
     "multiSelect": false
@@ -29877,7 +29946,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/hybrid/",
     "multiSelect": false
@@ -29905,7 +29974,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://cloudcheckr.com/cloud-security/top-5-iam-best-practices/",
     "multiSelect": false
@@ -29933,7 +30002,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": null,
     "multiSelect": false
@@ -29961,7 +30030,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/blogs/training-and-certification/explore-the-aws-transit-gateway-networking-and-scaling-digital-course/",
     "multiSelect": false
@@ -29989,7 +30058,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://docs.aws.amazon.com/waf/latest/developerguide/ddos-overview.html",
     "multiSelect": false
@@ -30017,7 +30086,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/ec2/pricing/",
     "multiSelect": false
@@ -30078,7 +30147,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/ec2/pricing/",
     "multiSelect": false
@@ -31060,10 +31129,11 @@ export const questions = [
       }
     ],
     "answers": [
-      "BD\n\n    E"
+      "B",
+      "D"
     ],
     "explanation": "https://aws.amazon.com/blogs/startups/large-scale-disaster-recovery-using-aws-regions/",
-    "multiSelect": false
+    "multiSelect": true
   },
   {
     "id": "exam22-q26",
@@ -31088,7 +31158,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://aws.amazon.com/blogs/storage/migrating-hundreds-of-tb-of-data-to-amazon-s3-with-aws-datasync/",
     "multiSelect": false
@@ -31116,7 +31186,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/rds/postgresql/",
     "multiSelect": false
@@ -31177,7 +31247,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://docs.aws.amazon.com/AmazonS3/latest/dev/walkthrough1.html",
     "multiSelect": false
@@ -31205,7 +31275,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://aws.amazon.com/blogs/aws/aws-organizations-policy-based-management-for-multiple-aws-accounts/",
     "multiSelect": false
@@ -31233,7 +31303,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/ec2/pricing/",
     "multiSelect": false
@@ -31261,7 +31331,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/ce-forecast.html",
     "multiSelect": false
@@ -31289,7 +31359,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/?ref=wellarchitected",
     "multiSelect": false
@@ -31317,7 +31387,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html",
     "multiSelect": false
@@ -31345,7 +31415,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/",
     "multiSelect": false
@@ -31373,7 +31443,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/",
     "multiSelect": false
@@ -31401,7 +31471,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ri-convertible-exchange.html",
     "multiSelect": false
@@ -31457,7 +31527,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://docs.aws.amazon.com/pricing-calculator/latest/userguide/aws-pc.pdf",
     "multiSelect": false
@@ -31489,7 +31559,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AD\n\n    E"
+      "A",
+      "D"
     ],
     "explanation": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html",
     "multiSelect": true
@@ -31517,7 +31588,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/about-aws/whats-new/2018/11/s3-intelligent-tiering/",
     "multiSelect": false
@@ -31545,7 +31616,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/redshift/faqs/",
     "multiSelect": false
@@ -31573,7 +31644,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://docs.aws.amazon.com/config/latest/developerguide/evaluate-config.html",
     "multiSelect": false
@@ -31601,7 +31672,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://www.gremlin.com/blog/implementing-cost-saving-strategies-on-amazon-ec-2-with-chaos-engineering/",
     "multiSelect": false
@@ -31689,7 +31760,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "CD\n\n    E"
+      "C",
+      "D"
     ],
     "explanation": "https://aws.amazon.com/about-aws/whats-new/2016/06/aws-support-enables-tagging-capabilities-for-trusted-advisor/",
     "multiSelect": true
@@ -31750,7 +31822,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://docs.aws.amazon.com/snowball/latest/ug/transfer-petabytes.html",
     "multiSelect": false
@@ -31778,7 +31850,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/redshift/",
     "multiSelect": false
@@ -31838,7 +31910,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AC\n\n    E"
+      "A",
+      "C"
     ],
     "explanation": "https://d0.awsstatic.com/whitepapers/overview-of-deployment-options-on-aws.pdf",
     "multiSelect": true
@@ -31866,7 +31939,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/connect/customers/",
     "multiSelect": false
@@ -31894,7 +31967,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://calculator.aws/#/",
     "multiSelect": false
@@ -31922,7 +31995,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://d1.awsstatic.com/whitepapers/aws-security-whitepaper.pdf",
     "multiSelect": false
@@ -31950,7 +32023,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-reserved-instances.html",
     "multiSelect": false
@@ -31978,7 +32051,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html",
     "multiSelect": false
@@ -32006,7 +32079,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_passwords_account-policy.html",
     "multiSelect": false
@@ -32062,7 +32135,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-pci-controls.html",
     "multiSelect": false
@@ -32090,7 +32163,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://aws.amazon.com/sqs/faqs/",
     "multiSelect": false
@@ -32118,7 +32191,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/awsaccountbilling-aboutv2.pdf",
     "multiSelect": false
@@ -32146,7 +32219,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/getting-started/hands-on/control-your-costs-free-tier-budgets/",
     "multiSelect": false
@@ -32174,7 +32247,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/elasticbeanstalk/",
     "multiSelect": false
@@ -32202,7 +32275,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://www.amazonaws.cn/en/support/trustedadvisor/faq/#checks",
     "multiSelect": false
@@ -32234,7 +32307,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AC\n\n    E"
+      "A",
+      "C"
     ],
     "explanation": "https://aws.amazon.com/shield/",
     "multiSelect": true
@@ -32262,7 +32336,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://aws.amazon.com/artifact",
     "multiSelect": false
@@ -32323,7 +32397,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://aws.amazon.com/config/",
     "multiSelect": false
@@ -32355,7 +32429,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AD\n\n    E"
+      "A",
+      "D"
     ],
     "explanation": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-increase-availability.html",
     "multiSelect": true
@@ -32383,7 +32458,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-reserved-instances.html",
     "multiSelect": false
@@ -32411,7 +32486,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://aws.amazon.com/premiumsupport/technology/personal-health-dashboard/",
     "multiSelect": false
@@ -32439,7 +32514,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.html",
     "multiSelect": false
@@ -32467,7 +32542,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/lambda/security-overview-of-aws-lambda/",
     "multiSelect": false
@@ -32495,7 +32570,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://aws.amazon.com/aws-cost-management/aws-budgets/",
     "multiSelect": false
@@ -32523,7 +32598,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/nosql/",
     "multiSelect": false
@@ -32551,7 +32626,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://aws.amazon.com/ec2/spot/",
     "multiSelect": false
@@ -32579,7 +32654,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/directconnect/partners/",
     "multiSelect": false
@@ -32611,7 +32686,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AE\n\n    E"
+      "A",
+      "E"
     ],
     "explanation": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html",
     "multiSelect": true
@@ -32639,7 +32715,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://docs.aws.amazon.com/codecommit/latest/userguide/welcome.html",
     "multiSelect": false
@@ -32667,7 +32743,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://www.coalfire.com/the-coalfire-blog/march-2019/aws-trusted-advisor-for-security-compliance",
     "multiSelect": false
@@ -32695,7 +32771,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://d36cz9buwru1tt.cloudfront.net/AWS_Building_Fault_Tolerant_Applications.pdf",
     "multiSelect": false
@@ -32723,7 +32799,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://aws.amazon.com/sns/faqs/",
     "multiSelect": false
@@ -32755,7 +32831,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "CE\n\n    E"
+      "C",
+      "E"
     ],
     "explanation": "https://wa.aws.amazon.com/wat.pillar.reliability.en.html",
     "multiSelect": true
@@ -32787,7 +32864,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "BD\n\n    E"
+      "B",
+      "D"
     ],
     "explanation": "https://aws.amazon.com/cloudfront/faqs/",
     "multiSelect": true
@@ -32815,7 +32893,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://aws.amazon.com/getting-started/projects/connect-data-center-to-aws/",
     "multiSelect": false
@@ -32843,7 +32921,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/artifact/",
     "multiSelect": false
@@ -32871,7 +32949,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/waf/faq/",
     "multiSelect": false
@@ -32899,7 +32977,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://www.betsol.com/blog/how-to-make-high-availability-web-applications-on-amazon-web-services/",
     "multiSelect": false
@@ -32927,7 +33005,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/choosing-a-cloud-platform/",
     "multiSelect": false
@@ -32955,7 +33033,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_getting-report.html",
     "multiSelect": false
@@ -32987,7 +33065,8 @@ export const questions = [
       }
     ],
     "answers": [
-      "AC\n\n    E"
+      "A",
+      "C"
     ],
     "explanation": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html",
     "multiSelect": true
@@ -33015,7 +33094,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://aws.amazon.com/ec2/faqs/",
     "multiSelect": false
@@ -33043,7 +33122,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://aws.amazon.com/config/",
     "multiSelect": false
@@ -33071,7 +33150,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "A\n\n    E"
+      "A"
     ],
     "explanation": "https://aws.amazon.com/blogs/industries/how-to-build-a-global-scalable-low-latency-and-secure-machine-learning-medical-imaging-analysis-platform-on-aws/",
     "multiSelect": false
@@ -33099,7 +33178,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://kirkpatrickprice.com/blog/best-practices-for-privilege-management-in-aws/",
     "multiSelect": false
@@ -33127,7 +33206,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "D\n\n    E"
+      "D"
     ],
     "explanation": "https://innovationtactics.com/amazon-business-model-amazon-web-services/",
     "multiSelect": false
@@ -33155,7 +33234,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://d1.awsstatic.com/whitepapers/building-a-scalable-and-secure-multi-vpc-aws-network-infrastructure.pdf",
     "multiSelect": false
@@ -33211,7 +33290,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "C\n\n    E"
+      "C"
     ],
     "explanation": "https://docs.aws.amazon.com/waf/latest/developerguide/classic-web-acl-sql-conditions.html",
     "multiSelect": false
