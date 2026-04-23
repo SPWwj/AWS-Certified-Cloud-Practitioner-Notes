@@ -239,6 +239,7 @@
 .feedback-icon    { font-size: 1.3rem; flex-shrink: 0; margin-top: 1px; }
 .feedback-content { display: flex; flex-direction: column; gap: 5px; }
 .feedback-title   { font-weight: 700; font-size: .9rem; color: var(--text); }
+.feedback-explanation { margin: 2px 0; font-size: .83rem; color: var(--text); line-height: 1.5; }
 .feedback-link    { font-size: .79rem; color: var(--blue); font-weight: 500; }
 .feedback-link:hover { text-decoration: underline; }
 @keyframes feedbackIn {
@@ -386,6 +387,7 @@
 .r-opt.r-opt-wrong   { background: var(--red-light);   color: #b91c1c; }
 .r-answer-note { font-size: .78rem; color: var(--text-muted); margin-bottom: 6px; }
 .r-answer-note strong { color: var(--text); }
+.r-explanation { margin: 6px 0 2px; font-size: .83rem; color: var(--text); line-height: 1.5; }
 .ex-link { display: inline-flex; align-items: center; gap: 4px; font-size: .78rem; font-weight: 500; }
 .ex-link:hover { text-decoration: underline; }
 

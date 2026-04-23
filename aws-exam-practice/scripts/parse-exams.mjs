@@ -48,6 +48,7 @@ function parseExamFile(filename, examNumber) {
           options: [],
           answers: [],
           explanation: null,
+          reference: null,
           multiSelect,
         };
         continue;
@@ -76,9 +77,9 @@ function parseExamFile(filename, examNumber) {
         inDetails = false;
         const detailsText = detailsLines.join('\n');
 
-        // Correct answer — handle both capitalisations
+        // Correct answer — handle both capitalisations; restrict to same line only
         const answerMatch = detailsText.match(
-          /Correct [Aa]nswer:\s*([A-E][A-E,\s]*)/
+          /Correct [Aa]nswers?:\s*([A-E][A-E, ]*)/
         );
         if (answerMatch && currentQuestion) {
           const parsed = parseAnswerString(answerMatch[1]);
@@ -86,10 +87,28 @@ function parseExamFile(filename, examNumber) {
           if (parsed.length > 1) currentQuestion.multiSelect = true;
         }
 
-        // Explanation URL or text
-        const explMatch = detailsText.match(/Explanation:\s*<?(https?:\/\/[^\s>]+)>?/);
-        if (explMatch && currentQuestion) {
-          currentQuestion.explanation = explMatch[1].trim();
+        // Explanation text (bullet points below "Explanation:")
+        const explTextMatch = detailsText.match(/Explanation:\s*\n([\s\S]*?)(?:\n\s*Reference:|$)/);
+        if (explTextMatch && currentQuestion) {
+          const raw = explTextMatch[1].trim();
+          if (raw) {
+            currentQuestion.explanation = raw
+              .split('\n')
+              .map(l => l.replace(/^\s*-\s*/, '').trim())
+              .filter(Boolean)
+              .join(' ');
+          }
+        }
+
+        // Reference URL (from "Reference: <url>" or legacy "Explanation: <url>")
+        const refMatch = detailsText.match(/Reference:\s*<?(https?:\/\/[^\s>]+)>?/);
+        const inlineExplURL = detailsText.match(/Explanation:\s*<?(https?:\/\/[^\s>]+)>?/);
+        if (currentQuestion) {
+          currentQuestion.reference = refMatch
+            ? refMatch[1].trim()
+            : inlineExplURL
+            ? inlineExplURL[1].trim()
+            : null;
         }
 
         detailsLines = [];

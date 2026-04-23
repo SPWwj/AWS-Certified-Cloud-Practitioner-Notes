@@ -28,6 +28,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -56,6 +57,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -84,6 +86,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -117,6 +120,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -145,6 +149,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -173,6 +178,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -201,6 +207,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -234,6 +241,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -262,6 +270,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -290,6 +299,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -318,6 +328,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -346,6 +357,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -374,6 +386,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -407,6 +420,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -435,6 +449,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -463,6 +478,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -472,7 +488,7 @@ export const questions = [
     "options": [
       {
         "key": "A",
-        "text": "AWS services costs will be reduced to half the original price."
+        "text": "AWS services’ costs will be reduced to half the original price."
       },
       {
         "key": "B",
@@ -491,6 +507,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -524,6 +541,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -552,6 +570,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -585,6 +604,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -613,6 +633,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -641,6 +662,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -669,6 +691,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -697,6 +720,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -725,6 +749,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -758,6 +783,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -786,6 +812,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -814,6 +841,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -842,6 +870,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -870,6 +899,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -898,6 +928,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -931,6 +962,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -959,6 +991,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -987,6 +1020,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -1015,6 +1049,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -1043,6 +1078,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -1071,6 +1107,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -1104,6 +1141,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -1137,6 +1175,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -1165,6 +1204,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -1193,6 +1233,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -1221,6 +1262,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -1249,6 +1291,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -1282,6 +1325,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -1310,6 +1354,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -1338,6 +1383,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -1371,6 +1417,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -1404,6 +1451,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -1432,6 +1480,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -1460,6 +1509,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -1488,6 +1538,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -1516,6 +1567,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -1544,6 +1596,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -1572,6 +1625,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -1600,6 +1654,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -1628,6 +1683,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -1661,6 +1717,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -1689,6 +1746,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -1717,6 +1775,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -1745,6 +1804,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -1773,6 +1833,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -1801,6 +1862,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -1829,6 +1891,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -1862,6 +1925,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -1890,6 +1954,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -1923,6 +1988,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -1956,6 +2022,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -1984,6 +2051,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -2012,6 +2080,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -2040,6 +2109,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -2068,6 +2138,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -2096,6 +2167,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -2124,6 +2196,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -2157,6 +2230,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -2185,6 +2259,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -2213,6 +2288,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -2241,6 +2317,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -2269,6 +2346,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -2302,6 +2380,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -2330,6 +2409,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -2358,6 +2438,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -2386,6 +2467,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -2419,6 +2501,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -2452,6 +2535,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -2480,6 +2564,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -2508,6 +2593,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -2541,6 +2627,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -2569,6 +2656,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -2597,6 +2685,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -2625,6 +2714,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -2658,6 +2748,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -2686,6 +2777,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -2714,6 +2806,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -2742,6 +2835,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -2775,6 +2869,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -2808,6 +2903,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -2836,6 +2932,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -2864,6 +2961,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -2892,6 +2990,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -2920,6 +3019,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -2953,6 +3053,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -2981,6 +3082,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -3009,6 +3111,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -3037,6 +3140,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -3065,6 +3169,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -3093,6 +3198,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -3126,6 +3232,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -3159,6 +3266,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -3187,6 +3295,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -3215,6 +3324,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -3243,6 +3353,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -3271,6 +3382,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -3299,6 +3411,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -3332,6 +3445,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -3360,6 +3474,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -3388,6 +3503,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -3421,6 +3537,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -3449,6 +3566,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -3477,6 +3595,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -3510,6 +3629,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -3538,6 +3658,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -3571,6 +3692,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -3599,6 +3721,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -3632,6 +3755,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -3660,6 +3784,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -3688,6 +3813,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -3721,6 +3847,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -3749,6 +3876,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -3777,6 +3905,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -3805,6 +3934,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -3838,6 +3968,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -3866,6 +3997,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -3894,6 +4026,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -3922,6 +4055,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -3955,6 +4089,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -3983,6 +4118,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -4011,6 +4147,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -4044,6 +4181,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -4072,6 +4210,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -4100,6 +4239,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -4128,6 +4268,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -4156,6 +4297,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -4189,6 +4331,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -4217,6 +4360,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -4245,6 +4389,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -4278,6 +4423,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -4306,6 +4452,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -4334,6 +4481,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -4362,6 +4510,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -4390,6 +4539,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -4423,6 +4573,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -4456,6 +4607,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -4489,6 +4641,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -4517,6 +4670,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -4545,6 +4699,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -4573,6 +4728,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -4601,6 +4757,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -4629,6 +4786,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -4657,6 +4815,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -4685,6 +4844,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -4718,6 +4878,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -4751,6 +4912,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -4779,6 +4941,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -4807,6 +4970,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -4835,6 +4999,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -4863,6 +5028,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -4891,6 +5057,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -4919,6 +5086,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -4947,6 +5115,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -4980,6 +5149,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -5008,6 +5178,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -5036,6 +5207,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -5064,6 +5236,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -5092,6 +5265,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -5125,6 +5299,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -5158,6 +5333,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -5186,6 +5362,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -5219,6 +5396,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -5252,6 +5430,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -5285,6 +5464,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -5318,6 +5498,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -5346,6 +5527,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -5374,6 +5556,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -5402,6 +5585,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -5430,6 +5614,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -5458,6 +5643,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -5486,6 +5672,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -5519,6 +5706,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -5552,6 +5740,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -5585,6 +5774,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -5618,6 +5808,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -5646,6 +5837,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -5674,6 +5866,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -5707,6 +5900,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -5735,6 +5929,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -5768,6 +5963,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -5796,6 +5992,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -5824,6 +6021,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -5852,6 +6050,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -5880,6 +6079,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -5908,6 +6108,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -5936,6 +6137,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -5969,6 +6171,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -5996,7 +6199,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "Pricing is per instance-hour consumed for each instance, from the time an instance is launched until it is terminated or stopped. Each partial instance-hour consumed will be billed per-second for Linux, Windows, Windows with SQL Enterprise, Windows with SQL Standard, and Windows with SQL Web Instances, and as a full hour for all other instance types.",
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -6025,6 +6229,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -6058,6 +6263,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -6091,6 +6297,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -6119,6 +6326,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -6147,6 +6355,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -6175,6 +6384,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -6203,6 +6413,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -6231,6 +6442,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -6259,6 +6471,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -6287,6 +6500,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -6320,6 +6534,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -6348,6 +6563,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -6376,6 +6592,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -6404,6 +6621,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -6437,6 +6655,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -6465,6 +6684,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -6493,6 +6713,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -6526,6 +6747,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -6554,6 +6776,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -6582,6 +6805,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -6610,6 +6834,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -6638,6 +6863,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -6666,6 +6892,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -6694,6 +6921,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -6722,6 +6950,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -6755,6 +6984,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -6783,6 +7013,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -6816,6 +7047,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -6844,6 +7076,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -6872,6 +7105,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -6900,6 +7134,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -6928,6 +7163,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -6956,6 +7192,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -6984,6 +7221,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -7012,6 +7250,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -7040,6 +7279,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -7068,6 +7308,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -7101,6 +7342,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -7129,6 +7371,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -7157,6 +7400,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -7190,6 +7434,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -7218,6 +7463,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -7246,6 +7492,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -7274,6 +7521,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -7307,6 +7555,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -7340,6 +7589,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -7368,6 +7618,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -7401,6 +7652,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -7429,6 +7681,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -7457,6 +7710,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -7490,6 +7744,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -7523,6 +7778,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -7551,6 +7807,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -7579,6 +7836,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -7612,6 +7870,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -7640,6 +7899,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -7668,6 +7928,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -7696,6 +7957,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -7729,6 +7991,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -7757,6 +8020,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -7785,6 +8049,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -7813,6 +8078,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -7841,6 +8107,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -7869,6 +8136,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -7897,6 +8165,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -7925,6 +8194,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -7953,6 +8223,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -7981,6 +8252,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -8014,6 +8286,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -8042,6 +8315,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -8075,6 +8349,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -8103,6 +8378,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -8131,6 +8407,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -8159,6 +8436,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -8187,6 +8465,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -8215,6 +8494,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -8243,6 +8523,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -8276,6 +8557,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -8304,6 +8586,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -8332,6 +8615,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -8365,6 +8649,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -8393,6 +8678,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -8426,6 +8712,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -8454,6 +8741,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -8482,6 +8770,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -8510,6 +8799,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -8543,6 +8833,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -8571,6 +8862,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -8599,6 +8891,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -8627,6 +8920,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -8655,6 +8949,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -8683,6 +8978,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -8711,6 +9007,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -8744,6 +9041,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -8772,6 +9070,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -8800,6 +9099,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -8833,6 +9133,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -8861,6 +9162,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -8894,6 +9196,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -8927,6 +9230,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -8955,6 +9259,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -8983,6 +9288,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -9016,6 +9322,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -9044,6 +9351,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -9072,6 +9380,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -9100,6 +9409,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -9128,6 +9438,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -9161,6 +9472,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -9189,6 +9501,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -9217,6 +9530,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -9245,6 +9559,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -9273,6 +9588,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -9301,6 +9617,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -9329,6 +9646,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -9357,6 +9675,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -9385,6 +9704,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -9418,6 +9738,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -9446,6 +9767,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -9474,6 +9796,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -9502,6 +9825,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -9535,6 +9859,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -9563,6 +9888,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -9591,6 +9917,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -9619,6 +9946,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -9652,6 +9980,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -9685,6 +10014,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -9713,6 +10043,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -9746,6 +10077,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -9774,6 +10106,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -9802,6 +10135,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -9830,6 +10164,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -9858,6 +10193,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -9886,6 +10222,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -9914,6 +10251,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -9942,6 +10280,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -9975,6 +10314,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -10003,6 +10343,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -10031,6 +10372,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -10059,6 +10401,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -10087,6 +10430,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -10115,6 +10459,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -10148,6 +10493,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -10176,6 +10522,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -10209,6 +10556,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -10242,6 +10590,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -10270,6 +10619,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -10298,6 +10648,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -10326,6 +10677,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -10354,6 +10706,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -10382,6 +10735,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -10415,6 +10769,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -10443,6 +10798,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -10471,6 +10827,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -10504,6 +10861,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -10537,6 +10895,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -10565,6 +10924,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -10593,6 +10953,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -10621,6 +10982,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -10649,6 +11011,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -10682,6 +11045,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -10715,6 +11079,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -10748,6 +11113,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -10776,6 +11142,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -10804,6 +11171,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -10832,6 +11200,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -10860,6 +11229,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -10888,6 +11258,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -10916,6 +11287,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -10949,6 +11321,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -10982,6 +11355,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -11010,6 +11384,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -11038,6 +11413,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -11066,6 +11442,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -11099,6 +11476,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -11127,6 +11505,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -11155,6 +11534,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -11183,6 +11563,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -11211,6 +11592,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -11244,6 +11626,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -11277,6 +11660,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -11310,6 +11694,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -11343,6 +11728,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -11371,6 +11757,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -11399,6 +11786,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -11432,6 +11820,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -11460,6 +11849,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -11488,6 +11878,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -11516,6 +11907,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -11544,6 +11936,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -11572,6 +11965,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -11600,6 +11994,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -11628,6 +12023,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -11656,6 +12052,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -11684,6 +12081,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -11712,6 +12110,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -11745,6 +12144,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -11773,6 +12173,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -11801,6 +12202,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -11829,6 +12231,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -11857,6 +12260,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -11885,6 +12289,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -11914,6 +12319,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -11942,6 +12348,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -11970,6 +12377,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -11998,6 +12406,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -12026,6 +12435,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -12054,6 +12464,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -12087,6 +12498,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -12115,6 +12527,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -12148,6 +12561,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -12176,6 +12590,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -12204,6 +12619,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -12232,6 +12648,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -12260,6 +12677,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -12288,6 +12706,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -12321,6 +12740,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -12349,6 +12769,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -12382,6 +12803,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -12410,6 +12832,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -12438,6 +12861,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -12466,6 +12890,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -12494,6 +12919,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -12527,6 +12953,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -12555,6 +12982,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -12583,6 +13011,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -12611,6 +13040,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -12644,6 +13074,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -12672,6 +13103,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -12700,6 +13132,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -12728,6 +13161,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -12761,6 +13195,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -12789,6 +13224,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -12822,6 +13258,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -12855,6 +13292,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -12883,6 +13321,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -12911,6 +13350,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -12939,6 +13379,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -12966,7 +13407,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "AWS Managed Services takes care of all of your patching and backup activities to help keep your resources current and secure. When updates or patches are released by OS vendors, AWS Managed Services applies them in a timely and consistent manner to minimize the impact on your business Critical security patches are applied immediately, while others are applied based on the patch schedule you request. Backups of Stacks are automated using Amazon Elastic Block Store (EBS) and RDS snapshots, and can be restored in the event of a failure or outage, ensuring business continuity",
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -13000,6 +13442,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -13028,6 +13471,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -13056,6 +13500,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -13084,6 +13529,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -13117,6 +13563,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -13145,6 +13592,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -13173,6 +13621,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -13201,6 +13650,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -13234,6 +13684,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -13262,6 +13713,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -13295,6 +13747,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -13323,6 +13776,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -13351,6 +13805,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -13379,6 +13834,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -13407,6 +13863,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -13435,6 +13892,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -13468,6 +13926,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -13501,6 +13960,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -13529,6 +13989,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -13557,6 +14018,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -13590,6 +14052,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -13618,6 +14081,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -13646,6 +14110,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -13679,6 +14144,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -13707,6 +14173,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -13735,6 +14202,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -13763,6 +14231,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -13791,6 +14260,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -13824,6 +14294,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -13858,6 +14329,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -13886,6 +14358,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -13914,6 +14387,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -13942,6 +14416,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -13970,6 +14445,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -13998,6 +14474,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -14031,6 +14508,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -14064,6 +14542,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -14092,6 +14571,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -14120,6 +14600,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -14148,6 +14629,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -14176,6 +14658,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -14204,6 +14687,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -14232,6 +14716,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -14260,6 +14745,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -14288,6 +14774,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -14316,6 +14803,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -14349,6 +14837,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -14377,6 +14866,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -14405,6 +14895,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -14433,6 +14924,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -14461,6 +14953,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -14489,6 +14982,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -14517,6 +15011,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -14545,6 +15040,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -14573,6 +15069,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -14601,6 +15098,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -14629,6 +15127,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -14657,6 +15156,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -14685,6 +15185,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -14718,6 +15219,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -14751,6 +15253,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -14784,6 +15287,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -14812,6 +15316,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -14845,6 +15350,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -14878,6 +15384,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -14906,6 +15413,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -14934,6 +15442,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -14962,6 +15471,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -14990,6 +15500,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15018,6 +15529,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15046,6 +15558,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15074,6 +15587,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15107,6 +15621,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -15135,6 +15650,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15163,6 +15679,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15191,6 +15708,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15219,6 +15737,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15252,6 +15771,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -15280,6 +15800,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15308,6 +15829,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15336,6 +15858,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15364,6 +15887,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15392,6 +15916,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15425,6 +15950,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -15453,6 +15979,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15481,6 +16008,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15509,6 +16037,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15537,6 +16066,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15565,6 +16095,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15593,6 +16124,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15621,6 +16153,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15649,6 +16182,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15677,6 +16211,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15705,6 +16240,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15738,6 +16274,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -15771,6 +16308,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -15799,6 +16337,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15827,6 +16366,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15855,6 +16395,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15883,6 +16424,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15911,6 +16453,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15939,6 +16482,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -15967,6 +16511,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -16000,6 +16545,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -16028,6 +16574,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -16056,6 +16603,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -16084,6 +16632,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -16117,6 +16666,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -16145,6 +16695,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -16173,6 +16724,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -16206,6 +16758,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -16234,6 +16787,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -16267,6 +16821,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -16295,6 +16850,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -16323,6 +16879,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -16351,6 +16908,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -16379,6 +16937,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -16407,6 +16966,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -16440,6 +17000,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -16468,6 +17029,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -16501,6 +17063,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -16529,6 +17092,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -16557,6 +17121,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -16585,6 +17150,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -16613,6 +17179,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -16646,6 +17213,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -16674,6 +17242,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -16707,6 +17276,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -16740,6 +17310,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -16768,6 +17339,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -16796,6 +17368,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -16824,6 +17397,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -16852,6 +17426,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -16880,6 +17455,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -16908,6 +17484,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -16936,6 +17513,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -16964,6 +17542,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -16992,6 +17571,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -17020,6 +17600,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -17048,6 +17629,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -17081,6 +17663,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -17109,6 +17692,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -17142,6 +17726,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -17175,6 +17760,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -17203,6 +17789,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -17236,6 +17823,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -17264,6 +17852,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -17292,6 +17881,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -17325,6 +17915,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -17353,6 +17944,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -17380,7 +17972,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/cost-alloc-tags.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/cost-alloc-tags.html",
     "multiSelect": false
   },
   {
@@ -17408,7 +18001,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/s3/faqs/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/s3/faqs/",
     "multiSelect": false
   },
   {
@@ -17436,7 +18030,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/professional-services/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/professional-services/",
     "multiSelect": false
   },
   {
@@ -17465,6 +18060,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -17493,6 +18089,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -17525,7 +18122,8 @@ export const questions = [
       "A",
       "B"
     ],
-    "explanation": "https://aws.amazon.com/sql/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/sql/",
     "multiSelect": true
   },
   {
@@ -17554,6 +18152,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -17581,7 +18180,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/ec2/pricing/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/ec2/pricing/",
     "multiSelect": false
   },
   {
@@ -17615,6 +18215,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -17642,7 +18243,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/cloudtrail/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/cloudtrail/",
     "multiSelect": false
   },
   {
@@ -17676,6 +18278,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -17708,7 +18311,8 @@ export const questions = [
       "A",
       "B"
     ],
-    "explanation": null,
+    "explanation": "<https://aws.amazon.com/cloudwatch/> You can also use CloudWatch in hybrid cloud architectures by using the CloudWatch Agent or API to monitor your on-premises resources",
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -17736,7 +18340,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://media.amazonwebservices.com/AWS_TCO_Web_Applications.pdf",
+    "explanation": null,
+    "reference": "https://media.amazonwebservices.com/AWS_TCO_Web_Applications.pdf",
     "multiSelect": false
   },
   {
@@ -17765,6 +18370,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -17792,7 +18398,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/about-aws/global-infrastructure/regions_az/#Region_Maps_and_Edge_Networks",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/about-aws/global-infrastructure/regions_az/#Region_Maps_and_Edge_Networks",
     "multiSelect": false
   },
   {
@@ -17826,7 +18433,8 @@ export const questions = [
       "C",
       "D"
     ],
-    "explanation": "https://aws.amazon.com/premiumsupport/knowledge-center/estimating-aws-resource-costs/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/premiumsupport/knowledge-center/estimating-aws-resource-costs/",
     "multiSelect": true
   },
   {
@@ -17859,7 +18467,8 @@ export const questions = [
       "A",
       "D"
     ],
-    "explanation": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html",
     "multiSelect": true
   },
   {
@@ -17887,7 +18496,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/ec2/pricing/reserved-instances/pricing/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/ec2/pricing/reserved-instances/pricing/",
     "multiSelect": false
   },
   {
@@ -17915,7 +18525,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://d1.awsstatic.com/whitepapers/introduction-to-aws-cloud-economics-final.pdf",
+    "explanation": null,
+    "reference": "https://d1.awsstatic.com/whitepapers/introduction-to-aws-cloud-economics-final.pdf",
     "multiSelect": false
   },
   {
@@ -17944,6 +18555,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -17971,7 +18583,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/blogs/security/how-to-restrict-amazon-s3-bucket-access-to-a-specific-iam-role/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/blogs/security/how-to-restrict-amazon-s3-bucket-access-to-a-specific-iam-role/",
     "multiSelect": false
   },
   {
@@ -18000,6 +18613,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -18027,7 +18641,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/ec2/pricing/reserved-instances/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/ec2/pricing/reserved-instances/",
     "multiSelect": false
   },
   {
@@ -18056,6 +18671,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -18083,7 +18699,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/elasticloadbalancing/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/elasticloadbalancing/",
     "multiSelect": false
   },
   {
@@ -18111,7 +18728,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/compliance/soc-faqs/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/compliance/soc-faqs/",
     "multiSelect": false
   },
   {
@@ -18144,7 +18762,8 @@ export const questions = [
       "B",
       "D"
     ],
-    "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": true
   },
   {
@@ -18173,6 +18792,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -18200,7 +18820,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf",
+    "explanation": null,
+    "reference": "https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf",
     "multiSelect": false
   },
   {
@@ -18234,6 +18855,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -18267,6 +18889,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -18294,7 +18917,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": null,
+    "explanation": "In the main RDS page though, Lower administrative burden is listed as part of the benefits. <https://aws.amazon.com/rds/>",
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -18322,7 +18946,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://aws.amazon.com/rds/aurora/serverless/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/rds/aurora/serverless/",
     "multiSelect": false
   },
   {
@@ -18350,7 +18975,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/global-infrastructure.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/global-infrastructure.html",
     "multiSelect": false
   },
   {
@@ -18378,7 +19004,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": false
   },
   {
@@ -18407,6 +19034,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -18435,6 +19063,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -18463,6 +19092,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -18490,7 +19120,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html",
     "multiSelect": false
   },
   {
@@ -18518,7 +19149,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/dynamodb/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/dynamodb/",
     "multiSelect": false
   },
   {
@@ -18546,7 +19178,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://aws.amazon.com/blogs/enterprise-strategy/risk-is-lack-of-agility/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/blogs/enterprise-strategy/risk-is-lack-of-agility/",
     "multiSelect": false
   },
   {
@@ -18574,7 +19207,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/organizations/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/organizations/",
     "multiSelect": false
   },
   {
@@ -18602,7 +19236,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://aws.amazon.com/solutions/case-studies/encoding/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/solutions/case-studies/encoding/",
     "multiSelect": false
   },
   {
@@ -18631,6 +19266,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -18658,7 +19294,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "Global Reach will support an international company using Cloud-Front.",
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -18686,7 +19323,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": false
   },
   {
@@ -18714,7 +19352,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/answers/account-management/aws-multi-account-billing-strategy/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/answers/account-management/aws-multi-account-billing-strategy/",
     "multiSelect": false
   },
   {
@@ -18748,6 +19387,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -18775,7 +19415,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://aws.amazon.com/getting-started/tutorials/get-a-domain/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/getting-started/tutorials/get-a-domain/",
     "multiSelect": false
   },
   {
@@ -18809,6 +19450,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -18836,7 +19478,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://aws.amazon.com/getting-started/projects/host-static-website/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/getting-started/projects/host-static-website/",
     "multiSelect": false
   },
   {
@@ -18864,7 +19507,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://aws.amazon.com/ec2/spot/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/ec2/spot/",
     "multiSelect": false
   },
   {
@@ -18893,6 +19537,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -18921,6 +19566,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -18948,7 +19594,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://aws.amazon.com/redshift/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/redshift/",
     "multiSelect": false
   },
   {
@@ -18976,7 +19623,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/elasticloadbalancing/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/elasticloadbalancing/",
     "multiSelect": false
   },
   {
@@ -19010,6 +19658,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -19038,6 +19687,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -19070,7 +19720,8 @@ export const questions = [
       "B",
       "E"
     ],
-    "explanation": null,
+    "explanation": "<https://aws.amazon.com/getting-started/tutorials/deliver-content-faster/> <https://aws.amazon.com/cloudfront/>",
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -19098,7 +19749,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/enterprise/hybrid/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/enterprise/hybrid/",
     "multiSelect": false
   },
   {
@@ -19126,7 +19778,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "AWS Managed Services takes care of all of your patching and backup activities to help keep your resources current and secure. When updates or patches are released by OS vendors, AWS Managed Services applies them in a timely and consistent manner to minimize the impact on your business Critical security patches are applied immediately, while others are applied based on the patch schedule you request. Backups of Stacks are automated using Amazon Elastic Block Store (EBS) and RDS snapshots, and can be restored in the event of a failure or outage, ensuring business continuity",
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -19154,7 +19807,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://aws.amazon.com/what-is-cloud-object-storage/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/what-is-cloud-object-storage/",
     "multiSelect": false
   },
   {
@@ -19182,7 +19836,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "Access keys are long-term credentials for an IAM user or the AWS account root user. You can use access keys to sign programmatic requests to the AWS CLI or API (directly or using the AWS SDK). For more information, see Signing AWS API Requests in the Amazon Web Services General Reference.",
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -19215,7 +19870,8 @@ export const questions = [
       "B",
       "C"
     ],
-    "explanation": null,
+    "explanation": "Penetration testing is not correct, because it can be done by customers on their own resources.",
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -19243,7 +19899,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale a relational database in the cloud. It provides cost-efficient and resizable capacity while automating time-consuming administration tasks such as hardware provisioning, database setup, patching and backups. It frees you to focus on your applications so you can give them the fast performance, high availability, security and compatibility they need.",
+    "reference": "https://aws.amazon.com/rds/?c=db&sec=srv",
     "multiSelect": false
   },
   {
@@ -19271,7 +19928,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "Amazon Elastic File System (Amazon EFS) provides a simple, scalable, fully managed elastic NFS file system for use with AWS Cloud services and on-premises resources. It is built to scale on demand to petabytes without disrupting applications, growing and shrinking automatically as you add and remove files, eliminating the need to provision and manage capacity to accommodate growth. Amazon EFS is designed to provide the throughput, IOPS, and low latency needed for Linux workloads. Throughput and IOPS scale as a file system grows and can burst to higher throughput levels for short periods of time to support the unpredictable performance needs of file workloads. For the most demanding workloads, Amazon EFS can support performance over 10 GB/sec and up to 500,000 IOPS.",
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -19299,7 +19957,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "\"Provisioning for peaks\" is a characteristic of a traditional computing environment, per the AWS Best Practices: \"you provision capacity based on an estimate of a theoretical maximum peak.\" <https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf>",
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -19327,7 +19986,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "Amazon S3 Glacier is a secure, durable, and low-cost storage class of S3 for data archiving and long-term backup. Customers can store large or small amounts of data for as little as $0.004 per gigabyte per month. The S3 Glacier storage class is ideal for archives where data is regularly retrieved and some of the data may be needed in minutes. Amazon RDS is a relational database service that hosts databases. It helps you create and manage databases. Amazon Snowball is a petabyte-scale data transfer service that provides cost efficient data transfer to AWS from tamper proof physical devices. Similarly, Elastic block storage offers persistent block storage volumes for EC2 instances.",
+    "reference": "https://aws.amazon.com/backup-restore/services/",
     "multiSelect": false
   },
   {
@@ -19355,7 +20015,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "AWS Compliance enables customers to establish and operate in an AWS security control environment The shared responsibility model is part of AWS Compliance The Security of the cloud is managed by Amazon AWS provider The Security in the cloud is responsibility of the customer The customer is responsible for their information and data, their secure transmission, integrity, and encryption Also, the customer is responsible for managing, support, patching and control of the guest operating system and AWS services provided like EC2 AWS customers retain control and ownership of their data The AWS network provides significant protection against traditional network security issues and the customer can implement further protection",
+    "reference": "https://www.whizlabs.com/blog/aws-security-shared-responsibility/",
     "multiSelect": false
   },
   {
@@ -19383,7 +20044,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": null,
+    "explanation": "AWS Marketplace is a digital catalog with thousands of software listings from independent software vendors that make it easy to find, test, buy, and deploy software that runs on AWS.",
+    "reference": "https://aws.amazon.com",
     "multiSelect": false
   },
   {
@@ -19411,7 +20073,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "Developer and IT staff productivity accounted for nearly 30% of overall financial benefits. The remaining benefits were driven by the flexibility and agility of Amazon cloud infrastructure services, which make it easier to trial new business models, support revenue-generating applications, and provide more reliable services to end users.",
+    "reference": "https://media.amazonwebservices.com/IDC_Business_Value_of_AWS_Accelerates_Over_time.pdf",
     "multiSelect": false
   },
   {
@@ -19439,7 +20102,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": null,
+    "explanation": "Use Dedicated Hosts to launch Amazon EC2 instances on physical servers that are dedicated for your use. Dedicated Hosts give you additional visibility and control over how instances are placed on a physical server, and you can reliably use the same physical server over time. As a result, Dedicated Hosts enable you to use your existing server-bound software licenses like Windows Server and address corporate compliance and regulatory requirements.",
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -19467,7 +20131,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "AWS CloudFormation provides a common language for you to describe and provision all the infrastructure resources in your cloud environment. CloudFormation allows you to use a simple text file to model and provision, in an automated and secure manner, all the resources needed for your applications across all regions and accounts. This file serves as the single source of truth for your cloud environment.",
+    "reference": "https://aws.amazon.com/cloudformation/",
     "multiSelect": false
   },
   {
@@ -19495,7 +20160,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": null,
+    "explanation": "AWS Config is a service that enables you to assess, audit, and evaluate the configurations of your AWS resources. Config continuously monitors and records your AWS resource configurations and allows you to automate the evaluation of recorded configurations against desired configurations. With Config, you can review changes in configurations and relationships between AWS resources, dive into detailed resource configuration histories, and determine your overall compliance against the configurations specified in your internal guidelines. This enables you to simplify compliance auditing, security analysis, change management, and operational troubleshooting.",
+    "reference": "https://aws.amazon.com/config/",
     "multiSelect": false
   },
   {
@@ -19523,7 +20189,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "Amazon CloudWatch is basically a metrics repository. An AWS service -- such as Amazon EC2 -- puts metrics into the repository, and you retrieve statistics based on those metrics. If you put your own custom metrics into the repository, you can retrieve statistics on these metrics as well.",
+    "reference": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/",
     "multiSelect": false
   },
   {
@@ -19551,7 +20218,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "use the consolidated billing feature in AWS Organizations to consolidate billing and payment for multiple AWS accounts or multiple Amazon Internet Services Pvt. Ltd (AISPL) accounts. Every organization in AWS Organizations has a master account that pays the charges of all the member accounts. Consolidated billing has the following benefits: One bill You get one bill for multiple accounts. Easy tracking You can track the charges across multiple accounts and download the combined cost and usage data. Combined usage You can combine the usage across all accounts in the organization to share the volume pricing discounts and Reserved Instance discounts. This can result in a lower charge for your project, department, or company than with individual standalone accounts. For more information, see Volume Discounts. No extra fee Consolidated billing is offered at no additional cost.",
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -19584,7 +20252,8 @@ export const questions = [
       "B",
       "C"
     ],
-    "explanation": null,
+    "explanation": "<https://docs.aws.amazon.com/codedeploy/latest/userguide/instances-on-premises.html> <https://aws.amazon.com/blogs/aws/opsworks-on-prem-and-existing-instances/>",
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -19612,7 +20281,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "In the new model, the Spot prices are more predictable, updated less frequently, and are determined by supply and demand for Amazon EC2 spare capacity, not bid prices.",
+    "reference": "https://aws.amazon.com/blogs/compute/new-amazon-ec2-spot-pricing/",
     "multiSelect": false
   },
   {
@@ -19646,6 +20316,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -19673,7 +20344,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/premiumsupport/plans/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/premiumsupport/plans/",
     "multiSelect": false
   },
   {
@@ -19701,7 +20373,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": null,
+    "explanation": "AWS Artifact is your go-to, central resource for compliance-related information that matters to you. It provides on-demand access to AWS's security and compliance reports and select online agreements. The AWS SOC 2 report is particularly helpful for completing questionnaires because it provides a comprehensive description of the implementation and operating effectiveness of AWS security controls. Another useful document is the Executive Briefing within the AWS FedRAMP Partner Package.",
+    "reference": "https://aws.amazon.com/compliance/faq/",
     "multiSelect": false
   },
   {
@@ -19730,6 +20403,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -19757,7 +20431,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": null,
+    "explanation": "If you have multiple standalone accounts, your charges might decrease if you add the accounts to an organization. AWS combines usage from all accounts in the organization to qualify you for volume pricing discounts.",
+    "reference": "https://help.nops.io/consolidated-billing",
     "multiSelect": false
   },
   {
@@ -19785,7 +20460,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "AWS customers are welcome to carry out security assessments or penetration tests against their AWS infrastructure without prior approval for 8 services.",
+    "reference": "https://aws.amazon.com/security/penetration-testing/",
     "multiSelect": false
   },
   {
@@ -19813,7 +20489,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "To use Amazon EC2, you simply: Select a pre-configured, templated Amazon Machine Image (AMI) to get up and running immediately. Or create an AMI containing your applications, libraries, data, and associated configuration settings. Configure security and network access on your Amazon EC2 instance. Choose which instance type(s) you want, then start, terminate, and monitor as many instances of your AMI as needed, using the web service APIs or the variety of management tools provided. Determine whether you want to run in multiple locations, utilize static IP endpoints, or attach persistent block storage to your instances. Pay only for the resources that you actually consume, like instance-hours or data transfer.",
+    "reference": "https://aws.amazon.com/ec2/features/",
     "multiSelect": false
   },
   {
@@ -19841,7 +20518,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": null,
+    "explanation": "Instead of defining permissions for individual IAM users, it's usually more convenient to create groups that relate to job functions (administrators, developers, accounting, etc.). Next, define the relevant permissions for each group. Finally, assign IAM users to those groups. All the users in an IAM group inherit the permissions assigned to the group. That way, you can make changes for everyone in a group in just one place. As people move around in your company, you can simply change what IAM group their IAM user belongs to.",
+    "reference": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
     "multiSelect": false
   },
   {
@@ -19869,7 +20547,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "The Cost & Usage Report is your one-stop-shop for accessing the most granular data about your AWS costs and usage. You can also load your cost and usage information into Amazon Athena, Amazon Redshift, AWS QuickSight, or a tool of your choice.",
+    "reference": "https://aws.amazon.com/aws-cost-management/",
     "multiSelect": false
   },
   {
@@ -19903,6 +20582,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -19930,7 +20610,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "Loose coupling between services can also be done through asynchronous integration. It involves one component that generates events and another that consumes them. The two components do not integrate through direct point-to-point interaction, but usually through an intermediate durable storage layer. This approach decouples the two components and introduces additional resiliency. So, for example, if a process that is reading messages from the queue fails, messages can still be added to the queue to be processed when the system recovers.",
+    "reference": "https://www.botmetric.com/blog/aws-cloud-architecture-design-principles/",
     "multiSelect": false
   },
   {
@@ -19963,7 +20644,8 @@ export const questions = [
       "B",
       "E"
     ],
-    "explanation": null,
+    "explanation": "If you decided to create service accounts (that is, accounts used for programmatic access by applications running outside of the AWS environment) and generate access keys for them, you should create a dedicated service account for each use case. This will allow you to restrict the associated policy to only the permissions needed for the particular use case, limiting the blast radius if the credentials are compromised. For example, if a monitoring tool and a release management tool both require access to your AWS environment, create two separate service accounts with two separate policies that define the minimum set of permissions for each tool.",
+    "reference": "https://aws.amazon.com/blogs/security/guidelines-for-protecting-your-aws-account-while-using-programmatic-access/",
     "multiSelect": true
   },
   {
@@ -19991,7 +20673,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "AWS Storage Gateway is a hybrid cloud storage service that gives you on-premises access to virtually unlimited cloud storage. Customers use Storage Gateway to simplify storage management and reduce costs for key hybrid cloud storage use cases. These include moving tape backups to the cloud, reducing on-premises storage with cloud-backed file shares, providing low latency access to data in AWS for on- premises applications, as well as various migration, archiving, processing, and disaster recovery use cases.",
+    "reference": "https://aws.amazon.com/storagegateway/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc",
     "multiSelect": false
   },
   {
@@ -20019,7 +20702,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "The customer is responsible for managing, support, patching and control of the guest operating system and AWS services provided like EC2.",
+    "reference": "https://www.whizlabs.com/blog/aws-security-shared-responsibility/",
     "multiSelect": false
   },
   {
@@ -20047,7 +20731,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": null,
+    "explanation": "Data Center resilience is practiced through Availability Zones across data centers that reduce the impact of failures. Fault isolation improvement can be made to traditional horizontal scaling by sharding (a method of grouping instances into groups called shards, instead of sending the traffic from all users to every node like in the traditional IT structure.)",
+    "reference": "https://www.botmetric.com/blog/aws-cloud-architecture-design-principles/",
     "multiSelect": false
   },
   {
@@ -20075,7 +20760,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "The enterprise support plans supports technical account manager. Developer and business support plans are devoid of this facility.",
+    "reference": "https://aws.amazon.com/premiumsupport/plans/",
     "multiSelect": false
   },
   {
@@ -20104,6 +20790,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -20131,7 +20818,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "Amazon ElastiCache for Redis is a great choice for implementing a highly available, distributed, and secure in-memory cache to decrease access latency, increase throughput, and ease the load off your relational or NoSQL databases and applications. ElastiCache can serve frequently requested items at sub- millisecond response times, and enables you to easily scale for higher loads without growing the costlier backend databases. Database query results caching, persistent session caching, and full-page caching are all popular examples of caching with ElastiCache for Redis.",
+    "reference": "https://aws.amazon.com/products/databases/real-time-apps-elasticache-for-redis/",
     "multiSelect": false
   },
   {
@@ -20159,7 +20847,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "Of course, Amazon is responsible for auditing physical data center assets and resources since it is the property of Amazon Inc. Customers have no access to physical sites, hence they are not responsible for maintaining physical data center assets.",
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -20192,7 +20881,8 @@ export const questions = [
       "B",
       "E"
     ],
-    "explanation": null,
+    "explanation": "AWS Training and Certification builds your competence, confidence, and credibility through practical cloud skills that help you innovate and build your future. Our content is built by experts at AWS and updated regularly so you're always learning the latest and keeping your cloud skills fresh. Amazon offer both digital and classroom training including private on-site training. You can choose to learn online at your own pace or learn from an accredited AWS instructor. Whether you're just starting out, building on existing IT skills, or sharpening your cloud knowledge, AWS Training and Certification can help you be more effective and do more in the cloud.",
+    "reference": "https://aws.amazon.com/training/course-descriptions/",
     "multiSelect": true
   },
   {
@@ -20225,7 +20915,8 @@ export const questions = [
       "C",
       "D"
     ],
-    "explanation": null,
+    "explanation": "Amazon Virtual Private Cloud (Amazon VPC) lets you provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define. You have complete control over your virtual networking environment, including selection of your own IP address range, creation of subnets, and configuration of route tables and network gateways. You can use both IPv4 and IPv6 in your VPC for secure and easy access to resources and applications. You can easily customize the network configuration for your Amazon VPC. For example, you can create a public-facing subnet for your web servers that has access to the Internet, and place your backend systems such as databases or application servers in a private-facing subnet with no Internet access. You can leverage multiple layers of security, including security groups and network access control lists, to help control access to Amazon EC2 instances in each subnet.",
+    "reference": "https://aws.amazon.com/vpc/",
     "multiSelect": true
   },
   {
@@ -20253,7 +20944,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html",
     "multiSelect": false
   },
   {
@@ -20282,6 +20974,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -20314,7 +21007,8 @@ export const questions = [
       "C",
       "E"
     ],
-    "explanation": null,
+    "explanation": "AWS offers a solution that uses AWS CloudTrail to log account activity, Amazon Kinesis to compute and stream metrics in real-time, and Amazon DynamoDB to durably store the computed data. Metrics are calculated for create, modify, and delete API calls for more than 60 supported AWS services. The solution also features a dashboard that visualizes your account activity in real-time.",
+    "reference": "https://aws.amazon.com/solutions/real-time-insights-account-activity/",
     "multiSelect": true
   },
   {
@@ -20348,6 +21042,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -20375,7 +21070,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://docs.aws.amazon.com/whitepapers/latest/cost-optimization-leveraging-ec2-spot-instances/spot-instance-interruptions.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/whitepapers/latest/cost-optimization-leveraging-ec2-spot-instances/spot-instance-interruptions.html",
     "multiSelect": false
   },
   {
@@ -20403,7 +21099,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "This is to achieve High Availability for any web application (in this case SwiftCode) deployed in AWS. The following features will be present: High availability across multiple instances/multiple availability zones. Auto Scaling of instances (scale up and scale down) based on number of requests coming in Additional Security to the instances/database that are in production No impact to end users during newer version of code deployment No Impact during patching the instances",
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -20431,7 +21128,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://aws.amazon.com/premiumsupport/plans/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/premiumsupport/plans/",
     "multiSelect": false
   },
   {
@@ -20459,7 +21157,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": null,
+    "explanation": "You can host a static website on Amazon Simple Storage Service (Amazon S3). On a static website, individual webpages include static content. They might also contain client-side scripts. By contrast, a dynamic website relies on server-side processing, including server-side scripts such as PHP, JSP, or ASP.NET. Amazon S3 does not support server-side scripting.",
+    "reference": "https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html",
     "multiSelect": false
   },
   {
@@ -20488,6 +21187,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -20520,7 +21220,8 @@ export const questions = [
       "B",
       "D"
     ],
-    "explanation": null,
+    "explanation": "CloudFront delivers your content through a worldwide network of data centers called edge locations. When a user requests content that you're serving with CloudFront, the user is routed to the edge location that provides the lowest latency (time delay), so that content is delivered with the best possible performance.",
+    "reference": "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html",
     "multiSelect": true
   },
   {
@@ -20548,7 +21249,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "To allow users to perform S3 actions on the bucket from the VPC endpoints or IP addresses, you must explicitly grant those user-level permissions. You can grant user-level permissions on either an AWS Identity and Access Management (IAM) policy or another statement in the bucket policy.",
+    "reference": "https://aws.amazon.com/premiumsupport/knowledge-center/block-s3-traffic-vpc-ip/",
     "multiSelect": false
   },
   {
@@ -20576,7 +21278,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf",
+    "explanation": null,
+    "reference": "https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf",
     "multiSelect": false
   },
   {
@@ -20604,7 +21307,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "In EC2, the AWS IaaS offering, everything from the hypervisor layer down is AWS's responsibility. A customer's poorly coded applications, misconfigured operating systems, or insecure firewall settings will not affect the hypervisor, it will only affect the customer's virtual machines running on that hypervisor.",
+    "reference": "https://www.mindpointgroup.com/blog/the-aws-shared-responsibility-model-part-1-security-in",
     "multiSelect": false
   },
   {
@@ -20632,7 +21336,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "On-Demand Capacity Reservations are priced exactly the same as their equivalent (On-Demand) instance usage. If a Capacity Reservation is fully utilized, you only pay for instance usage and nothing towards the Capacity Reservation If a Capacity Reservation is partially utilized, you pay for the instance usage and for the unused portion of the Capacity Reservation.",
+    "reference": "https://aws.amazon.com/ec2/pricing/on-demand/",
     "multiSelect": false
   },
   {
@@ -20660,7 +21365,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "Quick Starts are built by AWS solutions architects and partners to help you deploy popular technologies on AWS, based on AWS best practices for security and high availability. These accelerators reduce hundreds of manual procedures into just a few steps, so you can build your production environment quickly and start using it immediately.",
+    "reference": "https://aws.amazon.com/quickstart/?quickstart-all.sort-by=item.additionalFields.updateDate&quickstart-all.sort-order=desc",
     "multiSelect": false
   },
   {
@@ -20688,7 +21394,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "AWS provides a set of fully managed services that you can use to build and run serverless applications. Serverless applications don't require provisioning, maintaining, and administering servers for backend components such as compute, databases, storage, stream processing, message queueing, and more. You also no longer need to worry about ensuring application fault tolerance and availability. Instead, AWS handles all of these capabilities for you. Serverless platform includes: AWS lambda, Amazon S3, DynamoDB, API gateway, Amazon SNS, AWS step functions, Amazon kinesis and developing tools and services.",
+    "reference": "https://aws.amazon.com/serverless/",
     "multiSelect": false
   },
   {
@@ -20716,7 +21423,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "AWS provides a set of fully managed services that you can use to build and run serverless applications. Serverless applications don't require provisioning, maintaining, and administering servers for backend components such as compute, databases, storage, stream processing, message queueing, and more. You also no longer need to worry about ensuring application fault tolerance and availability. Instead, AWS handles all of these capabilities for you. Serverless platform includes: AWS lambda, Amazon S3, DynamoDB, API gateway, Amazon SNS, AWS step functions, Amazon kinesis and developing tools and services.",
+    "reference": "https://aws.amazon.com/serverless/",
     "multiSelect": false
   },
   {
@@ -20744,7 +21452,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "Shared Controls Controls which apply to both the infrastructure layer and customer layers, but in completely separate contexts or perspectives. In a shared control, AWS provides the requirements for the infrastructure and the customer must provide their own control implementation within their use of AWS services. Examples include: Patch Management AWS is responsible for patching and fixing flaws within the infrastructure, but customers are responsible for patching their guest OS and applications. Configuration Management AWS maintains the configuration of its infrastructure devices, but a customer is responsible for configuring their own guest operating systems, databases, and applications. Awareness & Training AWS trains AWS employees, but a customer must train their own employees. Customer Specific Controls which are solely the responsibility of the customer based on the application they are deploying within AWS services. Service and Communications Protection or Zone Security which may require a customer to route or zone data within specific security environments.",
+    "reference": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": false
   },
   {
@@ -20777,7 +21486,8 @@ export const questions = [
       "B",
       "D"
     ],
-    "explanation": null,
+    "explanation": "CloudFront delivers your content through a worldwide network of data centers called edge locations. When a user requests content that you're serving with CloudFront, the user is routed to the edge location that provides the lowest latency (time delay), so that content is delivered with the best possible performance.",
+    "reference": "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html",
     "multiSelect": true
   },
   {
@@ -20805,7 +21515,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "AWS Auto Scaling monitors your applications and automatically adjusts capacity to maintain steady, predictable performance at the lowest possible cost. Using AWS Auto Scaling, it's easy to setup application scaling for multiple resources across multiple services in minutes. - The service provides a simple, powerful user interface that lets you build scaling plans for resources including Amazon EC2 instances and Spot Fleets, Amazon ECS tasks, Amazon DynamoDB tables and indexes, and Amazon Aurora Replicas. AWS Auto Scaling makes scaling simple with recommendations that allow you to optimize performance, costs, or balance between them. If you're already using Amazon EC2 Auto Scaling to dynamically scale your Amazon EC2 instances, you can now combine it with AWS Auto Scaling to scale additional resources for other AWS services. With AWS Auto Scaling, your applications always have the right resources at the right time.",
+    "reference": "https://aws.amazon.com/autoscaling/",
     "multiSelect": false
   },
   {
@@ -20838,7 +21549,8 @@ export const questions = [
       "A",
       "D"
     ],
-    "explanation": "http://jayendrapatil.com/aws-global-vs-regional-vs-az-resources/",
+    "explanation": null,
+    "reference": "http://jayendrapatil.com/aws-global-vs-regional-vs-az-resources/",
     "multiSelect": true
   },
   {
@@ -20866,7 +21578,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": null,
+    "explanation": "AWS Artifact is your go-to, central resource for compliance-related information that matters to you. It provides on-demand access to AWS' security and compliance reports and select online agreements. Reports available in AWS Artifact include our Service Organization Control (SOC) reports, Payment Card Industry (PCI) reports, and certifications from accreditation bodies across geographies and compliance verticals that validate the implementation and operating effectiveness of AWS security controls. Agreements available in AWS Artifact include the Business Associate Addendum (BAA) and the Nondisclosure Agreement (NDA).",
+    "reference": "https://aws.amazon.com/artifact/",
     "multiSelect": false
   },
   {
@@ -20899,7 +21612,8 @@ export const questions = [
       "A",
       "C"
     ],
-    "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": true
   },
   {
@@ -20928,6 +21642,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -20956,6 +21671,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -20989,6 +21705,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -21017,6 +21734,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -21045,7 +21763,8 @@ export const questions = [
       "A",
       "D"
     ],
-    "explanation": null,
+    "explanation": "AWS Direct Connect enables you to securely connect your AWS environment to your on-premises data center or office location over a standard 1 gigabit or 10 gigabit Ethernet fiber-optic connection. AWS Direct Connect offers dedicated high speed, low latency connection, which bypasses internet service providers in your network path. An AWS Direct Connect location provides access to Amazon Web Services in the region it is associated with, as well as access to other US regions. AWS Direct Connect allows you to logically partition the fiber-optic connections into multiple logical connections called Virtual Local Area Networks (VLAN). You can take advantage of these logical connections to improve security, differentiate traffic, and achieve compliance requirements.",
+    "reference": "https://aws.amazon.com/getting-started/projects/connect-data-center-to-aws/",
     "multiSelect": true
   },
   {
@@ -21073,7 +21792,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "AWS Lambda is an integral part of coding on AWS. It reduces physical compute footprint by utilizing aws cloud services to run code.",
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -21101,7 +21821,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": null,
+    "explanation": "AWS Personal Health Dashboard provides alerts and remediation guidance when AWS is experiencing events that may impact you. While the Service Health Dashboard displays the general status of AWS services, Personal Health Dashboard gives you a personalized view into the performance and availability of the AWS services underlying your AWS resources.",
+    "reference": "https://aws.amazon.com/premiumsupport/technology/personal-health-dashboard/",
     "multiSelect": false
   },
   {
@@ -21134,7 +21855,8 @@ export const questions = [
       "A",
       "D"
     ],
-    "explanation": null,
+    "explanation": "Like your customized cloud expert, AWS Trusted Advisor analyzes your AWS environment and provides best practice recommendations in five categories: cost optimization, performance, security, fault tolerance and service limits.",
+    "reference": "https://aws.amazon.com/premiumsupport/technology/trusted-advisor/",
     "multiSelect": true
   },
   {
@@ -21158,7 +21880,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "The customer is responsible for managing, support, patching and control of the guest operating system and AWS services provided like EC2.",
+    "reference": "https://www.whizlabs.com/blog/aws-security-shared-responsibility/",
     "multiSelect": false
   },
   {
@@ -21187,6 +21910,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -21214,7 +21938,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "You can use Cost explorer which is part of Cost and Usage report to forecast future costs of running an application.",
+    "reference": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/ce-forecast.html",
     "multiSelect": false
   },
   {
@@ -21242,7 +21967,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/premiumsupport/plans/",
+    "explanation": "<https://aws.amazon.com/premiumsupport/plans/>",
+    "reference": "https://aws.amazon.com/premiumsupport/plans/",
     "multiSelect": false
   },
   {
@@ -21270,7 +21996,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "Client-side data, application security is the sole responsibility of the customer. Patch management is a shared responsibility. That leaves us with edge location management and since this out of the control of the customer, AWS is the one responsible for it.",
+    "reference": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": false
   },
   {
@@ -21298,7 +22025,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "An IAM group is a collection of IAM users. You can use groups to specify permissions for a collection of users, which can make those permissions easier to manage for those users. For example, you could have a group called Admins and give that group the types of permissions that administrators typically need.",
+    "reference": "https://docs.aws.amazon.com/IAM/latest/UserGuide/id.html",
     "multiSelect": false
   },
   {
@@ -21331,7 +22059,8 @@ export const questions = [
       "B",
       "C"
     ],
-    "explanation": null,
+    "explanation": "The most celebrated benefit of AWS cloud is elasticity since you can expand the services when you experience more traffic. Agile developments in AWS Cloud through strategies are day by day becoming more established within the enterprises across the world. With so much improvement and call for optimization in the cloud, it is necessary that these strategies get established from the ground up within the organizations. It is highly important as already enterprises have a lot of bequest, politics and hierarchies which act as barriers in their businesses.",
+    "reference": "https://www.botmetric.com/blog/evolution-agile-enterprises-aws-cloud/",
     "multiSelect": true
   },
   {
@@ -21359,7 +22088,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "Single sign-on only works when used on a computer that is joined to the AWS Directory Service directory. It cannot be used on computers that are not joined to the directory.",
+    "reference": "https://docs.aws.amazon.com/directoryservice/latest/admin-guide/ms_ad_single_sign_on.html",
     "multiSelect": false
   },
   {
@@ -21387,7 +22117,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "Each Region is completely independent. Each Availability Zone is isolated, but the Availability Zones in a Region are connected through low-latency links. A Local Zone is an AWS infrastructure deployment that places select services closer to your end users. A Local Zone is an extension of a Region that is in a different location from your Region. It provides a high-bandwidth backbone to the AWS infrastructure and is ideal for latency-sensitive applications, for example machine learning.",
+    "reference": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html",
     "multiSelect": false
   },
   {
@@ -21420,7 +22151,8 @@ export const questions = [
       "A",
       "B"
     ],
-    "explanation": "https://d0.awsstatic.com/whitepapers/compliance/AWS_Risk_and_Compliance_Whitepaper.pdf",
+    "explanation": null,
+    "reference": "https://d0.awsstatic.com/whitepapers/compliance/AWS_Risk_and_Compliance_Whitepaper.pdf",
     "multiSelect": true
   },
   {
@@ -21448,7 +22180,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "AWS Artifact is your go-to, central resource for compliance-related information that matters to you. It provides on-demand access to AWS' security and compliance reports and select online agreements. Reports available in AWS Artifact include our Service Organization Control (SOC) reports, Payment Card Industry (PCI) reports, and certifications from accreditation bodies across geographies and compliance verticals that validate the implementation and operating effectiveness of AWS security controls. Agreements available in AWS Artifact include the Business Associate Addendum (BAA) and the Nondisclosure Agreement (NDA).",
+    "reference": "https://aws.amazon.com/artifact/",
     "multiSelect": false
   },
   {
@@ -21476,7 +22209,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": false
   },
   {
@@ -21509,7 +22243,8 @@ export const questions = [
       "C",
       "D"
     ],
-    "explanation": "https://aws.amazon.com/blogs/aws/the-new-aws-tco-calculator/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/blogs/aws/the-new-aws-tco-calculator/",
     "multiSelect": true
   },
   {
@@ -21542,7 +22277,8 @@ export const questions = [
       "B",
       "C"
     ],
-    "explanation": null,
+    "explanation": "The hardware related jobs is the prime responsibility of AWS. VPC network access control lists is something a customer has to do himself to secure the applications. Encrypting data in transit and at rest is a shared responsibility in which AWS plays a part. All hardware related jobs have nothing to do with the customer.",
+    "reference": "https://dzone.com/articles/aws-shared-responsibility-model-cloud-security",
     "multiSelect": true
   },
   {
@@ -21575,7 +22311,8 @@ export const questions = [
       "A",
       "B"
     ],
-    "explanation": "https://wa.aws.amazon.com/wat.concept.elasticity.en.html",
+    "explanation": null,
+    "reference": "https://wa.aws.amazon.com/wat.concept.elasticity.en.html",
     "multiSelect": true
   },
   {
@@ -21603,7 +22340,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": null,
+    "explanation": "The key to understanding spot instances is to look at the way that cloud service providers such as Amazon Web Services (AWS) operate. Cloud service providers invest in hardware resources and then release those resources (often on a per-hour basis) to subscribers. One of the problems with this business model, however, is that at any given time, there are likely to be compute resources that are not being utilized. These resources represent hardware capacity that AWS has paid for but are sitting idle, and not making AWS any money at the moment. Rather than allowing these computing resources to go to waste, AWS offers them at a substantially discounted rate, with the understanding that if someone needs those resources for running a normal EC2 instance, that instance will take priority over spot instances that are using the hardware resources at a discounted rate. In fact, spot instances will be stopped if the resources are needed elsewhere.",
+    "reference": "https://awsinsider.net/articles/2017/09/25/aws-spot-instances-primer.aspx",
     "multiSelect": false
   },
   {
@@ -21637,6 +22375,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -21664,7 +22403,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "AWS Lambda is charging its users by the number of requests for their functions and by the duration, which is the time the code needs to execute. When code starts running in response to an event, AWS Lambda counts a request. It will charge the total number of requests across all of the functions used. Duration is calculated by the time when your code started executing until it returns or until it is terminated, rounded up near to 100ms. The AWS Lambda pricing depends on the amount of memory that the user used to allocate to the function.",
+    "reference": "https://dashbird.io/blog/aws-lambda-pricing-model-explained/",
     "multiSelect": false
   },
   {
@@ -21692,7 +22432,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": null,
+    "explanation": "AWS Security Groups act like a firewall for your Amazon EC2 instances controlling both inbound and outbound traffic. When you launch an instance on Amazon EC2, you need to assign it to a particular security group. After that, you can set up ports and protocols, which remain open for users and computers over the internet. AWS Security Groups are very flexible. You can use the default security group and still customize it according to your liking (although we don't recommend this practice because groups should be named according to their purpose.) Or you can create a security group that you want for your specific applications. To do this, you can write the corresponding code or use the Amazon EC2 console to make the process easier.",
+    "reference": "https://www.threatstack.com/blog/aws-security-groups-what-they-are-and-how-to-get-the-most-out-of-them",
     "multiSelect": false
   },
   {
@@ -21720,7 +22461,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "Backup and Restore: a simple, straightforward, cost-effective method that backs up and restores data as needed. Keep in mind that because none of your data is on standby, this method, while cheap, can be quite time-consuming. Pilot Light: This method keeps critical applications and data at the ready so that it can be quickly retrieved if needed. Warm Standby: This method keeps a duplicate version of your business' core elements running on standby at all times, which makes for a little downtime and an almost seamless transition. Multi-Site Solution: Also known as a Hot Standby, this method fully replicates your company's data/ applications between two or more active locations and splits your traffic/usage between them. If a disaster strikes, everything is simply rerouted to the unaffected area, which means you'll suffer almost zero downtime. However, by running two separate environments simultaneously, you will obviously incur much higher costs.",
+    "reference": "https://cloudranger.com/best-practices-aws-disaster-recovery-planning/",
     "multiSelect": false
   },
   {
@@ -21748,7 +22490,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "AWS TCO calculators allow you to estimate the cost savings when using AWS and provide a detailed set of reports that can be used in executive presentations. The calculators also give you the option to modify assumptions that best meet your business needs.",
+    "reference": "https://aws.amazon.com/tco-calculator/",
     "multiSelect": false
   },
   {
@@ -21776,7 +22519,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "The way that Reserved Instance discounts apply to accounts in an organization's consolidated billing family depends on whether Reserved Instance sharing is turned on or off for the account. By default, Reserved Instance sharing for all accounts in an organization is turned on. You can change this setting by Turning Off Reserved Instance Sharing for an account. The capacity reservation for a Reserved Instance applies only to the account the Reserved Instance was purchased on, regardless of whether Reserved Instance sharing is turned on or off.",
+    "reference": "https://aws.amazon.com/premiumsupport/knowledge-center/ec2-ri-consolidated-billing/",
     "multiSelect": false
   },
   {
@@ -21804,7 +22548,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "You can use the consolidated billing feature in AWS Organizations to consolidate billing and payment for multiple AWS accounts or multiple Amazon Internet Services Pvt. Ltd (AISPL) accounts. Every organization in AWS Organizations has a master (payer) account that pays the charges of all the member (linked) accounts.",
+    "reference": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html",
     "multiSelect": false
   },
   {
@@ -21832,7 +22577,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": null,
+    "explanation": "Amazon CloudFront is a content delivery network (CDN) service that distributes data from multiple locations worldwide, providing low-latency access to end-users.",
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -21860,7 +22606,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "The cloud allows you to trade capital expenses (such as data centers and physical servers) for variable expenses, and only pay for IT as you consume it. Plus, the variable expenses are much lower than what you would pay to do it yourself because of the economies of scale.",
+    "reference": "https://aws.amazon.com/what-is-cloud-computing/",
     "multiSelect": false
   },
   {
@@ -21888,7 +22635,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "AWS assets are centrally managed through an inventory management system that stores and tracks owner, location, status, maintenance, and descriptive information for AWS-owned assets. Following procurement, assets are scanned and tracked, and assets undergoing maintenance are checked and monitored for ownership, status, and resolution.",
+    "reference": "https://aws.amazon.com/compliance/data-center/controls/",
     "multiSelect": false
   },
   {
@@ -21916,7 +22664,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://docs.amazonaws.cn/en_us/AmazonRDS/latest/UserGuide/rds-ug.pdf",
+    "explanation": null,
+    "reference": "https://docs.amazonaws.cn/en_us/AmazonRDS/latest/UserGuide/rds-ug.pdf",
     "multiSelect": false
   },
   {
@@ -21944,7 +22693,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "When you create IAM policies, follow the standard security advice of granting least privilege, or granting only the permissions required to perform a task. Determine what users (and roles) need to do and then craft policies that allow them to perform only those tasks.",
+    "reference": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
     "multiSelect": false
   },
   {
@@ -21977,7 +22727,8 @@ export const questions = [
       "B",
       "D"
     ],
-    "explanation": null,
+    "explanation": "Tags are key-value pairs that allow you to organize your AWS resources into groups. You can use tags to: Visualize information about tagged resources in one place, in conjunction with Resource Groups. View billing information using Cost Explorer and the AWS Cost and Usage report. Send notifications about spending limits using AWS Budgets. Use logical groupings of your resources that make sense for your infrastructure or business. For example, you could organize your resources by: Project Cost center Development environment Application Department",
+    "reference": "https://aws.amazon.com/premiumsupport/knowledge-center/tags-billing-cost-center-project/",
     "multiSelect": true
   },
   {
@@ -22005,7 +22756,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": false
   },
   {
@@ -22033,7 +22785,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "AWS offers premium services such as AWS Trusted Advisor, which provides real-time guidance to help you reduce cost, increase performance, and improve security.",
+    "reference": "https://www.ibm.com/downloads/cas/2N40X4PQ",
     "multiSelect": false
   },
   {
@@ -22061,7 +22814,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "Support for monitoring the health of each service independently, as health checks are defined at the target group level and many CloudWatch metrics are reported at the target group level. Attaching a target group to an Auto Scaling group enables you to scale each service dynamically based on demand.",
+    "reference": "https://docs.aws.amazon.com/elasticloadbalancing/latest/application/introduction.html",
     "multiSelect": false
   },
   {
@@ -22094,7 +22848,8 @@ export const questions = [
       "C",
       "E"
     ],
-    "explanation": null,
+    "explanation": "With the basic Cloud infrastructure secured and maintained by AWS, the responsibility for what goes into the cloud falls on you. This covers both client and server side encryption and network traffic protection, security of the operating system, network, and firewall configuration, followed by application security and identity and access management. Firewall configuration remains the responsibility of the end user, which integrates at the platform and application management level. For example, RDS utilizes security groups, which you would be responsible for configuring and implementing.",
+    "reference": "https://cloudacademy.com/blog/aws-shared-responsibility-model-security/",
     "multiSelect": true
   },
   {
@@ -22122,7 +22877,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "The AWS Storage Gateway service enables hybrid cloud storage between on-premises environments and the AWS Cloud. It seamlessly integrates on-premises enterprise applications and workflows with Amazon's block and object cloud storage services through industry standard storage protocols. It provides low-latency performance by caching frequently accessed data on premises, while storing data securely and durably in Amazon cloud storage services. It provides an optimized data transfer mechanism and bandwidth management, which tolerates unreliable networks and minimizes the amount of data being transferred. It brings the security, manageability, durability, and scalability of AWS to existing enterprise environments through native integration with AWS encryption, identity management, monitoring, and storage services. Typical use cases include backup and archiving, disaster recovery, moving data to S3 for in-cloud workloads, and tiered storage.",
+    "reference": "https://aws.amazon.com/storagegateway/faqs/",
     "multiSelect": false
   },
   {
@@ -22150,7 +22906,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://cloudacademy.com/blog/aws-shared-responsibility-model-security/",
+    "explanation": null,
+    "reference": "https://cloudacademy.com/blog/aws-shared-responsibility-model-security/",
     "multiSelect": false
   },
   {
@@ -22178,7 +22935,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "Amazon RDS Multi-AZ deployments provide enhanced availability and durability for Database (DB) Instances, making them a natural fit for production database workloads. When you provision a Multi-AZ DB Instance, Amazon RDS automatically creates a primary DB Instance and synchronously replicates the data to a standby instance in a different Availability Zone (AZ). Each AZ runs on its own physically distinct, independent infrastructure, and is engineered to be highly reliable. In case of an infrastructure failure, Amazon RDS performs an automatic failover to the standby (or to a read replica in the case of Amazon Aurora), so that you can resume database operations as soon as the failover is complete. Since the endpoint for your DB Instance remains the same after a failover, your application can resume database operation without the need for manual administrative intervention.",
+    "reference": "https://aws.amazon.com/rds/details/multi-az/",
     "multiSelect": false
   },
   {
@@ -22206,7 +22964,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "When you create IAM policies, follow the standard security advice of granting least privilege, or granting only the permissions required to perform a task. Determine what users (and roles) need to do and then craft policies that allow them to perform only those tasks.",
+    "reference": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html#grant-least-privilege",
     "multiSelect": false
   },
   {
@@ -22234,7 +22993,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "IT systems should ideally be designed in a way that reduces inter-dependencies. Your components need to be loosely coupled to avoid changes or failure in one of the components from affecting others. Your infrastructure also needs to have well defined interfaces that allow the various components to interact with each other only through specific, technology-agnostic interfaces. Modifying any underlying operations without affecting other components should be made possible.",
+    "reference": "https://www.botmetric.com/blog/aws-cloud-architecture-design-principles/",
     "multiSelect": false
   },
   {
@@ -22262,7 +23022,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "Amazon VPC provides multiple network connectivity options for you to leverage depending on your current network designs and requirements. These connectivity options include leveraging either the internet or an AWS Direct Connect connection as the network backbone and terminating the connection into either AWS or user-managed network endpoints. Additionally, with AWS, you can choose how network routing is delivered between Amazon VPC and your networks, leveraging either AWS or user-managed network equipment and routes.",
+    "reference": "https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/",
     "multiSelect": false
   },
   {
@@ -22291,6 +23052,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -22323,7 +23085,8 @@ export const questions = [
       "B",
       "D"
     ],
-    "explanation": null,
+    "explanation": "Your root account should always be protected by Multi-Factor Authentication (MFA). This additional layer of security helps protect against unauthorized logins to your account by requiring two factors: something you know (a password) and something you have (for example, an MFA device). AWS supports virtual and hardware MFA devices and U2F security keys. Cognito can be used as an Identity Provider (IdP), where it stores and maintains users and credentials securely for your applications, or it can be integrated with OpenID Connect, SAML, and other popular web identity providers like Amazon.com. Using Amazon Cognito, you can generate temporary access credentials for your clients to access AWS services, eliminating the need to store long-term credentials in client applications.",
+    "reference": "https://aws.amazon.com/blogs/security/guidelines-for-protecting-your-aws-account-while-using-programmatic-access/",
     "multiSelect": true
   },
   {
@@ -22351,7 +23114,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "To improve control over your AWS environment, you can use AWS Organizations to create groups of accounts, and then attach policies to a group to ensure the correct policies are applied across the accounts without requiring custom scripts and manual processes.",
+    "reference": "https://aws.amazon.com/organizations/",
     "multiSelect": false
   },
   {
@@ -22379,7 +23143,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html",
     "multiSelect": false
   },
   {
@@ -22407,7 +23172,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": null,
+    "explanation": "You can use AWS Artifact Reports to download AWS security and compliance documents, such as AWS ISO certifications, Payment Card Industry (PCI), and System and Organization Control (SOC) reports.",
+    "reference": "https://aws.amazon.com/artifact/faq/",
     "multiSelect": false
   },
   {
@@ -22435,7 +23201,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://aws.amazon.com/premiumsupport/plans/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/premiumsupport/plans/",
     "multiSelect": false
   },
   {
@@ -22463,7 +23230,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/",
     "multiSelect": false
   },
   {
@@ -22491,7 +23259,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "When you stop or terminate an instance, every block of storage in the instance store is reset. Therefore, your data cannot be accessed through the instance store of another instance.",
+    "reference": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html",
     "multiSelect": false
   },
   {
@@ -22519,7 +23288,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://data-flair.training/blogs/aws-advantages/",
+    "explanation": null,
+    "reference": "https://data-flair.training/blogs/aws-advantages/",
     "multiSelect": false
   },
   {
@@ -22547,7 +23317,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html",
     "multiSelect": false
   },
   {
@@ -22575,7 +23346,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "There are six design principles for operational excellence in the cloud: Perform operations as code Annotate documentation Make frequent, small, reversible changes Refine operations procedures frequently Anticipate failure Learn from all operational failures",
+    "reference": "https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/",
     "multiSelect": false
   },
   {
@@ -22603,7 +23375,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://aws.amazon.com/tools/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/tools/",
     "multiSelect": false
   },
   {
@@ -22631,7 +23404,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": null,
+    "explanation": "With On-Demand instances, you pay for compute capacity by the hour or the second depending on which instances you run. No longer-term commitments or upfront payments are needed. You can increase or decrease your compute capacity depending on the demands of your application and only pay the specified per hourly rates for the instance you use.",
+    "reference": "https://aws.amazon.com/ec2/pricing/",
     "multiSelect": false
   },
   {
@@ -22659,7 +23433,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "Amazon Aurora is a relational database service that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases. The MySQL- compatible edition of Aurora delivers up to 5X the throughput of standard MySQL running on the same hardware, and enables existing MySQL applications and tools to run without requiring modification. Amazon Aurora will automatically grow the size of your database volume as your database storage needs grow. Your volume will grow in increments of 10 GB up to a maximum of 64 TB. You don't need to provision excess storage for your database to handle future growth.",
+    "reference": "https://aws.amazon.com/rds/aurora/mysql-features/",
     "multiSelect": false
   },
   {
@@ -22687,7 +23462,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "A VPC peering connection is a networking connection between two VPCs that enables you to route traffic between them using private IPv4 addresses or IPv6 addresses. Instances in either VPC can communicate with each other as if they are within the same network. You can create a VPC peering connection between your own VPCs, or with a VPC in another AWS account. The VPCs can be in different regions (also known as an inter-region VPC peering connection).",
+    "reference": "https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html",
     "multiSelect": false
   },
   {
@@ -22715,7 +23491,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "AWS CodeCommit is a version control service hosted by Amazon Web Services that you can use to privately store and manage assets (such as documents, source code, and binary files) in the cloud.",
+    "reference": "https://docs.aws.amazon.com/codecommit/latest/userguide/welcome.html",
     "multiSelect": false
   },
   {
@@ -22743,7 +23520,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "TCO calculator compare the cost of running your applications in an on-premises or colocation environment to AWS.",
+    "reference": "https://awstcocalculator.com",
     "multiSelect": false
   },
   {
@@ -22771,7 +23549,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "AWS Snowmobile is an exabyte-scale data transfer service that can move extremely large amounts of data to AWS in a fast, secure, and cost-effective manner. You can transfer up to 100PB per Snowmobile, a 45-foot long ruggedized shipping container, pulled by a semi-trailer truck. - Snowmobile makes it easy to move massive volumes of data to the cloud, including video libraries, image repositories, or even a complete data center migration. All data is encrypted with 256-bit encryption and you can manage your encryption keys with AWS Key Management Service (AWS KMS). Snowmobile includes GPS tracking, alarm monitoring, 24/7 video surveillance and an optional escort security vehicle while in transit.",
+    "reference": "https://aws.amazon.com/about-aws/whats-new/2016/11/move-exabyte-scale-data-sets-with",
     "multiSelect": false
   },
   {
@@ -22804,7 +23583,8 @@ export const questions = [
       "B",
       "E"
     ],
-    "explanation": "https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf",
+    "explanation": null,
+    "reference": "https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf",
     "multiSelect": true
   },
   {
@@ -22837,7 +23617,8 @@ export const questions = [
       "C",
       "E"
     ],
-    "explanation": null,
+    "explanation": "Elastic Load Balancing supports the following types of load balancers: Application Load Balancers, Network Load Balancers, and Classic Load Balancers. Amazon ECS services can use either type of load balancer. Application Load Balancers are used to route HTTP/HTTPS (or Layer 7) traffic. Network Load Balancers and Classic Load Balancers are used to route TCP (or Layer 4) traffic.",
+    "reference": "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/load-balancer-types.html",
     "multiSelect": true
   },
   {
@@ -22865,7 +23646,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "AWS offers you a pay-as-you-go approach for pricing for over 160 cloud services. With AWS you pay only for the individual services you need, for as long as you use them, and without requiring long-term contracts or complex licensing. AWS pricing is similar to how you pay for utilities like water and electricity. You only pay for the services you consume, and once you stop using them, there are no additional costs or termination fees.",
+    "reference": "https://aws.amazon.com/pricing/",
     "multiSelect": false
   },
   {
@@ -22893,7 +23675,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "You can deliver content and decrease end-user latency of your web application using Amazon CloudFront. CloudFront speeds up content delivery by leveraging its global network of data centers, known as edge locations, to reduce delivery time by caching your content close to your end users. CloudFront fetches your content from an origin, such as an Amazon S3 bucket, an Amazon EC2 instance, an Amazon Elastic Load Balancing load balancer or your own web server, when it's not already in an edge location. CloudFront can be used to deliver your entire website or application, including dynamic, static, streaming, and interactive content.",
+    "reference": "https://aws.amazon.com/getting-started/tutorials/deliver-content-faster/",
     "multiSelect": false
   },
   {
@@ -22921,7 +23704,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "AWS Artifact is your go-to, central resource for compliance-related information that matters to you. It provides on-demand access to AWS' security and compliance reports and select online agreements. Reports available in AWS Artifact include our Service Organization Control (SOC) reports, Payment Card Industry (PCI) reports, and certifications from accreditation bodies across geographies and compliance verticals that validate the implementation and operating effectiveness of AWS security controls. Agreements available in AWS Artifact include the Business Associate Addendum (BAA) and the Nondisclosure Agreement (NDA).",
+    "reference": "https://aws.amazon.com/artifact/",
     "multiSelect": false
   },
   {
@@ -22949,7 +23733,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://severalnines.com/news/aws-users-prefer-self-managed-databases",
+    "explanation": null,
+    "reference": "https://severalnines.com/news/aws-users-prefer-self-managed-databases",
     "multiSelect": false
   },
   {
@@ -22977,7 +23762,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/premiumsupport/plans/enterprise/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/premiumsupport/plans/enterprise/",
     "multiSelect": false
   },
   {
@@ -23005,7 +23791,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "An AWS Region is a geographic location where AWS provides multiple, physically separated and isolated Availability Zones which are connected with low latency, high throughput, and highly redundant networking.",
+    "reference": "https://aws.amazon.com/s3/faqs/",
     "multiSelect": false
   },
   {
@@ -23033,7 +23820,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": null,
+    "explanation": "You can continue to optimize your spend and keep your development costs low by making sure you revisit your architecture often, to adjust to your startup growth. Manage your cost further by leveraging different options such as S3 CloudFront for caching & offloading to reduce cost of EC2 computing, as well as Elastic Load Balancing which prepares you for massive scale, high reliability and uninterrupted growth. Another way to keep costs down is to use AWS Identity and Access Management solutions (IAM) to manage governance of your cost drivers effectively and by the right teams.",
+    "reference": "https://aws.amazon.com/startups/lean/",
     "multiSelect": false
   },
   {
@@ -23061,7 +23849,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "Agile is a time boxed, iterative approach to software delivery that builds software incrementally from the start of the project, instead of trying to deliver it all at once near the end.",
+    "reference": "http://www.agilenutshell.com",
     "multiSelect": false
   },
   {
@@ -23089,7 +23878,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://aws.amazon.com/premiumsupport/plans/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/premiumsupport/plans/",
     "multiSelect": false
   },
   {
@@ -23122,7 +23912,8 @@ export const questions = [
       "A",
       "D"
     ],
-    "explanation": "https://aws.amazon.com/shield/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/shield/",
     "multiSelect": true
   },
   {
@@ -23156,7 +23947,8 @@ export const questions = [
       "C",
       "D"
     ],
-    "explanation": "https://aws.amazon.com/blogs/aws/the-new-aws-tco-calculator/",
+    "explanation": "<https://aws.amazon.com/blogs/aws/the-new-aws-tco-calculator/>",
+    "reference": "https://aws.amazon.com/blogs/aws/the-new-aws-tco-calculator/",
     "multiSelect": true
   },
   {
@@ -23184,7 +23976,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "Rekognition Image is an image recognition service that detects objects, scenes, and faces; extracts text; recognizes celebrities; and identifies inappropriate content in images. It also allows you to search and compare faces. Rekognition Image is based on the same proven, highly scalable, deep learning technology developed by Amazon's computer vision scientists to analyze billions of images daily for Prime Photos.",
+    "reference": "https://aws.amazon.com/rekognition/faqs/",
     "multiSelect": false
   },
   {
@@ -23212,7 +24005,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://www.awstcocalculator.com/Output/Load/f85bbf7e131446643911859504",
+    "explanation": null,
+    "reference": "https://www.awstcocalculator.com/Output/Load/f85bbf7e131446643911859504",
     "multiSelect": false
   },
   {
@@ -23240,7 +24034,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://cloudacademy.com/blog/aws-shared-responsibility-model-security/",
+    "explanation": null,
+    "reference": "https://cloudacademy.com/blog/aws-shared-responsibility-model-security/",
     "multiSelect": false
   },
   {
@@ -23268,7 +24063,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "To forecast your costs, use the AWS Cost Explorer. Use cost allocation tags to divide your resources into groups, and then estimate the costs for each group.",
+    "reference": "https://aws.amazon.com/premiumsupport/knowledge-center/estimating-aws-resource-costs/",
     "multiSelect": false
   },
   {
@@ -23296,7 +24092,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://www.cloudconformity.com/knowledge-base/aws/EC2/security-group-egress-any.html",
+    "explanation": null,
+    "reference": "https://www.cloudconformity.com/knowledge-base/aws/EC2/security-group-egress-any.html",
     "multiSelect": false
   },
   {
@@ -23324,7 +24121,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "You can monitor your estimated AWS charges by using Amazon CloudWatch. When you enable the monitoring of estimated charges for your AWS account, the estimated charges are calculated and sent several times daily to CloudWatch as metric data. Billing metric data is stored in the US East (N. Virginia) Region and represents worldwide charges. This data includes the estimated charges for every service in AWS that you use, in addition to the estimated overall total of your AWS charges.",
+    "reference": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html",
     "multiSelect": false
   },
   {
@@ -23352,7 +24150,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/ec2/pricing/reserved-instances/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/ec2/pricing/reserved-instances/",
     "multiSelect": false
   },
   {
@@ -23380,7 +24179,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "Media storage devices used to store customer data are classified by AWS as Critical and treated accordingly, as high impact, throughout their life-cycles. AWS has exacting standards on how to install, service, and eventually destroy the devices when they are no longer useful. - When a storage device has reached the end of its useful life, AWS decommissions media using techniques detailed in NIST 800-88. Media that stored customer data is not removed from AWS control until it has been securely decommissioned.",
+    "reference": "https://aws.amazon.com/compliance/data-center/controls/",
     "multiSelect": false
   },
   {
@@ -23408,7 +24208,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "AWS allows you to access as much or as little capacity as you need, and scale up or down as required with only a few minutes’ notice",
+    "reference": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html",
     "multiSelect": false
   },
   {
@@ -23436,7 +24237,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "Amazon CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers globally with low latency, high transfer speeds, all within a developer- friendly environment. CloudFront is integrated with AWS both physical locations that are directly connected to the AWS global infrastructure, as well as other AWS services.",
+    "reference": "https://aws.amazon.com/cloudfront/",
     "multiSelect": false
   },
   {
@@ -23469,7 +24271,8 @@ export const questions = [
       "A",
       "D"
     ],
-    "explanation": null,
+    "explanation": "EBS -> automates deploying code and provisioning infrastructure CloudFormation -> Use templates to deploy code and infrastructure",
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -23497,7 +24300,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "The TCO Calculator provides directional guidance on possible realized savings when deploying AWS. This tool is built on an underlying calculation model, that generates a fair assessment of value that a customer may achieve given the data provided by the user.",
+    "reference": "https://aws.amazon.com/tco-calculator/",
     "multiSelect": false
   },
   {
@@ -23530,7 +24334,8 @@ export const questions = [
       "A",
       "B"
     ],
-    "explanation": "https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/",
     "multiSelect": true
   },
   {
@@ -23563,7 +24368,8 @@ export const questions = [
       "A",
       "E"
     ],
-    "explanation": "https://aws.amazon.com/premiumsupport/knowledge-center/potential-account-compromise/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/premiumsupport/knowledge-center/potential-account-compromise/",
     "multiSelect": true
   },
   {
@@ -23591,7 +24397,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/blogs/startups/high-availability-for-mere-mortals/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/blogs/startups/high-availability-for-mere-mortals/",
     "multiSelect": false
   },
   {
@@ -23619,7 +24426,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "AWS Shield is a managed Distributed Denial of Service (DDoS) protection service that safeguards applications running on AWS. AWS Shield provides always-on detection and automatic inline mitigation's that minimize application downtime and latency, so there is no need to engage AWS Support to benefit from DDoS protection. There are two tiers of AWS Shield - Standard and Advanced.",
+    "reference": "https://aws.amazon.com/shield/",
     "multiSelect": false
   },
   {
@@ -23647,7 +24455,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "With Basic monitoring you get data on your cloudwatch metrics every 5 minutes. Enabling detailed monitoring, you will get the data every one minute. To check if detailed monitoring is enabled, on your EC2 Console, Select the instance, on the lower plane, Select Monitoring.",
+    "reference": "https://forums.aws.amazon.com/thread.jspa?threadID=263876",
     "multiSelect": false
   },
   {
@@ -23675,7 +24484,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "AWS Identity and Access Management (IAM) enables you to manage access to AWS services and resources securely. Using IAM, you can create and manage AWS users and groups, and use permissions to allow and deny their access to AWS resources.",
+    "reference": "https://aws.amazon.com/iam/",
     "multiSelect": false
   },
   {
@@ -23708,7 +24518,8 @@ export const questions = [
       "A",
       "E"
     ],
-    "explanation": "https://aws.amazon.com/premiumsupport/knowledge-center/ec2-ri-basics/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/premiumsupport/knowledge-center/ec2-ri-basics/",
     "multiSelect": true
   },
   {
@@ -23736,7 +24547,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "When the unhealthy Availability Zone returns to a healthy state, Auto Scaling automatically redistributes the application instances evenly across all of the designated Availability Zones.",
+    "reference": "https://docs.aws.amazon.com/autoscaling/ec2/userguide/auto-scaling-benefits.html",
     "multiSelect": false
   },
   {
@@ -23764,7 +24576,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "The account that originally purchased the Reserved Instance receives the discount first. If the purchasing account doesn't have any instances that match the terms of the Reserved Instance, the discount for the Reserved Instance is assigned to any matching usage on another account in the organization.",
+    "reference": "https://aws.amazon.com/premiumsupport/knowledge-center/ec2-ri-consolidated-billing/",
     "multiSelect": false
   },
   {
@@ -23792,7 +24605,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/premiumsupport/knowledge-center/ec2-instance-hour-billing/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/premiumsupport/knowledge-center/ec2-instance-hour-billing/",
     "multiSelect": false
   },
   {
@@ -23825,7 +24639,8 @@ export const questions = [
       "A",
       "B"
     ],
-    "explanation": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html",
     "multiSelect": true
   },
   {
@@ -23853,7 +24668,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "AWS CloudFormation provides a common language for you to model and provision AWS and third party application resources in your cloud environment. AWS CloudFormation allows you to use programming languages or a simple text file to model and provision, in an automated and secure manner, all the resources needed for your applications across all regions and accounts. This gives you a single source of truth for your AWS and third party resources.",
+    "reference": "https://aws.amazon.com/cloudformation/",
     "multiSelect": false
   },
   {
@@ -23886,7 +24702,8 @@ export const questions = [
       "B",
       "D"
     ],
-    "explanation": "https://aws.amazon.com/hybrid/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/hybrid/",
     "multiSelect": true
   },
   {
@@ -23914,7 +24731,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "AWS Direct Connect lets you establish a dedicated network connection between your network and one of the AWS Direct Connect locations. Using industry standard 802.1q VLANs, this dedicated connection can be partitioned into multiple virtual interfaces. This allows you to use the same connection to access public resources such as objects stored in Amazon S3 using public IP address space, and private resources such as Amazon EC2 instances running within an Amazon Virtual Private Cloud (VPC) using private IP space, while maintaining network separation between the public and private environments. Virtual interfaces can be reconfigured at any time to meet your changing needs.",
+    "reference": "https://aws.amazon.com/directconnect/",
     "multiSelect": false
   },
   {
@@ -23947,7 +24765,8 @@ export const questions = [
       "A",
       "B"
     ],
-    "explanation": "https://www.edureka.co/community/600/what-is-an-edge-location-in-aws",
+    "explanation": null,
+    "reference": "https://www.edureka.co/community/600/what-is-an-edge-location-in-aws",
     "multiSelect": true
   },
   {
@@ -23975,7 +24794,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": null,
+    "explanation": "Amazon Virtual Private Cloud (Amazon VPC) is a logically isolated, private section of the AWS Cloud to launch resources in a virtual data center in the cloud. Amazon VPC allows you to leverage multiple Availability Zones (AZ) within a region so that you can build greater fault tolerance within your workloads. You have complete control.",
+    "reference": "https://aws.amazon.com/blogs/publicsector/aws-networking-capabilities-gives-you-choices-for-hybrid-cloud-connectivity-but-which-service-works-best-for-your-use-case/",
     "multiSelect": false
   },
   {
@@ -24003,7 +24823,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://aws.amazon.com/tco-calculator/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/tco-calculator/",
     "multiSelect": false
   },
   {
@@ -24036,7 +24857,8 @@ export const questions = [
       "A",
       "B"
     ],
-    "explanation": "https://aws.amazon.com/partners/aws-marketplace/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/partners/aws-marketplace/",
     "multiSelect": true
   },
   {
@@ -24064,7 +24886,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "Loosely coupled architectures reduce interdependencies, so that a change or failure in a component does not cascade to other components.",
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -24097,7 +24920,8 @@ export const questions = [
       "B",
       "E"
     ],
-    "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": true
   },
   {
@@ -24125,7 +24949,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "AWS Config is a service that enables you to assess, audit, and evaluate the configurations of your AWS resources. Config continuously monitors and records your AWS resource configurations and allows you to automate the evaluation of recorded configurations against desired configurations. With Config, you can review changes in configurations and relationships between AWS resources, dive into detailed resource configuration histories, and determine your overall compliance against the configurations specified in your internal guidelines. This enables you to simplify compliance auditing, security analysis, change management, and operational troubleshooting.",
+    "reference": "https://aws.amazon.com/config/",
     "multiSelect": false
   },
   {
@@ -24154,6 +24979,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -24181,7 +25007,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "AWS maintains the configuration of its infrastructure devices, but a customer is responsible for configuring their own guest operating systems, databases, and applications.",
+    "reference": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": false
   },
   {
@@ -24209,7 +25036,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "Amazon CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers globally with low latency, high transfer speeds, all within a developer- friendly environment. CloudFront is integrated with AWS both physical locations that are directly connected to the AWS global infrastructure, as well as other AWS services.",
+    "reference": "https://aws.amazon.com/cloudfront/",
     "multiSelect": false
   },
   {
@@ -24237,7 +25065,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://wa.aws.amazon.com/wat.map.en.html",
+    "explanation": null,
+    "reference": "https://wa.aws.amazon.com/wat.map.en.html",
     "multiSelect": false
   },
   {
@@ -24265,7 +25094,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://aws.amazon.com/premiumsupport/knowledge-center/report-aws-abuse/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/premiumsupport/knowledge-center/report-aws-abuse/",
     "multiSelect": false
   },
   {
@@ -24299,6 +25129,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -24326,7 +25157,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "AWS Organizations helps you centrally govern your environment as you grow and scale your workloads on AWS. Whether you are a growing startup or a large enterprise, Organizations helps you to centrally manage billing; control access, compliance, and security; and share resources across your AWS accounts.",
+    "reference": "https://aws.amazon.com/organizations/",
     "multiSelect": false
   },
   {
@@ -24354,7 +25186,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "AWS Trusted Advisor is an online tool that provides you real time guidance to help you provision your resources following AWS best practices. Whether establishing new workflows, developing applications, or as part of ongoing improvement, take advantage of the recommendations provided by Trusted Advisor on a regular basis to help keep your solutions provisioned optimally.",
+    "reference": "https://aws.amazon.com/premiumsupport/technology/trusted-advisor/",
     "multiSelect": false
   },
   {
@@ -24382,7 +25215,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "AWS Cost Explorer has an easy-to-use interface that lets you visualize, understand, and manage your AWS costs and usage over time.",
+    "reference": "https://aws.amazon.com/aws-cost-management/aws-cost-explorer/",
     "multiSelect": false
   },
   {
@@ -24410,7 +25244,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "AWS Artifact is your go-to, central resource for compliance-related information that matters to you. It provides on-demand access to AWS' security and compliance reports and select online agreements. Reports available in AWS Artifact include our Service Organization Control (SOC) reports, Payment Card Industry (PCI) reports, and certifications from accreditation bodies across geographies and compliance verticals that validate the implementation and operating effectiveness of AWS security controls. Agreements available in AWS Artifact include the Business Associate Addendum (BAA) and the Nondisclosure Agreement (NDA).",
+    "reference": "https://aws.amazon.com/artifact/",
     "multiSelect": false
   },
   {
@@ -24443,7 +25278,8 @@ export const questions = [
       "A",
       "C"
     ],
-    "explanation": null,
+    "explanation": "<https://aws.amazon.com/cloudfront/>",
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -24471,7 +25307,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "Upload your code and Elastic Beanstalk automatically handles the deployment, from capacity provisioning, load balancing, auto-scaling to application health monitoring. At the same time, you retain full control over the AWS resources powering your application and can access the underlying resources at any time.",
+    "reference": "https://aws.amazon.com/elasticbeanstalk/",
     "multiSelect": false
   },
   {
@@ -24499,7 +25336,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Security.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Security.html",
     "multiSelect": false
   },
   {
@@ -24527,7 +25365,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html",
     "multiSelect": false
   },
   {
@@ -24555,7 +25394,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://www.10thmagnitude.com/opex-vs-capex-the-real-cloud-computing-cost-advantage/",
+    "explanation": null,
+    "reference": "https://www.10thmagnitude.com/opex-vs-capex-the-real-cloud-computing-cost-advantage/",
     "multiSelect": false
   },
   {
@@ -24583,7 +25423,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://cloudacademy.com/blog/aws-shared-responsibility-model-security/",
+    "explanation": null,
+    "reference": "https://cloudacademy.com/blog/aws-shared-responsibility-model-security/",
     "multiSelect": false
   },
   {
@@ -24611,7 +25452,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "You can use the consolidated billing feature in AWS Organizations to consolidate billing and payment for multiple AWS accounts or multiple Amazon Internet Services Pvt. Ltd (AISPL) accounts. Every organization in AWS Organizations has a master (payer) account that pays the charges of all the member (linked) accounts.",
+    "reference": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html",
     "multiSelect": false
   },
   {
@@ -24639,7 +25481,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": false
   },
   {
@@ -24667,7 +25510,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://aws.amazon.com/premiumsupport/faqs/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/premiumsupport/faqs/",
     "multiSelect": false
   },
   {
@@ -24700,7 +25544,8 @@ export const questions = [
       "B",
       "C"
     ],
-    "explanation": "https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf",
+    "explanation": null,
+    "reference": "https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf",
     "multiSelect": true
   },
   {
@@ -24728,7 +25573,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://aws.amazon.com/ec2/pricing/reserved-instances/pricing/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/ec2/pricing/reserved-instances/pricing/",
     "multiSelect": false
   },
   {
@@ -24756,7 +25602,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html",
     "multiSelect": false
   },
   {
@@ -24784,7 +25631,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/premiumsupport/knowledge-center/estimating-aws-resource-costs/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/premiumsupport/knowledge-center/estimating-aws-resource-costs/",
     "multiSelect": false
   },
   {
@@ -24817,7 +25665,8 @@ export const questions = [
       "B",
       "D"
     ],
-    "explanation": "https://aws.amazon.com/blogs/apn/amazon-vpc-for-on-premises-network-engineers-part-one/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/blogs/apn/amazon-vpc-for-on-premises-network-engineers-part-one/",
     "multiSelect": true
   },
   {
@@ -24845,7 +25694,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "AWS WAF is a web application firewall that helps protect web applications from common web exploits that could affect application availability, compromise security, or consume excessive resources. You can use AWS WAF to define customizable web security rules that control which traffic accesses your web applications. If you use AWS Shield Advanced, you can use AWS WAF at no extra cost for those protected resources and can engage the DRT to create WAF rules.",
+    "reference": "https://aws.amazon.com/answers/networking/aws-ddos-attack-mitigation/",
     "multiSelect": false
   },
   {
@@ -24873,7 +25723,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://asperbrothers.com/blog/infrastructure-as-code-aws/",
+    "explanation": null,
+    "reference": "https://asperbrothers.com/blog/infrastructure-as-code-aws/",
     "multiSelect": false
   },
   {
@@ -24901,7 +25752,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "You can use AWS Direct Connect to establish a private virtual interface from your on-premise network directly to your Amazon VPC, providing you with a private, high bandwidth network connection between your network and your VPC. With multiple virtual interfaces, you can even establish private connectivity to multiple VPCs while maintaining network isolation.",
+    "reference": "https://aws.amazon.com/directconnect/",
     "multiSelect": false
   },
   {
@@ -24929,7 +25781,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "Amazon Athena is defined as \"an interactive query service that makes it easy to analyze data directly in Amazon Simple Storage Service (Amazon S3) using standard SQL.\" So, it's another SQL query engine for large data sets stored in S3. This is very similar to other SQL query engines, such as Apache Drill. But unlike Apache Drill, Athena is limited to data only from Amazon's own S3 storage service. However, Athena is able to query a variety of file formats, including, but not limited to CSV, Parquet, JSON, etc.",
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -24957,7 +25810,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": null,
+    "explanation": "AWS CloudFormation provides a common language for you to model and provision AWS and third party application resources in your cloud environment. AWS CloudFormation allows you to use programming languages or a simple text file to model and provision, in an automated and secure manner, all the resources needed for your applications across all regions and accounts. This gives you a single source of truth for your AWS and third party resources.",
+    "reference": "https://aws.amazon.com/cloudformation/",
     "multiSelect": false
   },
   {
@@ -24985,7 +25839,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://www.sisense.com/glossary/redshift-database/",
+    "explanation": null,
+    "reference": "https://www.sisense.com/glossary/redshift-database/",
     "multiSelect": false
   },
   {
@@ -25013,7 +25868,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/ec2-security-groups.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/ec2-security-groups.html",
     "multiSelect": false
   },
   {
@@ -25047,6 +25903,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -25074,7 +25931,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "Amazon Inspector is an automated security assessment service that helps improve the security and compliance of applications deployed on AWS. AmazonInspector automatically assesses applications for exposure, vulnerabilities, and deviations from best practices. After performing an assessment, Amazon Inspector produces a detailed list of security findings prioritized by level of severity. These findings can be reviewed directly or as part of detailed assessment reports which are available via the Amazon Inspector console or API.",
+    "reference": "https://aws.amazon.com/inspector/",
     "multiSelect": false
   },
   {
@@ -25102,7 +25960,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/answers/account-management/aws-multi-account-billing-strategy/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/answers/account-management/aws-multi-account-billing-strategy/",
     "multiSelect": false
   },
   {
@@ -25130,7 +25989,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "AWS Service Catalog Delivery Partners are APN Consulting Partners who help create catalogs of IT services that are approved by the customer's organization for use on AWS. With AWS Service Catalog, customers and partners can centrally manage commonly deployed IT services to help achieve consistent governance and meet compliance requirements while enabling users to self-provision approved services.",
+    "reference": "https://aws.amazon.com/servicecatalog/partners/",
     "multiSelect": false
   },
   {
@@ -25158,7 +26018,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "S3 Glacier Deep Archive is Amazon S3's lowest-cost storage class and supports long-term retention and digital preservation for data that may be accessed once or twice in a year. It is designed for customers --particularly those in highly-regulated industries, such as the Financial Services, Healthcare, and Public Sectors -- that retain data sets for 7-10 years or longer to meet regulatory compliance requirements. S3 Glacier Deep Archive can also be used for backup and disaster recovery use cases, and is a cost-effective and easy-to-manage alternative to magnetic tape systems, whether they are on-premises libraries or off-premises services.",
+    "reference": "https://aws.amazon.com/s3/storage-classes/",
     "multiSelect": false
   },
   {
@@ -25192,6 +26053,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -25219,7 +26081,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "Amazon Macie is a security service that uses machine learning to automatically discover, classify, and protect sensitive data in AWS. Macie recognizes sensitive data such as personally identifiable information (PII) or intellectual property. It provides you with dashboards and alerts that give visibility into how this data is being accessed or moved.",
+    "reference": "https://docs.aws.amazon.com/macie/latest/userguide/what-is-macie.html",
     "multiSelect": false
   },
   {
@@ -25247,7 +26110,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "Moving data to the cloud is not quite as simple as flipping a switch. For companies that have managed their own data centers or server rooms for decades, there are a few steps to consider --and it's not always wise to pull the plug on an internal infrastructure quite so quickly. If a startup uses on-premise business servers and then experiences unexpected growth, abandoning those servers doesn't make sense (even if the long-term plan is to do exactly that). AWS Storage Gateway is a way to bridge this gap for companies of any size. It's a hybrid storage option that connects on-premise storage including age-old tape backup systems to the cloud in a way that also provides one console to access all storage configurations.",
+    "reference": "https://www.techradar.com/news/what-is-aws-storage-gateway",
     "multiSelect": false
   },
   {
@@ -25275,7 +26139,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html",
     "multiSelect": false
   },
   {
@@ -25303,7 +26168,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://wa.aws.amazon.com/wat.question.REL_7.en.html",
+    "explanation": null,
+    "reference": "https://wa.aws.amazon.com/wat.question.REL_7.en.html",
     "multiSelect": false
   },
   {
@@ -25331,7 +26197,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": null,
+    "explanation": "You can use AWS Direct Connect to establish a private virtual interface from your on-premise network directly to your Amazon VPC, providing you with a private, high bandwidth network connection between your network and your VPC. With multiple virtual interfaces, you can even establish private connectivity to multiple VPCs while maintaining network isolation.",
+    "reference": "https://aws.amazon.com/directconnect/",
     "multiSelect": false
   },
   {
@@ -25359,7 +26226,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "Security and Compliance is a shared responsibility between AWS and the customer. This shared model can help relieve the customer's operational burden as AWS operates, manages and controls the components from the host operating system and virtualization layer down to the physical security of the facilities in which the service operates.",
+    "reference": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": false
   },
   {
@@ -25388,6 +26256,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -25415,7 +26284,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://docs.aws.amazon.com/kms/latest/developerguide/services-ebs.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/kms/latest/developerguide/services-ebs.html",
     "multiSelect": false
   },
   {
@@ -25448,7 +26318,8 @@ export const questions = [
       "A",
       "C"
     ],
-    "explanation": "https://aws.amazon.com/lambda/pricing/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/lambda/pricing/",
     "multiSelect": true
   },
   {
@@ -25482,6 +26353,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -25509,7 +26381,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "AWS Shield Standard provides protection for all AWS customers from common, most frequently occurring network and transport layer DDoS attacks that target your web site or application at no additional charge.",
+    "reference": "https://aws.amazon.com/shield/pricing/",
     "multiSelect": false
   },
   {
@@ -25537,7 +26410,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/pricing/cost-optimization/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/pricing/cost-optimization/",
     "multiSelect": false
   },
   {
@@ -25570,7 +26444,8 @@ export const questions = [
       "B",
       "C"
     ],
-    "explanation": "https://aws.amazon.com/marketplace",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/marketplace",
     "multiSelect": true
   },
   {
@@ -25598,7 +26473,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://aws.amazon.com/hybrid/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/hybrid/",
     "multiSelect": false
   },
   {
@@ -25626,7 +26502,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://docs.aws.amazon.com/config/latest/developerguide/view-manage-resource.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/config/latest/developerguide/view-manage-resource.html",
     "multiSelect": false
   },
   {
@@ -25654,7 +26531,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": null,
+    "explanation": "AWS helps you reduce Total Cost of Ownership (TCO) by reducing the need to invest in large capital expenditures and providing a pay-as-you-go model that empowers you to invest in the capacity you need and use it only when the business requires it.",
+    "reference": "https://aws.amazon.com/tco-calculator/",
     "multiSelect": false
   },
   {
@@ -25682,7 +26560,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://aws.amazon.com/blogs/security/the-aws-shared-responsibility-model-and-gdpr/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/blogs/security/the-aws-shared-responsibility-model-and-gdpr/",
     "multiSelect": false
   },
   {
@@ -25715,7 +26594,8 @@ export const questions = [
       "B",
       "C"
     ],
-    "explanation": "https://data-flair.training/blogs/aws-advantages/",
+    "explanation": null,
+    "reference": "https://data-flair.training/blogs/aws-advantages/",
     "multiSelect": true
   },
   {
@@ -25748,7 +26628,8 @@ export const questions = [
       "B",
       "C"
     ],
-    "explanation": "https://aws.amazon.com/tco-calculator/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/tco-calculator/",
     "multiSelect": true
   },
   {
@@ -25776,7 +26657,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/tco-calculator/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/tco-calculator/",
     "multiSelect": false
   },
   {
@@ -25804,7 +26686,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://cloudacademy.com/blog/aws-shared-responsibility-model-security/",
+    "explanation": null,
+    "reference": "https://cloudacademy.com/blog/aws-shared-responsibility-model-security/",
     "multiSelect": false
   },
   {
@@ -25832,7 +26715,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html",
     "multiSelect": false
   },
   {
@@ -25860,7 +26744,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://d1.awsstatic.com/whitepapers/Migration/aws-migration-whitepaper.pdf",
+    "explanation": null,
+    "reference": "https://d1.awsstatic.com/whitepapers/Migration/aws-migration-whitepaper.pdf",
     "multiSelect": false
   },
   {
@@ -25888,7 +26773,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/blogs/mt/automate-account-creation-and-resource-provisioning-using-aws-service-catalog-aws-organizations-and-aws-lambda/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/blogs/mt/automate-account-creation-and-resource-provisioning-using-aws-service-catalog-aws-organizations-and-aws-lambda/",
     "multiSelect": false
   },
   {
@@ -25916,7 +26802,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": null,
+    "explanation": "Amazon RDS provides high availability and failover support for DB instances using Multi-AZ deployments. Amazon RDS uses several different technologies to provide failover support. Multi-AZ deployments for Oracle, PostgreSQL, MySQL, and MariaDB DB instances use Amazon's failover technology. SQL Server DB instances use SQL Server Database Mirroring (DBM).",
+    "reference": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html",
     "multiSelect": false
   },
   {
@@ -25944,7 +26831,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://aws.amazon.com/premiumsupport/knowledge-center/report-aws-abuse/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/premiumsupport/knowledge-center/report-aws-abuse/",
     "multiSelect": false
   },
   {
@@ -25972,7 +26860,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": null,
+    "explanation": "AWS CloudTrail is a service that enables governance, compliance, operational auditing, and risk auditing of your AWS account. With CloudTrail, you can log, continuously monitor, and retain account activity related to actions across your AWS infrastructure. CloudTrail provides event history of your AWS account activity, including actions taken through the AWS Management Console, AWS SDKs, command line tools, and other AWS services. This event history simplifies security analysis, resource change tracking, and troubleshooting. In addition, you can use CloudTrail to detect unusual activity in your AWS accounts. These capabilities help simplify operational analysis and troubleshooting.",
+    "reference": "https://aws.amazon.com/cloudtrail/",
     "multiSelect": false
   },
   {
@@ -26000,7 +26889,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf",
+    "explanation": null,
+    "reference": "https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf",
     "multiSelect": false
   },
   {
@@ -26028,7 +26918,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "The ability to launch instances on-demand when needed allows customers launch and terminate instances in response to a varying workload. This is a more economical practice than purchasing enough on-premises servers to handle the peak load.",
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -26056,7 +26947,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/dms/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/dms/",
     "multiSelect": false
   },
   {
@@ -26084,7 +26976,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://aws.amazon.com/mp/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/mp/",
     "multiSelect": false
   },
   {
@@ -26112,7 +27005,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://aws.amazon.com/vpc/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/vpc/",
     "multiSelect": false
   },
   {
@@ -26140,7 +27034,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": false
   },
   {
@@ -26168,7 +27063,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/cloudfront/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/cloudfront/",
     "multiSelect": false
   },
   {
@@ -26196,7 +27092,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/iam/details/mfa/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/iam/details/mfa/",
     "multiSelect": false
   },
   {
@@ -26224,7 +27121,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "http://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html",
+    "explanation": null,
+    "reference": "http://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html",
     "multiSelect": false
   },
   {
@@ -26252,7 +27150,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "http://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEmail.html",
+    "explanation": null,
+    "reference": "http://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEmail.html",
     "multiSelect": false
   },
   {
@@ -26280,7 +27179,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://aws.amazon.com/aup/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/aup/",
     "multiSelect": false
   },
   {
@@ -26308,7 +27208,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "AWS does not require minimum spend commitments or long-term contracts. You replace large upfront expenses with low variable payments that only apply to what you use. With AWS you are not bound to multi-year agreements or complicated licensing models.",
+    "reference": "https://aws.amazon.com/economics/",
     "multiSelect": false
   },
   {
@@ -26341,7 +27242,8 @@ export const questions = [
       "A",
       "C"
     ],
-    "explanation": "https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf",
+    "explanation": null,
+    "reference": "https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf",
     "multiSelect": true
   },
   {
@@ -26369,7 +27271,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "Use load balancing for offloading encryption termination (TLS) to improve performance and to manage and route traffic effectively. Distribute traffic across multiple resources or services to allow your workload to take advantage of the elasticity that AWS provides.",
+    "reference": "https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf",
     "multiSelect": false
   },
   {
@@ -26402,7 +27305,8 @@ export const questions = [
       "A",
       "B"
     ],
-    "explanation": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
     "multiSelect": true
   },
   {
@@ -26435,7 +27339,8 @@ export const questions = [
       "C",
       "D"
     ],
-    "explanation": "https://aws.amazon.com/solutions/aws-landing-zone/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/solutions/aws-landing-zone/",
     "multiSelect": true
   },
   {
@@ -26463,7 +27368,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/premiumsupport/plans/enterprise/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/premiumsupport/plans/enterprise/",
     "multiSelect": false
   },
   {
@@ -26492,6 +27398,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -26519,7 +27426,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/ec2/faqs/",
+    "explanation": "<https://aws.amazon.com/ec2/faqs/>",
+    "reference": "https://aws.amazon.com/ec2/faqs/",
     "multiSelect": false
   },
   {
@@ -26547,7 +27455,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/tco-calculator/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/tco-calculator/",
     "multiSelect": false
   },
   {
@@ -26575,7 +27484,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://aws.amazon.com/premiumsupport/knowledge-center/ec2-ri-consolidated-billing/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/premiumsupport/knowledge-center/ec2-ri-consolidated-billing/",
     "multiSelect": false
   },
   {
@@ -26603,7 +27513,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/premiumsupport/knowledge-center/report-aws-abuse/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/premiumsupport/knowledge-center/report-aws-abuse/",
     "multiSelect": false
   },
   {
@@ -26636,7 +27547,8 @@ export const questions = [
       "B",
       "D"
     ],
-    "explanation": "https://aws.amazon.com/cloudfront/faqs/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/cloudfront/faqs/",
     "multiSelect": true
   },
   {
@@ -26664,7 +27576,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://blogs.itemis.com/en/serverless-services-on-aws",
+    "explanation": null,
+    "reference": "https://blogs.itemis.com/en/serverless-services-on-aws",
     "multiSelect": false
   },
   {
@@ -26697,7 +27610,8 @@ export const questions = [
       "B",
       "D"
     ],
-    "explanation": "https://subscription.packtpub.com/book/virtualization_and_cloud/9781788293723/3/ch03lvl1sec26/vpc-components",
+    "explanation": null,
+    "reference": "https://subscription.packtpub.com/book/virtualization_and_cloud/9781788293723/3/ch03lvl1sec26/vpc-components",
     "multiSelect": true
   },
   {
@@ -26725,7 +27639,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/budgets-managing-costs.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/budgets-managing-costs.html",
     "multiSelect": false
   },
   {
@@ -26758,7 +27673,8 @@ export const questions = [
       "C",
       "E"
     ],
-    "explanation": "https://aws.amazon.com/blogs/security/guidelines-for-protecting-your-aws-account-while-using-programmatic-access/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/blogs/security/guidelines-for-protecting-your-aws-account-while-using-programmatic-access/",
     "multiSelect": true
   },
   {
@@ -26791,7 +27707,8 @@ export const questions = [
       "A",
       "C"
     ],
-    "explanation": "https://aws.amazon.com/premiumsupport/technology/trusted-advisor/best-practice-checklist/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/premiumsupport/technology/trusted-advisor/best-practice-checklist/",
     "multiSelect": true
   },
   {
@@ -26819,7 +27736,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://docs.aws.amazon.com/kms/latest/developerguide/control-access.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/kms/latest/developerguide/control-access.html",
     "multiSelect": false
   },
   {
@@ -26853,6 +27771,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -26885,7 +27804,8 @@ export const questions = [
       "A",
       "C"
     ],
-    "explanation": "https://aws.amazon.com/compliance/data-center/controls/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/compliance/data-center/controls/",
     "multiSelect": true
   },
   {
@@ -26913,7 +27833,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/",
+    "explanation": "<https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/>",
+    "reference": "https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/",
     "multiSelect": false
   },
   {
@@ -26946,7 +27867,8 @@ export const questions = [
       "A",
       "D"
     ],
-    "explanation": null,
+    "explanation": "<https://aws.amazon.com/directconnect/> <https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-aws-client-vpn-to-securely-access-aws-and-on-premises-resources/>",
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -26974,7 +27896,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-what-is.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-what-is.html",
     "multiSelect": false
   },
   {
@@ -27002,7 +27925,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/global-infrastructure.html",
+    "explanation": "<https://docs.aws.amazon.com/whitepapers/latest/aws-overview/global-infrastructure.html>",
+    "reference": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/global-infrastructure.html",
     "multiSelect": false
   },
   {
@@ -27030,7 +27954,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": null,
+    "explanation": "VPC Flow Logs is a feature that enables you to capture information about the IP traffic going to and from network interfaces in your VPC. Flow log data can be published to Amazon CloudWatch Logs or Amazon S3. After you've created a flow log, you can retrieve and view its data in the chosen destination.",
+    "reference": "https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html",
     "multiSelect": false
   },
   {
@@ -27058,7 +27983,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://aws.amazon.com/blogs/aws/category/auto-scaling/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/blogs/aws/category/auto-scaling/",
     "multiSelect": false
   },
   {
@@ -27086,7 +28012,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/premiumsupport/plans/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/premiumsupport/plans/",
     "multiSelect": false
   },
   {
@@ -27114,7 +28041,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": null,
+    "explanation": "Amazon RDS makes it easy to set up, operate, and scale a relational database in the cloud. It provides cost-efficient and resizable capacity while automating time-consuming administration tasks, such as hardware provisioning, database setup, patching, and backups. It frees you to focus on your applications, so you can give them the fast performance, high availability, security, and compatibility that they need.",
+    "reference": "https://aws.amazon.com/blogs/database/part-1-role-of-the-dba-when-moving-to-amazon-rds-responsibilities/",
     "multiSelect": false
   },
   {
@@ -27142,7 +28070,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-plan-region.html",
+    "explanation": "<https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-plan-region.html>",
+    "reference": "https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-plan-region.html",
     "multiSelect": false
   },
   {
@@ -27170,7 +28099,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://aws.amazon.com/ec2/dedicated-hosts/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/ec2/dedicated-hosts/",
     "multiSelect": false
   },
   {
@@ -27203,7 +28133,8 @@ export const questions = [
       "C",
       "E"
     ],
-    "explanation": null,
+    "explanation": "<https://docs.aws.amazon.com/crypto/latest/userguide/awscryp-service-hsm.html> <https://docs.aws.amazon.com/kms/latest/developerguide/overview.html>",
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -27231,7 +28162,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://docs.aws.amazon.com/migrationhub/latest/ug/hub-api.pdf",
+    "explanation": "<https://docs.aws.amazon.com/migrationhub/latest/ug/hub-api.pdf> (26)",
+    "reference": "https://docs.aws.amazon.com/migrationhub/latest/ug/hub-api.pdf",
     "multiSelect": false
   },
   {
@@ -27265,6 +28197,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -27292,7 +28225,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "The AWS CloudHSM service helps you meet corporate, contractual, and regulatory compliance requirements for data security by using dedicated Hardware Security Module (HSM) instances within the AWS cloud. AWS and AWS Marketplace partners offer a variety of solutions for protecting sensitive data within the AWS platform, but for some applications and data subject to contractual or regulatory mandates for managing cryptographic keys, additional protection may be necessary. CloudHSM complements existing data protection solutions and allows you to protect your encryption keys within HSMs that are designed and validated to government standards for secure key management. CloudHSM allows you to securely generate, store, and manage cryptographic keys used for data encryption in a way that keys are accessible only by you.",
+    "reference": "https://aws.amazon.com/cloudhsm/faqs/",
     "multiSelect": false
   },
   {
@@ -27325,7 +28259,8 @@ export const questions = [
       "B",
       "E"
     ],
-    "explanation": "https://www.whizlabs.com/blog/aws-security-shared-responsibility/",
+    "explanation": null,
+    "reference": "https://www.whizlabs.com/blog/aws-security-shared-responsibility/",
     "multiSelect": true
   },
   {
@@ -27353,7 +28288,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "An easy-to-use service for deploying and scaling web applications and web services developed in a number of programming languages. You can configure event notifications for your Elastic Beanstalk environment so that notable events can be automatically published to an SNS topic, then pushed to topic subscribers. As an example, you may use this event-driven architecture to coordinate your continuous integration pipeline (such as Jenkins CI). That way, whenever an environment is created, Elastic Beanstalk publishes this event to an SNS topic, which triggers a subscribing Lambda function, which then kicks off a CI job against your newly created Elastic Beanstalk environment.",
+    "reference": "https://aws.amazon.com/blogs/compute/event-driven-computing-with-amazon-sns-compute-storage-database-and-networking-services/",
     "multiSelect": false
   },
   {
@@ -27381,7 +28317,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://d1.awsstatic.com/whitepapers/aws-whitepaper-business-value-of-aws.pdf",
+    "explanation": null,
+    "reference": "https://d1.awsstatic.com/whitepapers/aws-whitepaper-business-value-of-aws.pdf",
     "multiSelect": false
   },
   {
@@ -27409,7 +28346,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://docs.aws.amazon.com/AmazonS3/latest/dev/replication.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/AmazonS3/latest/dev/replication.html",
     "multiSelect": false
   },
   {
@@ -27433,7 +28371,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": false
   },
   {
@@ -27461,7 +28400,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/devops/partner-solutions/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/devops/partner-solutions/",
     "multiSelect": false
   },
   {
@@ -27494,7 +28434,8 @@ export const questions = [
       "A",
       "D"
     ],
-    "explanation": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html",
     "multiSelect": true
   },
   {
@@ -27522,7 +28463,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html",
     "multiSelect": false
   },
   {
@@ -27550,7 +28492,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/guardduty/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/guardduty/",
     "multiSelect": false
   },
   {
@@ -27578,7 +28521,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://aws.amazon.com/about-aws/whats-new/2019/09/aws-marketplace-easier-to-find-solutions-from-aws-console/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/about-aws/whats-new/2019/09/aws-marketplace-easier-to-find-solutions-from-aws-console/",
     "multiSelect": false
   },
   {
@@ -27606,7 +28550,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/dynamodb/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/dynamodb/",
     "multiSelect": false
   },
   {
@@ -27634,7 +28579,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html",
     "multiSelect": false
   },
   {
@@ -27662,7 +28608,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/getting-started/tutorials/deploy-docker-containers/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/getting-started/tutorials/deploy-docker-containers/",
     "multiSelect": false
   },
   {
@@ -27690,7 +28637,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://aws.amazon.com/getting-started/tutorials/deliver-content-faster/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/getting-started/tutorials/deliver-content-faster/",
     "multiSelect": false
   },
   {
@@ -27723,7 +28671,8 @@ export const questions = [
       "A",
       "D"
     ],
-    "explanation": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
     "multiSelect": true
   },
   {
@@ -27751,7 +28700,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html",
+    "explanation": "<https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html>",
+    "reference": "https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html",
     "multiSelect": false
   },
   {
@@ -27779,7 +28729,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "AWS Global Accelerator uses the AWS global network to optimize the path from your users to your applications, improving the performance of your traffic by as much as 60%. AWS Global Accelerator continually monitors the health of your application endpoints and redirects traffic to healthy endpoints in less than 30 seconds.",
+    "reference": "https://aws.amazon.com/global-accelerator/?blogs-global-accelerator.sort-by=item.additionalFields.createdDate&blogs-global-accelerator.sort-order=desc&aws-global-accelerator-wn.sort-by=item.additionalFields.postDateTime&aws-global-accelerator-wn.sort-order=desc",
     "multiSelect": false
   },
   {
@@ -27812,7 +28763,8 @@ export const questions = [
       "A"
     ],
     "explanation": null,
-    "multiSelect": false
+    "reference": null,
+    "multiSelect": true
   },
   {
     "id": "exam20-q11",
@@ -27839,7 +28791,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://aws.amazon.com/blogs/mt/monitor-and-notify-on-aws-account-root-user-activity/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/blogs/mt/monitor-and-notify-on-aws-account-root-user-activity/",
     "multiSelect": false
   },
   {
@@ -27867,7 +28820,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://www.botmetric.com/blog/aws-cloud-architecture-design-principles/",
+    "explanation": null,
+    "reference": "https://www.botmetric.com/blog/aws-cloud-architecture-design-principles/",
     "multiSelect": false
   },
   {
@@ -27900,7 +28854,8 @@ export const questions = [
       "A",
       "D"
     ],
-    "explanation": "https://aws.amazon.com/snowball/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/snowball/",
     "multiSelect": true
   },
   {
@@ -27929,6 +28884,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -27956,7 +28912,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_accounts.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_accounts.html",
     "multiSelect": false
   },
   {
@@ -27985,6 +28942,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -28012,7 +28970,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/autoscaling/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/autoscaling/",
     "multiSelect": false
   },
   {
@@ -28040,7 +28999,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://d1.awsstatic.com/whitepapers/aws-security-whitepaper.pdf",
+    "explanation": null,
+    "reference": "https://d1.awsstatic.com/whitepapers/aws-security-whitepaper.pdf",
     "multiSelect": false
   },
   {
@@ -28068,7 +29028,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/ce-forecast.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/ce-forecast.html",
     "multiSelect": false
   },
   {
@@ -28096,7 +29057,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "Amazon CloudFront employs a global network of edge locations and regional edge caches that cache copies of your content close to your viewers. Amazon CloudFront ensures that end-user requests are served by the closest edge location. As a result, viewer requests travel a short distance, improving performance for your viewers. For files not cached at the edge locations and the regional edge caches, Amazon CloudFront keeps persistent connections with your origin servers so that those files can be fetched from the origin servers as quickly as possible.",
+    "reference": "https://aws.amazon.com/cloudfront/faqs/",
     "multiSelect": false
   },
   {
@@ -28124,7 +29086,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/about-aws/global-infrastructure/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/about-aws/global-infrastructure/",
     "multiSelect": false
   },
   {
@@ -28152,7 +29115,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://aws.amazon.com/ec2/faqs/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/ec2/faqs/",
     "multiSelect": false
   },
   {
@@ -28180,7 +29144,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html",
     "multiSelect": false
   },
   {
@@ -28213,7 +29178,8 @@ export const questions = [
       "C",
       "E"
     ],
-    "explanation": "https://cloudacademy.com/blog/aws-shared-responsibility-model-security/",
+    "explanation": null,
+    "reference": "https://cloudacademy.com/blog/aws-shared-responsibility-model-security/",
     "multiSelect": true
   },
   {
@@ -28241,7 +29207,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf",
+    "explanation": null,
+    "reference": "https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf",
     "multiSelect": false
   },
   {
@@ -28274,7 +29241,8 @@ export const questions = [
       "A",
       "E"
     ],
-    "explanation": null,
+    "explanation": "<https://aws.amazon.com/waf/> <https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html>",
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -28302,7 +29270,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/efs/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/efs/",
     "multiSelect": false
   },
   {
@@ -28336,6 +29305,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -28363,7 +29333,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://aimconsulting.com/insights/blog/the-elastic-cloud-opportunity/",
+    "explanation": null,
+    "reference": "https://aimconsulting.com/insights/blog/the-elastic-cloud-opportunity/",
     "multiSelect": false
   },
   {
@@ -28392,6 +29363,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -28419,7 +29391,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://docs.aws.amazon.com/AmazonS3/latest/dev/access-control-block-public-access.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/AmazonS3/latest/dev/access-control-block-public-access.html",
     "multiSelect": false
   },
   {
@@ -28448,6 +29421,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -28475,7 +29449,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/blogs/aws/estimate-your-c/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/blogs/aws/estimate-your-c/",
     "multiSelect": false
   },
   {
@@ -28503,7 +29478,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": false
   },
   {
@@ -28536,7 +29512,8 @@ export const questions = [
       "A",
       "B"
     ],
-    "explanation": "https://aws.amazon.com/autoscaling/faqs/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/autoscaling/faqs/",
     "multiSelect": true
   },
   {
@@ -28569,7 +29546,8 @@ export const questions = [
       "B",
       "D"
     ],
-    "explanation": "https://aws.amazon.com/global-accelerator/faqs/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/global-accelerator/faqs/",
     "multiSelect": true
   },
   {
@@ -28597,7 +29575,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://aws.amazon.com/premiumsupport/knowledge-center/reactivate-suspended-account/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/premiumsupport/knowledge-center/reactivate-suspended-account/",
     "multiSelect": false
   },
   {
@@ -28625,7 +29604,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "In a traditional computing environment, you provision capacity based on an estimate of a theoretical maximum peak. This can result in periods where expensive resources are sitting idle or occasions of insufficient capacity. With cloud computing, you can access as much or as little capacity as you need and dynamically scale to meet actual demand, while only paying for what you use.",
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -28653,7 +29633,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://www.cloudmanagementinsider.com/ways-to-optimize-aws-cost/",
+    "explanation": null,
+    "reference": "https://www.cloudmanagementinsider.com/ways-to-optimize-aws-cost/",
     "multiSelect": false
   },
   {
@@ -28681,7 +29662,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": false
   },
   {
@@ -28715,6 +29697,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -28742,7 +29725,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": false
   },
   {
@@ -28770,7 +29754,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "<https://docs.aws.amazon.com/IAM/latest/UserGuide/console_controlling-access.html> <https://aws.amazon.com/iam/>",
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -28798,7 +29783,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/artifact/#:~:text=AWS%20Artifact%20is%20your%20go,reports%20and%20select%20online%20agreements",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/artifact/#:~:text=AWS%20Artifact%20is%20your%20go,reports%20and%20select%20online%20agreements",
     "multiSelect": false
   },
   {
@@ -28826,7 +29812,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://aws.amazon.com/polly/#:~:text=Amazon%20Polly%20is%20a%20service,synthesize%20natural%20sounding%20human%20speech",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/polly/#:~:text=Amazon%20Polly%20is%20a%20service,synthesize%20natural%20sounding%20human%20speech",
     "multiSelect": false
   },
   {
@@ -28855,6 +29842,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -28882,7 +29870,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/premiumsupport/technology/trusted-advisor/best-practice-checklist/",
+    "explanation": "<https://aws.amazon.com/premiumsupport/technology/trusted-advisor/best-practice-checklist/> #Security",
+    "reference": "https://aws.amazon.com/premiumsupport/technology/trusted-advisor/best-practice-checklist/",
     "multiSelect": false
   },
   {
@@ -28910,7 +29899,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://aws.amazon.com/ec2/dedicated-hosts/pricing/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/ec2/dedicated-hosts/pricing/",
     "multiSelect": false
   },
   {
@@ -28938,7 +29928,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": null,
+    "explanation": "When your web traffic is geo-dispersed, it's not always feasible and certainly not cost effective to replicate your entire infrastructure across the globe. A CDN provides you the ability to utilize its global network of edge locations to deliver a cached copy of web content such as videos, webpages, images and so on to your customers. To reduce response time, the CDN utilizes the nearest edge location to the customer or originating request location in order to reduce the response time. Throughput is dramatically increased given that the web assets are delivered from cache. For dynamic data, many CDNs can be configured to retrieve data from the origin servers.",
+    "reference": "https://aws.amazon.com/caching/",
     "multiSelect": false
   },
   {
@@ -28966,7 +29957,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf",
+    "explanation": null,
+    "reference": "https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf",
     "multiSelect": false
   },
   {
@@ -28994,7 +29986,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SQLtoNoSQL.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SQLtoNoSQL.html",
     "multiSelect": false
   },
   {
@@ -29022,7 +30015,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://www.botmetric.com/blog/having-a-disaster-recovery-plan-is-pivotal-the-dos-and-donts-on-aws-cloud/",
+    "explanation": null,
+    "reference": "https://www.botmetric.com/blog/having-a-disaster-recovery-plan-is-pivotal-the-dos-and-donts-on-aws-cloud/",
     "multiSelect": false
   },
   {
@@ -29055,7 +30049,8 @@ export const questions = [
       "D",
       "E"
     ],
-    "explanation": "https://aws.amazon.com/organizations/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/organizations/",
     "multiSelect": true
   },
   {
@@ -29083,7 +30078,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/opsworks/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/opsworks/",
     "multiSelect": false
   },
   {
@@ -29111,7 +30107,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html",
     "multiSelect": false
   },
   {
@@ -29139,7 +30136,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/tco-calculator/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/tco-calculator/",
     "multiSelect": false
   },
   {
@@ -29172,7 +30170,8 @@ export const questions = [
       "B",
       "D"
     ],
-    "explanation": "https://aws.amazon.com/directconnect/faqs/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/directconnect/faqs/",
     "multiSelect": true
   },
   {
@@ -29205,7 +30204,8 @@ export const questions = [
       "A",
       "C"
     ],
-    "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/compliance/shared-responsibility-model/",
     "multiSelect": true
   },
   {
@@ -29233,7 +30233,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/premiumsupport/plans/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/premiumsupport/plans/",
     "multiSelect": false
   },
   {
@@ -29261,7 +30262,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://aws.amazon.com/rds/faqs/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/rds/faqs/",
     "multiSelect": false
   },
   {
@@ -29289,7 +30291,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://jayendrapatil.com/aws-high-availability-fault-tolerance-architecture-certification/",
+    "explanation": null,
+    "reference": "https://jayendrapatil.com/aws-high-availability-fault-tolerance-architecture-certification/",
     "multiSelect": false
   },
   {
@@ -29317,7 +30320,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/transit-gateway/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/transit-gateway/",
     "multiSelect": false
   },
   {
@@ -29346,6 +30350,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -29373,7 +30378,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/premiumsupport/technology/personal-health-dashboard/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/premiumsupport/technology/personal-health-dashboard/",
     "multiSelect": false
   },
   {
@@ -29401,7 +30407,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://aws.amazon.com/storagegateway/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/storagegateway/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc",
     "multiSelect": false
   },
   {
@@ -29429,7 +30436,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-security-groups.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-security-groups.html",
     "multiSelect": false
   },
   {
@@ -29457,7 +30465,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://d1.awsstatic.com/whitepapers/building-a-scalable-and-secure-multi-vpc-aws-network-infrastructure.pdf",
+    "explanation": null,
+    "reference": "https://d1.awsstatic.com/whitepapers/building-a-scalable-and-secure-multi-vpc-aws-network-infrastructure.pdf",
     "multiSelect": false
   },
   {
@@ -29485,7 +30494,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://aws.amazon.com/premiumsupport/plans/enterprise/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/premiumsupport/plans/enterprise/",
     "multiSelect": false
   },
   {
@@ -29513,7 +30523,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://docs.aws.amazon.com/organizations/latest/userguide/orgs_introduction.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/organizations/latest/userguide/orgs_introduction.html",
     "multiSelect": false
   },
   {
@@ -29541,7 +30552,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://aws.amazon.com/compliance/faq/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/compliance/faq/",
     "multiSelect": false
   },
   {
@@ -29569,7 +30581,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/s3/storage-classes/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/s3/storage-classes/",
     "multiSelect": false
   },
   {
@@ -29597,7 +30610,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://aws.amazon.com/about-aws/global-infrastructure/regions_az/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/about-aws/global-infrastructure/regions_az/",
     "multiSelect": false
   },
   {
@@ -29630,7 +30644,8 @@ export const questions = [
       "A",
       "D"
     ],
-    "explanation": "https://blog.newrelic.com/engineering/best-cloud-infrastructure-automation-tools/",
+    "explanation": null,
+    "reference": "https://blog.newrelic.com/engineering/best-cloud-infrastructure-automation-tools/",
     "multiSelect": true
   },
   {
@@ -29658,7 +30673,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-concepts.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-concepts.html",
     "multiSelect": false
   },
   {
@@ -29686,7 +30702,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/data-protection.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/data-protection.html",
     "multiSelect": false
   },
   {
@@ -29715,6 +30732,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -29747,7 +30765,8 @@ export const questions = [
       "A",
       "C"
     ],
-    "explanation": "https://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html",
     "multiSelect": true
   },
   {
@@ -29780,7 +30799,8 @@ export const questions = [
       "A",
       "D"
     ],
-    "explanation": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html",
     "multiSelect": true
   },
   {
@@ -29809,6 +30829,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -29836,7 +30857,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://jayendrapatil.com/aws-consolidated-billing/",
+    "explanation": null,
+    "reference": "https://jayendrapatil.com/aws-consolidated-billing/",
     "multiSelect": false
   },
   {
@@ -29864,7 +30886,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/getting-started/hands-on/control-your-costs-free-tier-budgets/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/getting-started/hands-on/control-your-costs-free-tier-budgets/",
     "multiSelect": false
   },
   {
@@ -29892,7 +30915,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/macie/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/macie/",
     "multiSelect": false
   },
   {
@@ -29920,7 +30944,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/blogs/mt/monitoring-service-limits-with-trusted-advisor-and-amazon-cloudwatch/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/blogs/mt/monitoring-service-limits-with-trusted-advisor-and-amazon-cloudwatch/",
     "multiSelect": false
   },
   {
@@ -29948,7 +30973,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/hybrid/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/hybrid/",
     "multiSelect": false
   },
   {
@@ -29976,7 +31002,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://cloudcheckr.com/cloud-security/top-5-iam-best-practices/",
+    "explanation": null,
+    "reference": "https://cloudcheckr.com/cloud-security/top-5-iam-best-practices/",
     "multiSelect": false
   },
   {
@@ -30004,7 +31031,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": null,
+    "explanation": "Control Tower automates the process of setting up a new baseline multi-account AWS environment that is secure, well-architected, and ready to use. Control Tower incorporates the knowledge that AWS Professional Service has gained over the course of thousands of successful customer engagements.",
+    "reference": "https://aws.amazon.com/blogs/aws/aws-control-tower-set-up-govern-a-multi-account-aws-environment/",
     "multiSelect": false
   },
   {
@@ -30032,7 +31060,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/blogs/training-and-certification/explore-the-aws-transit-gateway-networking-and-scaling-digital-course/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/blogs/training-and-certification/explore-the-aws-transit-gateway-networking-and-scaling-digital-course/",
     "multiSelect": false
   },
   {
@@ -30060,7 +31089,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://docs.aws.amazon.com/waf/latest/developerguide/ddos-overview.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/waf/latest/developerguide/ddos-overview.html",
     "multiSelect": false
   },
   {
@@ -30088,7 +31118,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/ec2/pricing/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/ec2/pricing/",
     "multiSelect": false
   },
   {
@@ -30122,6 +31153,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -30149,7 +31181,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/ec2/pricing/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/ec2/pricing/",
     "multiSelect": false
   },
   {
@@ -30178,6 +31211,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -30206,6 +31240,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -30234,6 +31269,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -30262,6 +31298,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -30290,6 +31327,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -30318,6 +31356,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -30351,6 +31390,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -30384,6 +31424,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -30412,6 +31453,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -30440,6 +31482,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -30468,6 +31511,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -30501,6 +31545,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -30529,6 +31574,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -30557,6 +31603,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -30585,6 +31632,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -30613,6 +31661,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -30641,6 +31690,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -30669,6 +31719,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -30697,6 +31748,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -30725,6 +31777,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -30753,6 +31806,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -30786,6 +31840,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -30814,6 +31869,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -30842,6 +31898,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -30870,6 +31927,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -30898,6 +31956,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -30926,6 +31985,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -30954,6 +32014,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -30987,6 +32048,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -31020,6 +32082,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -31048,6 +32111,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -31076,6 +32140,7 @@ export const questions = [
       "D"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -31104,6 +32169,7 @@ export const questions = [
       "C"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -31132,7 +32198,8 @@ export const questions = [
       "B",
       "D"
     ],
-    "explanation": "https://aws.amazon.com/blogs/startups/large-scale-disaster-recovery-using-aws-regions/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/blogs/startups/large-scale-disaster-recovery-using-aws-regions/",
     "multiSelect": true
   },
   {
@@ -31160,7 +32227,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://aws.amazon.com/blogs/storage/migrating-hundreds-of-tb-of-data-to-amazon-s3-with-aws-datasync/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/blogs/storage/migrating-hundreds-of-tb-of-data-to-amazon-s3-with-aws-datasync/",
     "multiSelect": false
   },
   {
@@ -31188,7 +32256,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/rds/postgresql/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/rds/postgresql/",
     "multiSelect": false
   },
   {
@@ -31222,6 +32291,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -31249,7 +32319,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://docs.aws.amazon.com/AmazonS3/latest/dev/walkthrough1.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/AmazonS3/latest/dev/walkthrough1.html",
     "multiSelect": false
   },
   {
@@ -31277,7 +32348,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://aws.amazon.com/blogs/aws/aws-organizations-policy-based-management-for-multiple-aws-accounts/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/blogs/aws/aws-organizations-policy-based-management-for-multiple-aws-accounts/",
     "multiSelect": false
   },
   {
@@ -31305,7 +32377,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/ec2/pricing/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/ec2/pricing/",
     "multiSelect": false
   },
   {
@@ -31333,7 +32406,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/ce-forecast.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/ce-forecast.html",
     "multiSelect": false
   },
   {
@@ -31361,7 +32435,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://aws.amazon.com/compliance/shared-responsibility-model/?ref=wellarchitected",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/compliance/shared-responsibility-model/?ref=wellarchitected",
     "multiSelect": false
   },
   {
@@ -31389,7 +32464,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html",
     "multiSelect": false
   },
   {
@@ -31417,7 +32493,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/",
     "multiSelect": false
   },
   {
@@ -31445,7 +32522,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/",
     "multiSelect": false
   },
   {
@@ -31473,7 +32551,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ri-convertible-exchange.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ri-convertible-exchange.html",
     "multiSelect": false
   },
   {
@@ -31502,6 +32581,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -31529,7 +32609,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://docs.aws.amazon.com/pricing-calculator/latest/userguide/aws-pc.pdf",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/pricing-calculator/latest/userguide/aws-pc.pdf",
     "multiSelect": false
   },
   {
@@ -31562,7 +32643,8 @@ export const questions = [
       "A",
       "D"
     ],
-    "explanation": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html",
     "multiSelect": true
   },
   {
@@ -31590,7 +32672,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/about-aws/whats-new/2018/11/s3-intelligent-tiering/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/about-aws/whats-new/2018/11/s3-intelligent-tiering/",
     "multiSelect": false
   },
   {
@@ -31618,7 +32701,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/redshift/faqs/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/redshift/faqs/",
     "multiSelect": false
   },
   {
@@ -31646,7 +32730,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://docs.aws.amazon.com/config/latest/developerguide/evaluate-config.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/config/latest/developerguide/evaluate-config.html",
     "multiSelect": false
   },
   {
@@ -31674,7 +32759,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://www.gremlin.com/blog/implementing-cost-saving-strategies-on-amazon-ec-2-with-chaos-engineering/",
+    "explanation": null,
+    "reference": "https://www.gremlin.com/blog/implementing-cost-saving-strategies-on-amazon-ec-2-with-chaos-engineering/",
     "multiSelect": false
   },
   {
@@ -31703,6 +32789,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -31731,6 +32818,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -31763,7 +32851,8 @@ export const questions = [
       "C",
       "D"
     ],
-    "explanation": "https://aws.amazon.com/about-aws/whats-new/2016/06/aws-support-enables-tagging-capabilities-for-trusted-advisor/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/about-aws/whats-new/2016/06/aws-support-enables-tagging-capabilities-for-trusted-advisor/",
     "multiSelect": true
   },
   {
@@ -31797,6 +32886,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -31824,7 +32914,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://docs.aws.amazon.com/snowball/latest/ug/transfer-petabytes.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/snowball/latest/ug/transfer-petabytes.html",
     "multiSelect": false
   },
   {
@@ -31852,7 +32943,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/redshift/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/redshift/",
     "multiSelect": false
   },
   {
@@ -31881,6 +32973,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -31913,7 +33006,8 @@ export const questions = [
       "A",
       "C"
     ],
-    "explanation": "https://d0.awsstatic.com/whitepapers/overview-of-deployment-options-on-aws.pdf",
+    "explanation": null,
+    "reference": "https://d0.awsstatic.com/whitepapers/overview-of-deployment-options-on-aws.pdf",
     "multiSelect": true
   },
   {
@@ -31941,7 +33035,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/connect/customers/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/connect/customers/",
     "multiSelect": false
   },
   {
@@ -31969,7 +33064,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://calculator.aws/#/",
+    "explanation": null,
+    "reference": "https://calculator.aws/#/",
     "multiSelect": false
   },
   {
@@ -31997,7 +33093,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://d1.awsstatic.com/whitepapers/aws-security-whitepaper.pdf",
+    "explanation": null,
+    "reference": "https://d1.awsstatic.com/whitepapers/aws-security-whitepaper.pdf",
     "multiSelect": false
   },
   {
@@ -32025,7 +33122,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-reserved-instances.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-reserved-instances.html",
     "multiSelect": false
   },
   {
@@ -32053,7 +33151,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html",
     "multiSelect": false
   },
   {
@@ -32081,7 +33180,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_passwords_account-policy.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_passwords_account-policy.html",
     "multiSelect": false
   },
   {
@@ -32110,6 +33210,7 @@ export const questions = [
       "A"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -32137,7 +33238,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-pci-controls.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-pci-controls.html",
     "multiSelect": false
   },
   {
@@ -32165,7 +33267,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://aws.amazon.com/sqs/faqs/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/sqs/faqs/",
     "multiSelect": false
   },
   {
@@ -32193,7 +33296,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/awsaccountbilling-aboutv2.pdf",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/awsaccountbilling-aboutv2.pdf",
     "multiSelect": false
   },
   {
@@ -32221,7 +33325,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/getting-started/hands-on/control-your-costs-free-tier-budgets/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/getting-started/hands-on/control-your-costs-free-tier-budgets/",
     "multiSelect": false
   },
   {
@@ -32249,7 +33354,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/elasticbeanstalk/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/elasticbeanstalk/",
     "multiSelect": false
   },
   {
@@ -32277,7 +33383,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://www.amazonaws.cn/en/support/trustedadvisor/faq/#checks",
+    "explanation": null,
+    "reference": "https://www.amazonaws.cn/en/support/trustedadvisor/faq/#checks",
     "multiSelect": false
   },
   {
@@ -32310,7 +33417,8 @@ export const questions = [
       "A",
       "C"
     ],
-    "explanation": "https://aws.amazon.com/shield/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/shield/",
     "multiSelect": true
   },
   {
@@ -32338,7 +33446,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://aws.amazon.com/artifact",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/artifact",
     "multiSelect": false
   },
   {
@@ -32372,6 +33481,7 @@ export const questions = [
       "E"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": true
   },
   {
@@ -32399,7 +33509,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://aws.amazon.com/config/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/config/",
     "multiSelect": false
   },
   {
@@ -32432,7 +33543,8 @@ export const questions = [
       "A",
       "D"
     ],
-    "explanation": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-increase-availability.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-increase-availability.html",
     "multiSelect": true
   },
   {
@@ -32460,7 +33572,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-reserved-instances.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-reserved-instances.html",
     "multiSelect": false
   },
   {
@@ -32488,7 +33601,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://aws.amazon.com/premiumsupport/technology/personal-health-dashboard/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/premiumsupport/technology/personal-health-dashboard/",
     "multiSelect": false
   },
   {
@@ -32516,7 +33630,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.html",
     "multiSelect": false
   },
   {
@@ -32544,7 +33659,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/lambda/security-overview-of-aws-lambda/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/lambda/security-overview-of-aws-lambda/",
     "multiSelect": false
   },
   {
@@ -32572,7 +33688,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://aws.amazon.com/aws-cost-management/aws-budgets/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/aws-cost-management/aws-budgets/",
     "multiSelect": false
   },
   {
@@ -32600,7 +33717,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/nosql/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/nosql/",
     "multiSelect": false
   },
   {
@@ -32628,7 +33746,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://aws.amazon.com/ec2/spot/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/ec2/spot/",
     "multiSelect": false
   },
   {
@@ -32656,7 +33775,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/directconnect/partners/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/directconnect/partners/",
     "multiSelect": false
   },
   {
@@ -32689,7 +33809,8 @@ export const questions = [
       "A",
       "E"
     ],
-    "explanation": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html",
     "multiSelect": true
   },
   {
@@ -32717,7 +33838,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://docs.aws.amazon.com/codecommit/latest/userguide/welcome.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/codecommit/latest/userguide/welcome.html",
     "multiSelect": false
   },
   {
@@ -32745,7 +33867,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://www.coalfire.com/the-coalfire-blog/march-2019/aws-trusted-advisor-for-security-compliance",
+    "explanation": null,
+    "reference": "https://www.coalfire.com/the-coalfire-blog/march-2019/aws-trusted-advisor-for-security-compliance",
     "multiSelect": false
   },
   {
@@ -32773,7 +33896,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://d36cz9buwru1tt.cloudfront.net/AWS_Building_Fault_Tolerant_Applications.pdf",
+    "explanation": null,
+    "reference": "https://d36cz9buwru1tt.cloudfront.net/AWS_Building_Fault_Tolerant_Applications.pdf",
     "multiSelect": false
   },
   {
@@ -32801,7 +33925,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://aws.amazon.com/sns/faqs/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/sns/faqs/",
     "multiSelect": false
   },
   {
@@ -32834,7 +33959,8 @@ export const questions = [
       "C",
       "E"
     ],
-    "explanation": "https://wa.aws.amazon.com/wat.pillar.reliability.en.html",
+    "explanation": null,
+    "reference": "https://wa.aws.amazon.com/wat.pillar.reliability.en.html",
     "multiSelect": true
   },
   {
@@ -32867,7 +33993,8 @@ export const questions = [
       "B",
       "D"
     ],
-    "explanation": "https://aws.amazon.com/cloudfront/faqs/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/cloudfront/faqs/",
     "multiSelect": true
   },
   {
@@ -32895,7 +34022,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://aws.amazon.com/getting-started/projects/connect-data-center-to-aws/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/getting-started/projects/connect-data-center-to-aws/",
     "multiSelect": false
   },
   {
@@ -32923,7 +34051,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/artifact/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/artifact/",
     "multiSelect": false
   },
   {
@@ -32951,7 +34080,8 @@ export const questions = [
     "answers": [
       "B"
     ],
-    "explanation": "https://aws.amazon.com/waf/faq/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/waf/faq/",
     "multiSelect": false
   },
   {
@@ -32979,7 +34109,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://www.betsol.com/blog/how-to-make-high-availability-web-applications-on-amazon-web-services/",
+    "explanation": null,
+    "reference": "https://www.betsol.com/blog/how-to-make-high-availability-web-applications-on-amazon-web-services/",
     "multiSelect": false
   },
   {
@@ -33007,7 +34138,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/choosing-a-cloud-platform/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/choosing-a-cloud-platform/",
     "multiSelect": false
   },
   {
@@ -33035,7 +34167,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_getting-report.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_getting-report.html",
     "multiSelect": false
   },
   {
@@ -33068,7 +34201,8 @@ export const questions = [
       "A",
       "C"
     ],
-    "explanation": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html",
+    "explanation": null,
+    "reference": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html",
     "multiSelect": true
   },
   {
@@ -33096,7 +34230,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://aws.amazon.com/ec2/faqs/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/ec2/faqs/",
     "multiSelect": false
   },
   {
@@ -33124,7 +34259,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://aws.amazon.com/config/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/config/",
     "multiSelect": false
   },
   {
@@ -33152,7 +34288,8 @@ export const questions = [
     "answers": [
       "A"
     ],
-    "explanation": "https://aws.amazon.com/blogs/industries/how-to-build-a-global-scalable-low-latency-and-secure-machine-learning-medical-imaging-analysis-platform-on-aws/",
+    "explanation": null,
+    "reference": "https://aws.amazon.com/blogs/industries/how-to-build-a-global-scalable-low-latency-and-secure-machine-learning-medical-imaging-analysis-platform-on-aws/",
     "multiSelect": false
   },
   {
@@ -33180,7 +34317,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://kirkpatrickprice.com/blog/best-practices-for-privilege-management-in-aws/",
+    "explanation": null,
+    "reference": "https://kirkpatrickprice.com/blog/best-practices-for-privilege-management-in-aws/",
     "multiSelect": false
   },
   {
@@ -33208,7 +34346,8 @@ export const questions = [
     "answers": [
       "D"
     ],
-    "explanation": "https://innovationtactics.com/amazon-business-model-amazon-web-services/",
+    "explanation": null,
+    "reference": "https://innovationtactics.com/amazon-business-model-amazon-web-services/",
     "multiSelect": false
   },
   {
@@ -33236,7 +34375,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://d1.awsstatic.com/whitepapers/building-a-scalable-and-secure-multi-vpc-aws-network-infrastructure.pdf",
+    "explanation": null,
+    "reference": "https://d1.awsstatic.com/whitepapers/building-a-scalable-and-secure-multi-vpc-aws-network-infrastructure.pdf",
     "multiSelect": false
   },
   {
@@ -33265,6 +34405,7 @@ export const questions = [
       "B"
     ],
     "explanation": null,
+    "reference": null,
     "multiSelect": false
   },
   {
@@ -33292,7 +34433,8 @@ export const questions = [
     "answers": [
       "C"
     ],
-    "explanation": "https://docs.aws.amazon.com/waf/latest/developerguide/classic-web-acl-sql-conditions.html",
+    "explanation": "<https://docs.aws.amazon.com/waf/latest/developerguide/classic-web-acl-sql-conditions.html>",
+    "reference": "https://docs.aws.amazon.com/waf/latest/developerguide/classic-web-acl-sql-conditions.html",
     "multiSelect": false
   }
 ];

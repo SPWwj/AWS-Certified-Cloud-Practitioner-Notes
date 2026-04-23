@@ -138,7 +138,10 @@ export default function Quiz({ questions, title, resumeState, onFinish, onQuit }
                   : <span className="feedback-title">Correct: {q.answers.join(', ')}</span>
                 }
                 {q.explanation && (
-                  <a className="feedback-link" href={q.explanation} target="_blank" rel="noreferrer">
+                  <p className="feedback-explanation">{q.explanation}</p>
+                )}
+                {q.reference && (
+                  <a className="feedback-link" href={q.reference} target="_blank" rel="noreferrer">
                     View reference →
                   </a>
                 )}

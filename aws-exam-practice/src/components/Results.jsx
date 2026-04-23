@@ -138,7 +138,10 @@ export default function Results({ questions, answers, title, onHome, onRetryWron
                   </div>
                 )}
                 {q.explanation && (
-                  <a className="ex-link" href={q.explanation} target="_blank" rel="noreferrer">
+                  <p className="r-explanation">{q.explanation}</p>
+                )}
+                {q.reference && (
+                  <a className="ex-link" href={q.reference} target="_blank" rel="noreferrer">
                     📖 Reference →
                   </a>
                 )}
