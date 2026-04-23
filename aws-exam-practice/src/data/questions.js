@@ -23756,7 +23756,7 @@ export const questions = [
       }
     ],
     "answers": [
-      "B\n\n    E"
+      "B"
     ],
     "explanation": "https://aws.amazon.com/premiumsupport/knowledge-center/ec2-instance-hour-billing/",
     "multiSelect": false
