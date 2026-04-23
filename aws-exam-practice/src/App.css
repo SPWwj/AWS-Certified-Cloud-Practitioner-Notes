@@ -477,7 +477,7 @@
 
   /* Options — tighter, easier to tap */
   .options-list { gap: 7px; }
-  .option { padding: 12px 12px; font-size: .88rem; gap: 9px; }
+  .option { padding: 12px 12px; font-size: .88rem; gap: 9px; -webkit-tap-highlight-color: transparent; }
   /* Disable hover slide on touch devices */
   .option:not(:disabled):hover { transform: none; }
 
